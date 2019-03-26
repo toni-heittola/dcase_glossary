@@ -1,6 +1,6 @@
-# Glossary for computational audio content analysis
+# Glossary for Computational Audio Content Analysis
 
-The glossary collects key terms from the field of **computational audio content analysis**, and it can be accessed [here](http://www.cs.tut.fi/~heittolt/glossary).
+The glossary collects key terms from the field of **computational audio content analysis** (CASA), and it can be accessed [here](http://www.cs.tut.fi/~heittolt/glossary).
 This repository provides the data file used to generate the glossary for easier collaboration and attribution.  
 
 Glossary is stored in `glossary.yaml` file and is meant to be used with [pelican-bglossary](https://github.com/toni-heittola/pelican-bglossary) plugin in [Pelican](https://blog.getpelican.com/) static site generator. 
