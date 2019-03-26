@@ -1,0 +1,2052 @@
+glossary:
+  - term: auditory
+    definition: relating to hearing
+    fi: kuulonmukainen, kuuloon liittyvä, kuulo-
+    pl: audytywny, słuchowy
+    wiktionary: https://en.wiktionary.org/wiki/auditory
+
+  - term: auditory scene analysis
+    abbreviation: ASA
+    definition: a model proposed by Albert Bregman for the basis of auditory perception
+    fi: kuulomaisema-analyysi, kuulema-analyysi
+    wikipedia: https://en.wikipedia.org/wiki/Auditory_scene_analysis
+
+  - term: beamforming
+    definition: technique used in sensor arrays for directional signal reception or transmission
+    fi: keilanmuodostus
+    es: conformación de haces
+    pl: kształtowanie wiązki
+    wikipedia: https://en.wikipedia.org/wiki/Beamforming
+    wiktionary: https://en.wiktionary.org/wiki/beamforming
+
+  - term: binaural
+    definition: related to two ears
+    fi: binauraalinen, kaksikorvainen
+    pl: obuuszny, dwuuszny
+    wikipedia: https://en.wikipedia.org/wiki/Binaural_recording
+    wiktionary: https://en.wiktionary.org/wiki/binaural
+
+  - term: monaural
+    definition: related to one ears
+    fi: yksikorvainen
+    wiktionary: https://en.wiktionary.org/wiki/monaural
+
+  - term: computational auditory scene analysis
+    abbreviation: CASA
+    fi: laskennallinen kuulomaisema-analyysi, laskennallinen kuulema-analyysi
+    wikipedia: https://en.wikipedia.org/wiki/Computational_auditory_scene_analysis
+
+  - term: convolution
+    definition: mathematical operation of two functions to produce a third function that expresses how the shape of one is modified by the other
+    fi: konvoluutio
+    de: Faltung
+    es: convolución
+    fr: convolution, produit de composition
+    pl: splot
+    wikipedia: https://en.wikipedia.org/wiki/Convolution
+    wiktionary: https://en.wiktionary.org/wiki/convolution
+
+  - term: critical band
+    definition: the frequency bandwidth of the "auditory filter" created by the cochlea
+    fi: kriittinen kaista, kriittinen kaistanleveys
+    de: Frequenzgruppe
+    es: bandas críticas
+    pl: pasmo krytyczne
+    wikipedia: https://en.wikipedia.org/wiki/Critical_band
+
+  - term: duration
+    definition: a length of audio signal
+    fi: kesto
+    wiktionary: https://en.wiktionary.org/wiki/duration
+
+  - term: dynamic range
+    fi: dynamiikka-alue, dynamiikka
+    de: Dynamikumfang
+    es: rango dinámico
+    fr: gamme dynamique
+    pl: zakres dynamiczny
+    wikipedia: https://en.wikipedia.org/wiki/Dynamic_range
+
+  - term: filter
+    fi: suodin, suodatin
+    de: Filter
+    fr: filtre
+    es: filtro
+    pl: filtr
+    wikipedia: https://en.wikipedia.org/wiki/Filter_(signal_processing)
+    wiktionary: https://en.wiktionary.org/wiki/filter
+
+  - term: filter bank
+    definition: an array of band-pass filters
+    fi: suodinpankki
+    es: banco de filtros híbrido
+    pl: bank filtrów
+    wikipedia: https://en.wikipedia.org/wiki/Filter_bank
+
+  - term: frame
+    fi: kehys
+    de: Rahmen, Auswahlgrundlage
+    es: marco
+    fr: base de sondage
+    pl: ramka
+    wiktionary: https://en.wiktionary.org/wiki/frame
+
+  - term: frequency domain
+    fi: taajuusalue
+    fr: domaine de fréquence
+    es: dominio de frecuencia
+    de: Frequenzbereich
+    pl: dziedzina częstotliwości
+    wikipedia: https://en.wikipedia.org/wiki/Frequency_domain
+    intra_link: time domain
+
+  - term: frequency resolution
+    fi: taajuusresoluutio, taajuuserottelutarkkuus
+    pl: rozdzielczość częstotliwościowa
+
+  - term: harmonic
+    fi: harmoninen
+    pl: harmoniczny
+    wiktionary: https://en.wiktionary.org/wiki/harmonic
+
+  - term: implementation
+    fi: toteutus
+    pl: implementacja
+    wiktionary: https://en.wiktionary.org/wiki/implementation
+
+  - term: impulse response
+    fi: impulssivaste
+    pl: odpowiedź impulsowa
+    wikipedia: https://en.wikipedia.org/wiki/Impulse_response
+
+  - term: input
+    fi: sisäänmeno, syöte, tulo, otto
+    wiktionary: https://en.wiktionary.org/wiki/input
+
+  - term: jitter
+    fi: värinä
+    pl: drżenie, rozsynchronizowanie
+    wiktionary: https://en.wiktionary.org/wiki/jitter
+
+  - term: localization
+    fi: paikannus, lokalisaatio
+    pl: lokalizacja
+    wiktionary: https://en.wiktionary.org/wiki/localization
+
+  - term: loudness
+    fi: äänekkyys
+    pl: głośność
+    wikipedia: https://en.wikipedia.org/wiki/Loudness
+    wiktionary: https://en.wiktionary.org/wiki/loudness
+
+  - term: magnitude response
+    fi: magnitudivaste
+
+  - term: modal
+    fi: modaalinen, modaali-, moodi-
+    wiktionary: https://en.wiktionary.org/wiki/modal
+
+  - term: modeling
+    fi: mallintaminen, mallinnus
+    wiktionary: https://en.wiktionary.org/wiki/modeling
+
+  - term: multichannel, multiple channel
+    fi: monikanavainen, monikanava-
+    intra_link: single-channel
+
+  - term: single-channel
+    intra_link: multichannel
+
+  - term: narrowband
+    fi: kapeakaistainen, kapeakaista-
+    pl: wąskopasmowy
+    wiktionary: https://en.wiktionary.org/wiki/narrowband
+
+  - term: neural network
+    definition: network of (artificial) neurons
+    fi: neuroverkko, hermoverkko
+    de: neuronales Netzwerk
+    fr: réseau de neurones
+    es: red de los nervios
+    pl: sieć neuronowa
+    wikipedia: https://en.wikipedia.org/wiki/Neural_network
+
+  - term: neuron
+    definition: a node in a neural network taking in multiple values and generating single value as an output
+    fi: neuroni
+    pl: neuron
+    wiktionary: https://en.wiktionary.org/wiki/neuron
+
+  #- term: node
+  #  definition: in neural network, a neuron
+
+  - term: noise
+    fi: kohina, melu, häly, häiriö
+    pl: szum, hałas
+    wikipedia: https://en.wikipedia.org/wiki/Noise
+    wiktionary: https://en.wiktionary.org/wiki/noise
+
+  - term: nonlinear, non-linear
+    fi: epälineaarinen
+    pl: nieliniowy
+    wiktionary: https://en.wiktionary.org/wiki/nonlinear
+
+  - term: output
+    fi: ulostulo, lähtö, anto, tuloste
+    wiktionary: https://en.wiktionary.org/wiki/output
+    intra_link: input
+
+  - term: parallel
+    fi: rinnakkainen, rinnakkais-
+    pl: równoległy
+    wiktionary: https://en.wiktionary.org/wiki/parallel
+
+  - term: perception
+    fi: havainto, havaitseminen
+    es: percepción
+    de: Wahrnehmung
+    pl: percepcja
+    wikipedia: https://en.wikipedia.org/wiki/Perception
+    wiktionary: https://en.wiktionary.org/wiki/perception
+
+  - term: perceptual
+    fi: havainnonmukainen
+    wiktionary: https://en.wiktionary.org/wiki/perceptual
+    intra_link: perception
+
+  - term: pitch
+    fi: äänenkorkeus, sävelkorkeus
+    de: Tonhöhe
+    es: altura
+    pl: wysokość dźwięku
+    wikipedia: https://en.wikipedia.org/wiki/Pitch_(music)
+    wiktionary: https://en.wiktionary.org/wiki/pitch
+
+  - term: pitch shifting
+    fi: äänenkorkeuden muuttaminen
+    de: Tonhöhenänderung
+    wikipedia: https://en.wikipedia.org/wiki/Pitch_shift
+    intra_link: pitch
+
+  - term: quantization, quantizing
+    fi: kvantisointi
+    fr: quantification
+    de: Quantisierung
+    es: cuantificación digital
+    pl: kwantyzacja
+    wikipedia: https://en.wikipedia.org/wiki/Quantization_(signal_processing)
+
+  - term: random noise
+    fi: satunnaiskohina
+    pl: szum losowy
+
+  - term: reverberation
+    fi: jälkikaiku, jälkikaiunta, kaiunta
+    de: Nachhall
+    es: reverberación
+    pl: pogłos
+    wikipedia: https://en.wikipedia.org/wiki/Reverberation
+    wiktionary: https://en.wiktionary.org/wiki/reverberation
+
+  - term: short-time Fourier transform
+    abbreviation: STFT
+    fr: transformée de Fourier à court terme
+    fi: lyhytaikainen Fourier-muunnos
+    de: Kurzzeit-Fourier-Transformation
+    es: transformada de Fourier de tiempo reducido
+    wikipedia: https://en.wikipedia.org/wiki/Short-time_Fourier_transform
+
+  - term: signal processing
+    fi: signaalinkäsittely
+    de: Signalverarbeitung
+    pl: przetwarzanie sygnałów
+    wikipedia: https://en.wikipedia.org/wiki/Signal_processing
+
+  - term: signal-to-noise ratio
+    abbreviation: SNR
+    fi: signaali-kohinasuhde, häiriöetäisyys
+    de: Signal-Rausch-Verhältnis
+    es: relación señal/ruido
+    pl: stosunek sygnału do szumu
+    wikipedia: https://en.wikipedia.org/wiki/Signal-to-noise_ratio
+
+  - term: sound event
+    fi: äänitapahtuma
+    pl: zdarzenie akustyczne
+
+  - term: sound event detection
+    abbreviation: SED
+    fi: äänitapahtuman havaitseminen, äänitapahtuman tunnistus
+    intra_link: sound event
+
+  - term: sound pressure
+    fi: äänenpaine, äänipaine
+    fr: pression acoustique
+    de: Schalldruckpegel
+    es: nivel de presión sonora
+    pl: ciśnienie akustyczne
+    wikipedia: https://en.wikipedia.org/wiki/Sound_pressure
+
+  - term: sound pressure level
+    abbreviation: SPL
+    fi: äänenpainetaso, äänipainetaso
+    wikipedia: https://en.wikipedia.org/wiki/Sound_pressure#Sound_pressure_level
+    intra_link: sound pressure
+
+  - term: sound quality
+    fi: äänenlaatu
+    pl: jakość dźwięku
+
+  - term: source proximity
+    fi: äänilähteen läheisyys
+
+  - term: system
+    fi: järjestelmä
+    wiktionary: https://en.wiktionary.org/wiki/system
+
+  - term: texture
+    fi: tekstuuri
+    wiktionary: https://en.wiktionary.org/wiki/texture
+
+  - term: time domain
+    fi: aika-alue
+    de: Zeitbereich
+    fr: dans le domaine temporel
+    es: el dominio del tiempo
+    wikipedia: https://en.wikipedia.org/wiki/Time_domain
+
+  - term: transfer function
+    fi: siirtofunktio, muunnosfunktio
+    de: Übertragungsfunktion
+    es: función de transferencia
+    fr: fonction de transfert
+    wikipedia: https://en.wikipedia.org/wiki/Transfer_function
+
+  - term: waveform
+    fi: aaltomuoto
+    de: Waveform
+    wikipedia: https://en.wikipedia.org/wiki/Waveform
+    wiktionary: https://en.wiktionary.org/wiki/waveform
+
+  - term: wavelets
+    fi: aallokkeet
+    de: Wavelets
+    fr: ondelettes
+    wikipedia: https://en.wikipedia.org/wiki/Wavelet
+
+  - term: wideband
+    fi: laajakaistainen, laajakaista-
+    wiktionary: https://en.wiktionary.org/wiki/wideband
+
+  #- term: ambisonics
+  #  fr: ambisonie
+  #  wikipedia: https://en.wikipedia.org/wiki/Ambisonics
+  #  wiktionary: https://en.wiktionary.org/wiki/ambisonics
+
+  - term: detection and classification of acoustic scenes and events
+    abbreviation: DCASE
+
+  - term: deep learning
+    definition: a multi-level algorithm that gradually identifies things at higher levels of abstraction
+    fi: syväoppiminen
+    es: aprendizaje profundo
+    wikipedia: https://en.wikipedia.org/wiki/Deep_learning
+
+  - term: deep neural network
+    abbreviation: DNN
+    definition: neural network containing multiple hidden layers
+    fi: syvä neuroverkko
+    wikipedia: https://en.wikipedia.org/wiki/Deep_learning#Deep_neural_networks
+
+  - term: machine listening
+    definition: field of study of algorithms and systems for audio understanding by machine
+    fi: konekuulo
+    pl: słyszenie maszynowe
+    wikipedia: https://en.wikipedia.org/wiki/Computer_audition
+
+  - term: computer audition
+    definition: field of study of algorithms and systems for audio understanding by machine
+    abbreviation: CA
+    es: audición por computadora
+    wikipedia: https://en.wikipedia.org/wiki/Computer_audition
+
+  - term: machine learning
+    abbreviation: ML
+    definition: field of artificial intelligence that uses statistical techniques to give computer systems the ability to "learn" from data, without being explicitly programmed
+    fi: koneoppiminen
+    de: Maschinelles Lernen
+    es: aprendizaje automático
+    fr: apprentissage automatique
+    pl: uczenie maszynowe
+    wikipedia: https://en.wikipedia.org/wiki/Machine_learning
+
+  - term: crowdsourcing
+    fi: joukkoistaminen, talkoistaminen
+    wikipedia: https://en.wikipedia.org/wiki/Crowdsourcing
+    wiktionary: https://en.wiktionary.org/wiki/crowdsourcing
+
+  - term: detection
+    fi: havaitseminen, ilmaiseminen, ilmaisu, löytäminen
+    pl: detekcja, wykrywanie, odkrywanie
+    wiktionary: https://en.wiktionary.org/wiki/detection
+
+  - term: classification
+    definition: identification of which categories an item belong
+    fi: luokittelu, luokitus
+    de: Klassifizierung
+    fr: classement, classification
+    es: clasificación
+    wiktionary: https://en.wiktionary.org/wiki/classification
+
+  - term: ontology
+    definition: a structure of concepts or entities within a domain which are organized by relationships
+    fi: ontologia
+    de: Ontologie
+    fr: ontologie
+    pl: ontologia
+    wikipedia: https://en.wikipedia.org/wiki/Ontology
+    wiktionary: https://en.wiktionary.org/wiki/ontology
+
+  - term: taxonomy
+    definition: a classification in a hierarchical system
+    fi: taksonomia, luokittelu
+    de: Taxonomie
+    fr: taxonomie
+    wiktionary: https://en.wiktionary.org/wiki/taxonomy
+
+  - term: folksonomy
+    definition: classification based on user's tags
+    fi: folksonomia
+    es: folcsonomía
+    fr: folksonomie
+    wikipedia: https://en.wikipedia.org/wiki/Folksonomy
+    wiktionary: https://en.wiktionary.org/wiki/folksonomy
+
+  - term: monitoring
+    fi: monitorointi, valvonta, tarkkailu, seuranta
+    wiktionary: https://en.wiktionary.org/wiki/monitoring
+
+  - term: wildlife monitoring
+    fi: villieläinten seuranta, luonnon seuranta
+
+  - term: generalisation, generalization
+    definition: model's ability to predict correctly on data not used for training the model
+    fi: yleistäminen, yleistys
+
+  - term: audio dataset
+    definition: a collection of audio examples used for system development
+
+  - term: semi-supervised learning
+    definition: machine learning technique to use small amount of labeled data and large amount of unlabeled data in the learning stage
+    fi: puoliohjattu oppiminen
+    fr: apprentissage semi-supervisé
+    es: aprendizaje semisupervisado
+    wikipedia: https://en.wikipedia.org/wiki/Semi-supervised_learning
+
+  - term: convolutional neural network
+    abbreviation: CNN
+    definition: a neural network with convolutional layers along with pooling and fully connected layers
+    fi: konvoluutioverkko
+    es: redes neuronales convolucionales
+    fr: réseau neuronal convolutif
+    wikipedia: https://en.wikipedia.org/wiki/Convolutional_neural_network
+    intra_link: neural network, deep neural network
+
+  - term: recurrent neural network
+    abbreviation: RNN
+    definition: a neural network to model sequential interactions through a hidden stage or memory
+    fi: uusiutuva neuroverkko, toistuva neuroverkko
+    de: Rekurrentes Neuronales Netz
+    fr: réseau de neurones récurrents
+    wikipedia: https://en.wikipedia.org/wiki/Recurrent_neural_network
+    intra_link: neural network, deep neural network
+
+  - term: system development
+    fi: järjestelmäkehitys, järjestelmän kehitys
+
+  - term: transfer learning
+    definition: a research problem focusing on storing knowledge gained while solving one problem and applying it to a different problem
+    fi: siirto-oppiminen, siirretty oppiminen
+    fr: apprentissage par transfert
+    wikipedia: https://en.wikipedia.org/wiki/Transfer_learning
+
+  - term: leaderboard
+    definition: a board showing the ranking of participant in a competition
+    fi: tulostaulukko
+    wiktionary: https://en.wiktionary.org/wiki/leaderboard
+
+  - term: k-fold cross-validation
+    fi: k-kertainen ristiinvalidointi, k-ositettu ristiinvalidointi
+    intra_link: cross-validation
+
+  - term: prediction error
+    fi: ennustevirhe
+    pl: błąd predykcji
+
+  - term: cross-validation
+    definition: a method for estimating generalization of a system for new data by reserving a subset of dataset only for testing
+    fi: ristiinvalidointi, ristivalidointi
+    de: Kreuzvalidierung, Kreuzvalidierungsverfahren
+    fr: validation croisée
+    es: validación cruzada
+    pl: kroswalidacja, sprawdzian krzyżowy
+    wikipedia: https://en.wikipedia.org/wiki/Cross-validation_(statistics)
+    wiktionary: https://en.wiktionary.org/wiki/cross-validation
+
+  - term: sensor
+    fi: anturi, ilmaisin, sensori
+    wiktionary: https://en.wiktionary.org/wiki/sensor
+
+  - term: sensor node
+    intra_link: sensor
+
+  - term: baseline system
+    definition: system used as reference point for comparing how well currently developed system is performing
+
+  - term: repository
+    fi: säilö, tietolähde
+    wiktionary: https://en.wiktionary.org/wiki/repository
+
+  - term: annotation
+    definition: adding metadata to audio
+    fi: annotointi
+    pl: adnotacja, przypis
+    wiktionary: https://en.wiktionary.org/wiki/annotation
+
+  - term: model
+    definition: in machine learning system, a parameter set learned from the training data
+    fi: malli
+    pl: model
+    wiktionary: https://en.wiktionary.org/wiki/model
+
+  - term: acoustic model
+    definition: in speech recognition system, model learned from acoustic data
+    fi: akustinen malli
+    pl: model akustyczny
+    wikipedia: https://en.wikipedia.org/wiki/Acoustic_model
+
+  - term: downmixing, down-mixing
+    definition: mixing audio channels together
+    wikipedia: https://en.wikipedia.org/wiki/Audio_mixing_(recorded_music)#Downmixing
+
+  - term: decision boundary
+    definition: learned separating boundary between classes
+    fi: päätösraja
+    wikipedia: https://en.wikipedia.org/wiki/Decision_boundary
+
+  - term: discriminative learning
+    definition: modeling the dependence of a target variable y on an observed variable x
+    wikipedia: https://en.wikipedia.org/wiki/Discriminative_model
+    intra_link: generative learning
+
+  - term: generative learning
+    wikipedia: https://en.wikipedia.org/wiki/Generative_model
+    fi: generatiivinen oppiminen
+    intra_link: discriminative learning
+
+  - term: hidden Markov model
+    abbreviation: HMM
+    fi: kätketty Markovin malli, Markovin piilomalli
+    de: verborgenes Markow-Modell, verdecktes Markow-Modell
+    es: modelo oculto de Márkov, modelo de Markov ocultado
+    fr: modèle de Markov caché, modèle caché de Markov
+    pl: ukryte modele Markowa
+    wikipedia: https://en.wikipedia.org/wiki/Hidden_Markov_model
+
+  - term: underfitting
+    definition: a model with low predictive ability because it does not model the training data well nor it does generalize to new data
+    fi: alisovittaminen
+    intra_link: overfitting
+    wiktionary: https://en.wiktionary.org/wiki/underfitting
+
+  - term: single-label classification
+    definition: classification type where single class label may be assigned to each instance
+    intra_link: binary classification, multi-label classification
+
+  - term: multi-label classification
+    definition: classification type where multiple class labels may be assigned to each instance
+    wikipedia: https://en.wikipedia.org/wiki/Multi-label_classification
+    intra_link: single-label classification
+
+  - term: multi-class classification
+    definition: classification type where prediction is done between three or more classes
+    fi: moniluokkainen luokittelu
+    wikipedia: https://en.wikipedia.org/wiki/Multiclass_classification
+
+  - term: error rate
+    fi: virhetaajuus, vikataajuus, virhesuhde
+
+  - term: convolutional recurrent neural network
+    abbreviation: CRNN
+    intra_link: neural network, deep neural network
+
+  - term: gated recurrent unit
+    abbreviation: GRU
+    wikipedia: https://en.wikipedia.org/wiki/Gated_recurrent_unit
+    intra_link: neural network, deep neural network
+
+  - term: Gaussian mixture model
+    abbreviation: GMM
+    fi: Gaussin sekoitemalli, Gaussinen sekoitemalli
+    wikipedia: https://en.wikipedia.org/wiki/Mixture_model#Gaussian_mixture_model
+    intra_link: mixture model
+
+  - term: mel-frequency cepstral coefficients
+    abbreviation: MFCCs
+    fi: Mel-kepstrikertoimet
+    de: Mel-Frequenz-Cepstrum-Koeffizienten
+    wikipedia: https://en.wikipedia.org/wiki/Mel-frequency_cepstrum
+
+  - term: support vector machine
+    abbreviation: SVM
+    fi: tukivektorikone
+    es: máquinas de vectores de soporte
+    fr: machine à vecteurs de support
+    wikipedia: https://en.wikipedia.org/wiki/Support_vector_machine
+
+  - term: random forest
+    abbreviation: RF
+    definition: an ensemble learning method which constructs a multiple decision trees at training stage
+    fi: satunnaismetsä
+    fr: forêt d'arbres décisionnels
+    wikipedia: https://en.wikipedia.org/wiki/Random_forest
+
+  - term: supervised learning
+    definition: learning method which learns from labeled examples
+    fi: ohjattu oppiminen
+    de: Überwachtes Lernen
+    es: aprendizaje supervisado
+    fr: apprentissage supervisé
+    pl: uczenie pod nadzorem, uczenie nadzorowane
+    wikipedia: https://en.wikipedia.org/wiki/Supervised_learning
+    intra_link: unsupervised learning
+
+  - term: nearest neighbor
+    fi: lähin naapuri
+    fr: Recherche des plus proches voisins
+    wikipedia: https://en.wikipedia.org/wiki/Nearest_neighbor_search
+    intra_link: k-nearest-neighbor
+
+  - term: decision tree
+    definition: a learning method using tree-like decision graph
+    fi: päätöspuu
+    pl: drzewo decyzyjne
+    wikipedia: https://en.wikipedia.org/wiki/Decision_tree_learning
+
+  - term: regression analysis
+    fi: regressioanalyysi
+    de: Regressionsanalyse
+    es: análisis de la regresión
+    pl: analiza regresji
+    wikipedia: https://en.wikipedia.org/wiki/Regression_analysis
+
+  - term: feature selection
+    fi: piirrevalinta
+    es: selección de variable
+    fr: sélection de caractéristique
+    pl: wybór cech
+    wikipedia: https://en.wikipedia.org/wiki/Feature_selection
+
+  - term: multilayer perceptron
+    abbreviation: MLP
+    fi: monikerroksinen perseptroniverkko
+    de: Mehrlagiges Perzeptron
+    es: perceptrón multicapa
+    fr: perceptron multicouche
+    pl: perceptron wielowarstwowy
+    wikipedia: https://en.wikipedia.org/wiki/Multilayer_perceptron
+    intra_link: neural network, deep neural network
+
+  - term: backpropagation, backprop
+    definition: method used in neural networks to calculate gradient descent
+    fi: vastavirta, takaisinvirtaus, takaisinlevitys
+    es: propagación hacia atrás
+    fr: rétropropagation du gradient
+    wikipedia: https://en.wikipedia.org/wiki/Backpropagation
+
+  - term: self-organizing map
+    abbreviation: SOM
+    definition: artificial neural network that is trained using unsupervised learning to produce a low-dimensional discretized representation of the input space
+    fi: itseorganisoituva kartta
+    de: Selbstorganisierende Karte
+    es: mapa autoorganizado
+    fr: carte auto adaptative
+    pl: sieć samoorganizująca się, sieć Kohonena
+    wikipedia: https://en.wikipedia.org/wiki/Self-organizing_map
+
+  - term: classifier
+    fi: luokittelija, luokitin
+    pl: klasyfikator
+    wiktionary: https://en.wiktionary.org/wiki/classifier
+    intra_link: classification
+
+  - term: feature
+    definition: a measurable property of the acoustic signal
+    fi: piirre
+    pl: cecha, atrybut
+    wiktionary: https://en.wiktionary.org/wiki/feature
+    intra_link: acoustic feature
+
+  - term: pattern recognition
+    fi: hahmontunnistus
+    de: Mustererkennung
+    fr: identification des signes, reconnaissance des formes
+    es: reconocimiento de formas, reconocimiento de patrones
+    pl: rozpoznawanie wzorca
+
+  - term: artificial intelligence
+    abbreviation: AI
+    definition: an ability to have machines act with apparent intelligence
+    fi: tekoäly
+    de: Künstliche Intelligenz
+    es: inteligencia artificial
+    fr: intelligence artificielle
+    pl: sztuczna inteligencja
+    wikipedia: https://en.wikipedia.org/wiki/Artificial_intelligence
+
+  - term: unsupervised learning
+    definition: machine learning technique to learn from unlabeled data
+    fi: ohjaamaton oppiminen
+    de: Unüberwachtes Lernen
+    es: aprendizaje no supervisado
+    fr: apprentissage non supervisé
+    wikipedia: https://en.wikipedia.org/wiki/Unsupervised_learning
+    intra_link: supervised learning
+
+  - term: reinforcement learning
+    definition: machine learning technique to focusing on peformance, finding a balance between exploration of new knowledge and exploitation of current knowledge
+    fi: vahvistusoppiminen, palauteoppiminen
+    de: Bestärkendes Lernen
+    fr: apprentissage par renforcement
+    es: aprendizaje por refuerzo
+    wikipedia: https://en.wikipedia.org/wiki/Reinforcement_learning
+
+  - term: speech recognition
+    fi: puheentunnistus
+    de: Spracherkennung
+    es: reconocimiento del habla
+    fr: reconnaissance automatique de la parole
+    pl: rozpoznawanie mowy
+    wikipedia: https://en.wikipedia.org/wiki/Speech_recognition
+
+  - term: speech processing
+    fi: puheteknologia
+    wikipedia: https://en.wikipedia.org/wiki/Speech_processing
+
+  - term: speech analysis
+    fi: puheanalyysi
+    pl: analiza mowy
+    wikipedia: https://en.wikipedia.org/wiki/Voice_analysis
+
+  - term: spectrogram
+    fi: spektrogrammi
+    de: Spektrogramm
+    es: espectrograma
+    fr: spectrogramme
+    pl: spektrogram
+    wikipedia: https://en.wikipedia.org/wiki/Spectrogram
+    wiktionary: https://en.wiktionary.org/wiki/spectrogram
+
+  - term: psychoacoustics
+    definition: the scientific study of sound perception and audiology
+    fi: psykoakustiikka
+    de: Psychoakustik
+    es: psicoacústica
+    fr: psychoacoustique
+    pl: psychoakustyka
+    wikipedia: https://en.wikipedia.org/wiki/Psychoacoustics
+    wiktionary: https://en.wiktionary.org/wiki/psychoacoustics
+
+  - term: overfitting
+    definition: a model that models the training data too closely and fails to predict correcly on new data
+    fi: ylisovittaminen, ylisovittuminen
+    de: Überanpassung
+    fr: surapprentissage
+    es: sobreajuste
+    pl: przeuczenie, przetrenowanie
+    wikipedia: https://en.wikipedia.org/wiki/Overfitting
+    wiktionary: https://en.wiktionary.org/wiki/overfitting
+    intra_link: underfitting
+
+  - term: search algorithm
+    fi: hakualgoritmi
+    de: Suchverfahren
+    fr: algorithme de recherche
+    es: algoritmo de búsqueda
+    wikipedia: https://en.wikipedia.org/wiki/Search_algorithm
+
+  - term: model selection
+    definition: a task of selecting a model from a set of candidate models based on data
+    fi: mallin valinta
+    pl: wybór modelu
+    wikipedia: https://en.wikipedia.org/wiki/Model_selection
+
+  - term: robustness
+    fi: robustisuus, vakaus, jäykkyys
+    de: Robustheit
+    es: robustez
+    fr: robustesse
+    wiktionary: https://en.wiktionary.org/wiki/robustness
+
+  - term: linear prediction
+    definition: a mathematical operation to estimate future values as a linear function of previous values
+    fi: lineaariprediktio, lineaarinen ennustus, lineaarinen ennustaminen
+    de: Lineare vorhersage
+    pl: predykcja liniowa
+    wikipedia: https://en.wikipedia.org/wiki/Linear_prediction
+
+  - term: computational modeling
+    fi: laskennallinen mallinnus
+
+  - term: language acquisition
+    fi: kielenoppiminen
+    de: Spracherwerb
+    es: desarrollo del lenguaje
+    fr: acquisition du langage
+    wikipedia: https://en.wikipedia.org/wiki/Language_acquisition
+
+  - term: cognitive modeling
+    fi: kognitiivinen mallinnus
+    pl: modelowanie kognitywne
+    wikipedia: https://en.wikipedia.org/wiki/Cognitive_model
+
+  - term: speech segmentation
+    fi: puheen segmentointi
+    pl: segmentacja mowy
+    wikipedia: https://en.wikipedia.org/wiki/Speech_segmentation
+
+  - term: clustering
+    definition: grouping related examples together
+    fi: ryhmittely, ryhmittelyanalyysi, klusterointi, ryvästäminen
+    de: Verklumpung, verklumpend, in Klumpen auftretend
+    es: clasificación
+    fr: classification, classement
+    pl: analiza skupień
+    wikipedia: https://en.wikipedia.org/wiki/Cluster_analysis
+    wiktionary: https://en.wiktionary.org/wiki/clustering
+
+  - term: feature extraction
+    fi: piirreirroitus, piirteistys
+    fr: extraction de caractéristique
+    pl: ekstrakcja cech
+    wikipedia: https://en.wikipedia.org/wiki/Feature_extraction
+
+  - term: audio classification
+    fi: äänimateriaalien luokittelu
+    pl: klasyfikacja akustyczna
+    intra_link: classification
+
+  - term: retrieval
+    fi: haku
+    wiktionary: https://en.wiktionary.org/wiki/retrieval
+
+  - term: computational audio content analysis
+    fi: äänen laskennallinen sisältöanalyysi
+    intra_link: content analysis
+
+  - term: content analysis
+    fi: sisältöanalyysi
+    de: Inhaltsanalyse
+    fr: analyse de contenu
+    es: análisis de contenidos
+    pl: analiza treści
+    wikipedia: https://en.wikipedia.org/wiki/Content_analysis
+
+  - term: segmentation
+    fi: segmentointi
+    pl: segmentacja
+    wiktionary: https://en.wiktionary.org/wiki/segmentation
+
+  - term: audiovisual data
+    fi: audiovisuaalinen data
+
+  - term: bioacoustics
+    definition: cross-disciplinary science that combines biology and acoustics
+    fi: bioakustiikka
+    es: bioacústica
+    fr: bioacoustique
+    de: Bioakustik
+    pl: bioakustyka
+    wikipedia: https://en.wikipedia.org/wiki/Bioacoustics
+    wiktionary: https://en.wiktionary.org/wiki/bioacoustics
+
+  - term: naive Bayesian classification
+    fi: naiivi bayesiläinen luokittelu
+    pl: naiwna klasyfikacja bayesowska
+
+  - term: category
+    definition: a group to which items are assigned based on similarity or defined criteria
+    fi: luokka, kategoria
+    pl: kategoria
+    wiktionary: https://en.wiktionary.org/wiki/category
+
+  - term: corpus
+    fi: kokoelma, aineisto
+    pl: korpus, zbiór
+    wiktionary: https://en.wiktionary.org/wiki/corpus
+
+  - term: training set
+    definition: subset of data used to train the system, disjunct from the test set
+    fi: opetusjoukko
+    intra_link: test set, validation set
+
+  - term: test set
+    definition: subset of data used to test the system, disjunct from the training set
+    fi: testausjoukko, testijoukko
+    intra_link: training set, validation set
+
+  - term: validation set
+    definition: subset of data used to adjust hyperparameters, disjunct from the training set and test set
+    fi: validointijoukko
+    intra_link: training set, test set
+
+  - term: precision
+    definition: a measure how often prediction is correct when predicting the positive class
+    fi: tarkkuus, täsmällisyys
+    de: Präzision
+    fr: précision, reproducibilité
+    es: precisión
+    wiktionary: https://en.wiktionary.org/wiki/precision
+    intra_link: recall, F-score, evaluation metric
+
+  - term: recall
+    definition: a measure how many positive classes were correctly predicted
+    fi: saanti
+    wiktionary: https://en.wiktionary.org/wiki/recall
+    intra_link: precision, F-score, evaluation metric
+
+  - term: micro-averaging
+    fi: mikrokeskiarvoistaminen
+    intra_link: evaluation metric
+
+  - term: macro-averaging
+    fi: makrokeskiarvoistaminen
+    intra_link: evaluation metric
+
+  - term: word sense disambiguation
+    definition: identifying which sense of a word is used in a sentence, when the word has multiple meanings
+    fi: sananmerkitysten yksikäsitteistäminen
+    de: Disambiguierung
+    es: desambiguación lingüística
+    fr: désambiguïsation lexicale
+    wikipedia: https://en.wikipedia.org/wiki/Word-sense_disambiguation
+
+  - term: part-of-speech tagging
+    abbreviation: POS tagging
+    definition: the process of marking up a word in a text as corresponding to a particular part of speech
+    fi: sanaluokan merkitseminen
+    de: Part-of-speech-Tagging
+    es: etiquetado gramatical
+    fr: étiquetage morpho-syntaxique
+    wikipedia: https://en.wikipedia.org/wiki/Part-of-speech_tagging
+    intra_link: part of speech
+
+  - term: boosting
+    definition: a machine learning technique which iteratively combines weak classifiers into a classifier with higher accuracy
+    fi: oppimisen kiihdyttäminen
+    wikipedia: https://en.wikipedia.org/wiki/Boosting_(machine_learning)
+
+  - term: salient
+    fi: keskeinen
+    wiktionary: https://en.wiktionary.org/wiki/salient
+
+  - term: saliency
+    fi: keskeisyys
+    wiktionary: https://en.wiktionary.org/wiki/saliency
+
+  - term: parsing
+    fi: jäsentäminen
+    wiktionary: https://en.wiktionary.org/wiki/parsing
+
+  - term: part of speech
+    abbreviation: POS
+    fi: sanaluokka
+    de: Wortart
+    es: categoría gramatical
+    fr: nature
+    pl: część mowy
+    wikipedia: https://en.wikipedia.org/wiki/Part_of_speech
+    intra_link: part-of-speech tagging
+
+  - term: pattern
+    fi: hahmo
+    wiktionary: https://en.wiktionary.org/wiki/pattern
+
+  - term: hyponym
+    fi: hyponyymi, alakäsite
+    wiktionary: https://en.wiktionary.org/wiki/hyponym
+
+  - term: prior probability, a priori probability
+    fi: prioritodennäköisyys
+    de: Prior-Wahrscheinlichkeit, A-priori-Wahrscheinlichkeit
+    es: probabilidad a priori, apuestas a priori
+    fr: probabilité a priori
+    wikipedia: https://en.wikipedia.org/wiki/Prior_probability
+    intra_link: prior distribution
+
+  - term: accuracy
+    definition: The fraction of system output which was predicted correctly
+    fi: tarkkuus
+    de: Genauigkeit, Exaktheit
+    es: exactitud, precisión
+    fr: précision, justesse, exactitude
+    pl: dokładność, precyzja
+    wiktionary: https://en.wiktionary.org/wiki/accuracy
+    intra_link: evaluation metric
+
+  - term: F-score, f1-score
+    definition: an evaluation metric to take into account both the precision and the recall
+    es: Valor-F
+    wikipedia: https://en.wikipedia.org/wiki/F1_score
+    intra_link: evaluation metric
+
+  - term: aggregation
+    fi: yhdistäminen, aggregointi
+    de: Aggregation
+    es: agregación
+    fr: agrégation
+    pl: agregacja
+    wiktionary: https://en.wiktionary.org/wiki/aggregation
+
+  - term: cluster analysis
+    fi: ryhmittelyanalyysi, ryväsanalyysi, klusterianalyysi
+    es: análisis de conglomerados, clasificación automática
+    de: Clusteranalyse
+    fr: analyse des conglomérats
+
+  - term: cluster
+    fi: ryhmä, ryväs, klusteri
+    es: conglomerado
+    de: Cluster, Klumpen, geschlossene Erfassungsgruppe
+    fr: grappe, conglomérat
+    wiktionary: https://en.wiktionary.org/wiki/cluster
+    intra_link: cluster analysis
+
+  - term: confidence interval
+    abbreviation: CI
+    definition: interval estimate computed from the statistics of the observed data, that might contain the true value of an unknown population parameter
+    fi: luottamusväli
+    de: Konfidenzintervall, Vertrauensintervall
+    fr: intervalle de confiance
+    es: intervalo de confianza
+    wikipedia: https://en.wikipedia.org/wiki/Confidence_interval
+
+  - term: data
+    fi: data, havaintoaineisto
+    wiktionary: https://en.wiktionary.org/wiki/data
+
+  - term: data augmentation
+    definition: artificially increasing the number of training examples
+    fi: aineiston täydennys, datan laajennus
+
+  - term: data preprocessing
+    fi: datan esikäsittely, aineiston esikäsittely
+    intra_link: data post-processing
+
+  - term: data post-processing
+    fi: datan jälkikäsittely, aineiston jälkikäsittely
+    intra_link: data preprocessing
+
+  - term: deterministic
+    fi: deterministinen
+    pl: deterministyczny
+    wiktionary: https://en.wiktionary.org/wiki/deterministic
+    wikipedia: https://en.wikipedia.org/wiki/Deterministic_algorithm
+
+  - term: dimensionality
+    fi: ulotteisuus
+    wiktionary: https://en.wiktionary.org/wiki/dimensionality
+    wikipedia: https://en.wikipedia.org/wiki/Dimension
+
+  - term: discriminant analysis
+    fi: erotteluanalyysi
+    de: Diskriminanzanalyse, Trennanalyse
+    es: análisis discriminatorio, análisis discriminante
+    fr: analyse discriminante
+    pl: analiza dyskryminacyjna
+    wikipedia: https://en.wikipedia.org/wiki/Linear_discriminant_analysis
+
+  - term: empirical
+    fi: kokemusperäinen, empiirinen
+    wiktionary: https://en.wiktionary.org/wiki/empirical
+
+  - term: latent variable
+    definition: a variable that is not directly observed but is inferred based on a model from other observed variables
+    fi: piilomuuttuja, latentti muuttuja
+    de: nicht beobachtbare Variable, latente Variable
+    es: variable latente
+    fr: variable latente
+    wikipedia: https://en.wikipedia.org/wiki/Latent_variable
+
+  - term: likelihood
+    fi: uskottavuus
+    de: Likelihood
+    fr: vraisemblance
+    es: verosimilitud
+    pl: prawdopodobieństwo
+    wiktionary: https://en.wiktionary.org/wiki/likelihood
+
+  - term: loss function
+    definition: a function to measure how far prediction are from its label
+    fi: tappiofunktio
+    de: Verlustfunktion
+    es: función de pérdida
+    fr: fonction de perte
+
+  - term: maximum likelihood estimator
+    abbreviation: MLE
+    fi: suurimman uskottavuuden estimaattori, SU-estimaattori
+    de: Maximum-Likelihood-Schätzer, ML-Schätzer
+    fr: estimateur du maximum de vraisemblance
+    es: estimador máxima verosímilitud
+
+  - term: mean square error
+    abbreviation: MSE
+    fi: keskineliövirhe, keskimääräinen neliövirhe, keskineliöpoikkeama
+    de: mittleres Fehlerquadrat
+    fr: erreur quadratique moyenne
+    es: error cuadrático medio
+    pl: błąd średniokwadratowy
+    intra_link: root mean square error
+
+  - term: root mean square error
+    abbreviation: RMSE
+    fi: keskineliövirheen neliöjuuri
+    de: Wurzel der mittleren quadratischen Abweichung, Wurzel des mittleren quadratischen Fehlers, Wurzel des mittleren quadratischen Gesamt-Fehlers
+    fr: écart quadratique moyen, écart type, déviation typique, écart-étalon, erreur quadratique moyenne, erreur en moyenne quadratique
+    es: desviación cuadrática media, desviación standard, desviación típica, desviación estándar, error cuadrático medio
+    intra_link: mean square error
+    wikipedia: https://en.wikipedia.org/wiki/Root-mean-square_deviation
+
+  - term: probability measure
+    fi: todennäköisyysmitta
+
+  - term: mixture model
+    fi: sekoitemalli
+    pl: model mieszany
+    wikipedia: https://en.wikipedia.org/wiki/Mixture_model
+    intra_link: Gaussian mixture model
+
+  - term: k-nearest-neighbor
+    abbreviation: kNN
+    fi: k:n lähimmän naapurin menetelmä
+    intra_link: nearest neighbor
+
+  - term: normal distribution
+    fi: normaalijakauma
+    de: Normalverteilung
+    fr: distribution normale
+    es: distribución normal
+    pl: rozkład normalny
+
+  - term: null hypothesis
+    definition: general statement that there is no relationship between two measured phenomena
+    fi: nollahypoteesi
+    de: Nullhypothese
+    fr: hypothèse nulle, hypothèse zéro
+    es: hipótesis de nulidad, hipótesis nula
+    pl: hipoteza zerowa
+    wikipedia: https://en.wikipedia.org/wiki/Null_hypothesis
+
+  - term: outliers
+    definition: observation points that are distant from other observations
+    fi: poikkeavat havainnot, vieraat havainnot, ulkopuoliset havainnot
+    de: Ausreißer
+    fr: valeurs aberrantes, observations aberrantes
+    es: valores extremos, valores atípicos, elemento raro
+    pl: wartości odstające
+    wikipedia: https://en.wikipedia.org/wiki/Outlier
+    wiktionary: https://en.wiktionary.org/wiki/outlier
+
+  - term: principal component analysis
+    abbreviation: PCA
+    definition: a statistical procedure that uses an orthogonal transformation to convert a set of observations of possibly correlated variables into a set of values of linearly uncorrelated variables called principal components
+    fi: pääkomponenttianalyysi
+    de: Hauptkomponentenanalyse
+    es: análisis de componentes principales
+    wikipedia: https://en.wikipedia.org/wiki/Principal_component_analysis
+
+  - term: independent component analysis
+    abbreviation: ICA
+
+  - term: linear discriminant analysis
+    abbreviation: LDA
+
+  - term: prior distribution
+    fi: priorijakauma
+    wikipedia: https://en.wikipedia.org/wiki/Prior_probability
+
+  - term: probability
+    fi: todennäköisyys
+    de: Wahrscheinlichkeit
+    fr: probabilité
+    es: probabilidad
+    pl: prawdopodobieństwo, szansa
+    wiktionary: https://en.wiktionary.org/wiki/probability
+
+  - term: random effect
+    fi: satunnaisvaikutus
+    pl: efekt losowy
+
+  - term: randomization
+    fi: satunnaistaminen
+    de: Zufallszuteilung, Randomisierung
+    fr: randomisation, arrangement au hasard, caractère aléatoire
+    es: aleatorización
+    wiktionary: https://en.wiktionary.org/wiki/randomization
+
+  - term: reciever operating characteristic curve
+    abbreviation: ROC curve
+    definition: a curve of true positive rate versus false positive rate at different classification thresholds
+    fi: toimintaominaiskäyrä, ROC-käyrä
+    wikipedia: https://en.wikipedia.org/wiki/Receiver_operating_characteristic
+
+  - term: area under the curve
+    abbreviation: AUC
+    definition: in binary classification, an evaluation metric to considers all classification thresholds
+    pl: pole pod krzywą
+    intra_link: reciever operating characteristic curve
+
+  - term: sensitivity
+    fi: herkkyys, sensitiivisyys
+    wiktionary: https://en.wiktionary.org/wiki/sensitivity
+    wikipedia: https://en.wikipedia.org/wiki/Sensitivity_and_specificity
+    intra_link: evaluation metric
+
+  - term: specificity
+    fi: tarkkuus, spesifisyys
+    wiktionary: https://en.wiktionary.org/wiki/specificity
+    wikipedia: https://en.wikipedia.org/wiki/Sensitivity_and_specificity
+    intra_link: evaluation metric
+
+  - term: significance level
+    fi: merkitsevyystaso
+    pl: poziom istotności
+
+  - term: smoothing
+    fi: tasoittaminen, silotus, tasoitus, silottaminen
+    de: Glättung
+    fr: lissage, ajustement, graduation
+    es: suavización, suavizamiento, ajustamiento
+    wiktionary: https://en.wiktionary.org/wiki/smoothing
+    wikipedia: https://en.wikipedia.org/wiki/Smoothing
+
+  - term: standard deviation
+    fi: keskihajonta, standardipoikkeama
+    pl: odchylenie standardowe
+    wikipedia: https://en.wikipedia.org/wiki/Standard_deviation
+
+  - term: statistical model
+    fi: tilastollinen malli
+    de: Statistisches Modell
+    es: modelo probabilístico
+    fr: modèle statistique
+    pl: model statystyczny
+    wikipedia: https://en.wikipedia.org/wiki/Statistical_model
+
+  - term: statistical significance
+    fi: tilastollinen merkitsevyys
+    de: Statistische Signifikanz
+    es: significación estadística
+    fr: signification statistique
+    wikipedia: https://en.wikipedia.org/wiki/Statistical_significance
+
+  - term: transition probability
+    fi: siirtymätodennäköisyys
+    wikipedia: https://en.wikipedia.org/wiki/Transition_probability
+
+  - term: validation
+    fi: validointi
+    wiktionary: https://en.wiktionary.org/wiki/validation
+
+  - term: dissimilarity
+    fi: erilaisuus, erilaisuusmitta
+    de: Dissimilarität, Unähnlichkeit
+    es: desemejanza
+    fr: dissimilitude
+    wiktionary: https://en.wiktionary.org/wiki/dissimilarity
+    intra_link: similarity
+
+  - term: false negative
+    abbreviation: FN
+    definition: an example wrongly predicted as negative class
+    fi: negatiivisten tapausten virhe
+    de: falsch negativ
+    fr: faux négatif
+    es: negazione falsa
+
+  - term: false positive
+    abbreviation: FP
+    definition: an example wrongly predicted as positive class
+    fi: positiivisten tapausten virhe
+    de: falsch positiv
+    es: positivo falso
+    fr: faux positif
+
+  - term: true negative
+    abbreviation: TN
+    fi: oikea negatiivinen
+    definition: an example correctly predicted as negative class
+
+  - term: true positive
+    abbreviation: TP
+    fi: oikea positiivinen
+    definition: an example correctly predicted as positive class
+
+  - term: fast Fourier transform
+    abbreviation: FFT
+    fi: nopea Fourier-muunnos
+    de: schnelle Fourier-Transformation
+    es: Fourier rápido transforma
+    fr: transformée de Fourier rapide
+    pl: szybka transformata Fouriera
+    wikipedia: https://en.wikipedia.org/wiki/Fast_Fourier_transform
+
+  - term: inverse fast Fourier transform
+    abbreviation: IFFT
+    pl: odwrotna transformata Fouriera
+
+  - term: discrete-time Fourier transform
+    abbreviation: DFT
+    de: Fouriertransformation für zeitdiskrete Signale
+    wikipedia: https://en.wikipedia.org/wiki/Discrete-time_Fourier_transform
+
+  - term: feedforward neural network
+    abbreviation: FNN
+    fi: eteenpäin syöttävä hermoverkko
+    es: red neuronal prealimentada
+    fr: réseau de neurones à propagation avant
+    intra_link: deep neural network, neural network
+    wikipedia: https://en.wikipedia.org/wiki/Feedforward_neural_network
+
+  - term: hierarchical classification
+    fi: hierarkkinen luokittelu
+    de: hierarchische Klassifikation, geschachtelte Klassifikation
+    fr: classification hiérarchique
+    es: clasificación jerárquica
+    pl: klasyfikacja hierarchiczna
+
+  - term: interclass correlation
+    fi: luokkien välinen korrelaatio
+    de: Korrelation zwischen den Klassen
+    es: correlación interclase
+    fr: corrélation entre classes, corrélation interclasses
+    wikipedia: https://en.wikipedia.org/wiki/Interclass_correlation
+
+  - term: intraclass correlation
+    fi: sisäkorrelaatio, luokkiensisäinen korrelaatio
+    de: Korrelation innerhalb der Klassen
+    fr: corrélation interne, corrélation intraclasse
+    es: correlación intraclase
+    wikipedia: https://en.wikipedia.org/wiki/Intraclass_correlation
+
+  - term: likelihood ratio test
+    fi: uskottavuusosamäärätesti
+    de: Likelihood-Verhältnistest
+    es: prueba de la razón de la verosimilitud
+    fr: test du rapport des vraisemblances
+    wikipedia: https://en.wikipedia.org/wiki/Likelihood-ratio_test
+
+  - term: misclassification
+    fi: luokitteluvirhe, väärinluokittelu
+    de: Fehlklassifikation
+    fr: classification fausse
+    es: clasificación errónea
+    wiktionary: https://en.wiktionary.org/wiki/misclassification
+
+  - term: reproducibility
+    fi: toistettavuus
+    de: Reproduzierbarkeit, Vergleichbarkeit
+    fr: reproductibilité
+    es: reproductibilidad
+    wiktionary: https://en.wiktionary.org/wiki/reproducibility
+
+  - term: similarity
+    fi: samanlaisuus, samankaltaisuus, yhtäläisyys
+    de: Ähnlichkeit
+    fr: ressemblance, similarité, similtude
+    es: semejanza, similtud
+    pl: podobieństwo
+    wiktionary: https://en.wiktionary.org/wiki/similarity
+
+  - term: similarity measure
+    definition: a measure to determine how similar two examples are
+    fi: samankaltaisuusmitta
+    pl: miara podobieństwa
+    intra_link: similarity
+    wikipedia: https://en.wikipedia.org/wiki/Similarity_measure
+
+  - term: spectrum
+    fi: spektri
+    de: Spektrum
+    fr: spectre
+    es: espectro
+    pl: widmo, spektrum
+    wikipedia: https://en.wikipedia.org/wiki/Spectrum
+    wiktionary: https://en.wiktionary.org/wiki/spectrum
+
+  - term: generative adversarial network
+    abbreviation: GAN
+    definition: technique where a generator generates data candidates and a discriminator evaluates them.
+    wikipedia: https://en.wikipedia.org/wiki/Generative_adversarial_network
+    intra_link: deep neural network, neural network
+
+  - term: constant-Q transform
+    abbreviation: CQT
+    wikipedia: https://en.wikipedia.org/wiki/Constant-Q_transform
+
+  - term: long short-term memory
+    abbreviation: LSTM
+    de: langes Kurzzeitgedächtnis
+    wikipedia: https://en.wikipedia.org/wiki/Long_short-term_memory
+    intra_link: deep neural network, neural network
+
+  - term: active learning
+    definition: a learning technique where algorithm selects the data it learns from
+    fi: aktiivinen oppiminen
+    pl: aktywne uczenie
+    wikipedia: https://en.wikipedia.org/wiki/Active_learning_(machine_learning)
+
+  - term: activation function
+    definition: in neural network, a function to define the output of a neuron
+    fi: aktivaatiofunktio
+    es: Función de activación
+    fr: Fonction d'activation
+    pl: funkcja aktywacji
+    wikipedia: https://en.wikipedia.org/wiki/Activation_function
+
+  - term: bag of frames
+    definition: representing frames without taking into account their order
+
+  - term: batch
+    definition: in neural network training, a set of examples used in one iteration for model training
+    fi: ryhmä, erä
+    wiktionary: https://en.wiktionary.org/wiki/batch
+
+  - term: batch normalization
+    abbreviation: BN
+    definition: a technique for improving the performance and stability of neural networks
+    fi: ryhmänormalisointi, eränormalisointi
+    wikipedia: https://en.wikipedia.org/wiki/Batch_normalization
+    intra_link: deep neural network, neural network, batch
+
+  - term: bigram
+    definition: an ordered sequence of two items
+    es: bigrama
+    wikipedia: https://en.wikipedia.org/wiki/Bigram
+    wiktionary: https://en.wiktionary.org/wiki/bigram
+    intra_link: N-gram
+
+  - term: trigram
+    definition: an ordered sequence of three items
+    fr: trigramme
+    wikipedia: https://en.wikipedia.org/wiki/Trigram
+    wiktionary: https://en.wiktionary.org/wiki/trigram
+    intra_link: N-gram
+
+  - term: N-gram
+    definition: an ordered sequence of N items
+    wikipedia: https://en.wikipedia.org/wiki/N-gram
+    wiktionary: https://en.wiktionary.org/wiki/n-gram
+    intra_link: bigram, trigram
+
+  - term: binary classification
+    definition: a type of classification which outputs one of two mutually exclusive classes
+    fi: binäärinen luokittelu
+    pl: klasyfikacja binarna
+    wikipedia: https://en.wikipedia.org/wiki/Binary_classification
+
+  - term: confusion matrix
+    definition: an NxN table to summarize classification performance (predicted class versus actual class)
+    fi: sekaannusmatriisi
+    fr: matrice de confusion
+
+  - term: embeddings
+    definition: a low-dimensional space into which high-dimensional vectors can be translated
+
+  - term: ensemble
+    definition: predictions of multiple models merged together
+    fi: kokoelma, kokoonpano
+    wikipedia: https://en.wikipedia.org/wiki/Ensemble_learning
+    wiktionary: https://en.wiktionary.org/wiki/ensemble
+    intra_link: ensemble learning
+
+  - term: ensemble learning
+    definition: use multiple learning algorithms to obtain better predictive performance than any of the constituent learning algorithms alone
+    wikipedia: https://en.wikipedia.org/wiki/Ensemble_learning
+    fr: apprentissage ensembliste
+
+  - term: epoch
+    definition: while traning neural networks, one pass of the full training set
+    fi: opetuskierros
+    pl: epoka
+    wiktionary: https://en.wiktionary.org/wiki/epoch
+    intra_link: deep neural network, neural network
+
+  - term: fully connected layer
+    derinition: in neural networks, a layer having each node connected to every node in the subsequent layer
+    fi: täysin kytketty kerros
+    intra_link: deep neural network, neural network
+
+  - term: heuristic
+    definition: a practical and suboptimial solution
+    wiktionary: https://en.wiktionary.org/wiki/heuristic
+
+  - term: hidden layer
+    definition: in neural network, layer between the input layer and the output layer
+    fi: piilokerros
+    pl: warstwa ukryta
+    intra_link: deep neural network, neural network
+
+  - term: input layer
+    defnition: in neural network, the first layer of the network which receives the input data
+    fi: syötekerros
+    pl: warstwa wejściowa
+    intra_link: deep neural network, neural network
+
+  - term: output layer
+    definition: last layer of a neural network outputting predictions
+    fi: vastekerros
+    pl: warstwa wyjściowa
+    intra_link: deep neural network, neural network
+
+  - term: holdout data
+    definition: examples which are only used for testing the system's performance
+    intra_link: cross-validation
+
+  - term: hyperparameter
+    definition: in machine learning, a variable which is set before the learning process starts
+    fi: hyperparametri
+    wikipedia: https://en.wikipedia.org/wiki/Hyperparameter_(machine_learning)
+    intra_link: parameter
+    wiktionary: https://en.wiktionary.org/wiki/hyperparameter
+
+  - term: parameter
+    definition: in machine learning, a variable which is adjusted during the learning process
+    fi: parametri
+    intra_link: hyperparameter
+    wiktionary: https://en.wiktionary.org/wiki/parameter
+
+  - term: inter-annotator agreement
+    definition: a measurement of how well human annotators agree while annotation task
+    wikipedia: https://en.wikipedia.org/wiki/Inter-rater_reliability
+
+  #- term: Keras
+  #  definition: a widely used high-level neural networks API written in Python and capable of running on top of TensorFlow, CNTK, and Theano.
+
+  - term: labeled example
+    definition: an example with audio and assigned category label
+
+  - term: layer
+    definition: in neural network, a set of neurons
+    fi: kerros
+    pl: warstwa
+    intra_link: deep neural network, neural network
+    wiktionary: https://en.wiktionary.org/wiki/layer
+
+  - term: learning rate
+    definition: a hyperparameter to control the size of the learning step, gradient step
+    fi: oppimisnopeus
+    intra_link: deep neural network, neural network
+
+  - term: objective
+    definition: a metric the algorithm tries to optimize
+    fi: tavoite, päämäärä
+    wiktionary: https://en.wiktionary.org/wiki/objective
+
+  - term: prediction
+    definition: system's output for the input example
+    fi: ennustaminen, ennuste
+    wiktionary: https://en.wiktionary.org/wiki/prediction
+
+  - term: normalization
+    definition: converting values into standard range of values
+    fi: normalisaatio
+    es: normalización
+    pl: normalizacja
+    wikipedia: https://en.wikipedia.org/wiki/Normalization_(statistics)
+    wiktionary: https://en.wiktionary.org/wiki/normalization
+
+  - term: one-hot encoding
+    definition: representing categorical variables as binary vectors so that only single element is set to one
+
+  - term: one-shot learning
+    definition: machine learning approach where aim is to learn from a single training example
+    wikipedia: https://en.wikipedia.org/wiki/One-shot_learning
+
+  - term: optimizer
+    definition: in neural network, an implementation of gradient descent algorithm
+    fi: optimoija
+    wiktionary: https://en.wiktionary.org/wiki/optimizer
+
+  - term: perceptron
+    definition: an algorithm which takes multiple input values, runs a function on the weighted sum of the inputs and computes a single output value
+    wikipedia: https://en.wikipedia.org/wiki/Perceptron
+    wiktionary: https://en.wiktionary.org/wiki/perceptron
+
+  - term: performance
+    definition: in machine learning, refers to the goodness of the model's predictions
+    fi: suorituskyky
+    wiktionary: https://en.wiktionary.org/wiki/performance
+
+  - term: pooling
+    definition: in neural network, reducing matrix into a smaller matrix
+    fi: kokooma, keräys
+    intra_link: deep neural network, neural network
+    wiktionary: https://en.wiktionary.org/wiki/pooling
+
+  - term: pre-trained model
+    definition: a model which has been already trained
+    fi: esiopetettu malli
+
+  - term: regularization
+    definition: in machine learning, penalizes a model's compelixity in order to prevent overfitting
+    fi: regularisointi
+    es: regularización
+    fr: régularisation
+    pl: regularyzacja
+    wikipedia: https://en.wikipedia.org/wiki/Regularization_(mathematics)
+    wiktionary: https://en.wiktionary.org/wiki/regularization
+
+  - term: sparse matrix
+    definition: matrix which has elements predominantly zero
+    fi: harva matriisi
+    de: Dünnbesetzte Matrix
+    es: matriz dispersa
+    fr: matrice creuse
+    pl: macierz rzadka
+    wikipedia: https://en.wikipedia.org/wiki/Sparse_matrix
+
+  - term: sparsity
+    definition: number of zero elements a matrix divided by the total number of elements
+    wiktionary: https://en.wiktionary.org/wiki/sparsity
+
+  - term: stride
+    definition: in convolution or pooling, the delta on horizontal or vertical dimension of the next input slice
+    wiktionary: https://en.wiktionary.org/wiki/stride
+
+  - term: training
+    definition: a process of determining the optimal parameters of the model
+    fi: opetus
+    wiktionary: https://en.wiktionary.org/wiki/training
+
+  - term: classification threshold
+    intra_link: classification
+
+  - term: classification model
+    intra_link: model, classification
+
+  - term: segment-based metric
+    fi: segmenttipohjainen metriikka
+    intra_link: evaluation metric
+
+  - term: event-based metric
+    fi: tapahtumapohjainen metriikka
+    intra_link: evaluation metric
+
+  - term: mini-batch
+    fi: pienerä
+    intra_link: batch
+
+  - term: pruning
+    fi: karsiminen, karsinta
+    wiktionary: https://en.wiktionary.org/wiki/pruning
+
+  - term: transformation
+    fi: muunnos
+    wiktionary: https://en.wiktionary.org/wiki/transformation
+
+  - term: class label
+    fi: luokkatunnus
+
+  - term: posterior probability
+    fi: posteriori todennäköisyys
+    de: A-posteriori-Wahrscheinlichkeit
+    es: Probabilidad a posteriori
+    pl: prawdopodobieństwo a posteriori
+    wikipedia: https://en.wikipedia.org/wiki/Posterior_probability
+
+  - term: evaluation metric
+
+  - term: majority voting
+    pl: głosowanie większościowe
+
+  - term: i-vector
+
+  - term: block mixing
+    definition: data augmentation technique
+    intra_link: data augmentation
+
+  - term: mel-scaled spectrogram
+
+  - term: mel scale
+
+  - term: event onset
+
+  - term: event offset
+
+  - term: everyday environment
+
+  - term: context-aware
+
+  - term: sound source
+    fi: äänilähde
+
+  - term: auditory event
+    fi: kuulotapahtuma
+    intra_link: auditory scene
+
+  - term: auditory scene
+    fi: kuulomaisema
+
+  - term: background noise
+    fi: taustamelu, taustakohina
+    pl: szum tła
+
+  - term: sampling frequency
+    fi: näytetaajuus, näytteenottotaajuus
+    pl: częstotliwość próbkowania
+    wikipedia: https://en.wikipedia.org/wiki/Sampling_(signal_processing)
+
+  - term: sampling rate
+    fi: näytenopeus, näytetaajuus
+    wikipedia: https://en.wikipedia.org/wiki/Sampling_(signal_processing)#Sampling_rate
+
+  - term: acoustic feature
+    fi: akustinen piirre
+    pl: cecha akustyczna
+    intra_link: feature
+
+  - term: audio signal processing
+    fi: audiosignaalin käsittely
+    pl: przetwarzanie sygnałów akustycznych
+
+  - term: audio source separation
+    fi: äänilähteiden separointi
+
+  - term: speech enhancement
+    definition: improvement of speech quality by using various algorithms
+    fi: puheen ehostus
+    wikipedia: https://en.wikipedia.org/wiki/Speech_enhancement
+
+  - term: signal modeling
+    fi: signaalin mallinnus
+
+  - term: audio tagging
+
+  - term: acoustic scene
+    pl: scena akustyczna
+
+  - term: training data
+    fi: opetusdata
+
+  - term: testing data
+    intra_link: test set
+
+  - term: assisted living
+    definition: a housing facility for people with disabilities or for adults who cannot or choose not to live independently
+    de: Betreutes Wohnen
+    pl: mieszkalnictwo wspomagane
+    wikipedia: https://en.wikipedia.org/wiki/Assisted_living
+
+  - term: situational awareness
+    abbreviation: SA
+    definition: the perception of environmental elements and events with respect to time or space, the comprehension of their meaning, and the projection of their future status
+    fi: tilannetietoisuus, tilannekuva
+    de: Situationsbewusstsein
+    es: consciencia situacional
+    wikipedia: https://en.wikipedia.org/wiki/Situation_awareness
+
+  - term: reference label
+    intra_link: ground truth, annotation
+
+  - term: ground truth
+    intra_link: reference label, annotation
+
+  - term: weak annotation
+    intra_link: annotation
+
+  - term: strong annotation
+    intra_link: annotation, weak annotation
+
+  - term: weakly labeled
+    intra_link: annotation,  weak annotation
+
+  - term: data acquisition
+
+  - term: noise suppression
+
+  - term: frame blocking
+    intra_link: frame
+
+  - term: windowing
+    fi: ikkunointi
+    wiktionary: https://en.wiktionary.org/wiki/windowing
+    intra_link: windowing function
+
+  - term: windowing function
+    definition: function that is zero-valued outside of some chosen interval
+    fi: ikkunointifunktio
+    de: Fensterfunktion
+    es: ventana
+    fr: fenêtrage
+    wikipedia: https://en.wikipedia.org/wiki/Window_function
+    intra_link: windowing
+
+  - term: training example
+
+  - term: WordNet
+    fi: sanaverkko, wordnet
+    wiktionary: https://en.wiktionary.org/wiki/WordNet
+    wikipedia: https://en.wikipedia.org/wiki/WordNet
+
+  - term: tag
+    fi: tarra
+    wiktionary: https://en.wiktionary.org/wiki/tag
+
+  - term: information retrieval
+    fi: tiedonhaku
+    pl: wyszukiwanie informacji, pozyskiwanie informacji
+    wikipedia: https://en.wikipedia.org/wiki/Information_retrieval
+
+  - term: computational linguistics
+    definition: an interdisciplinary field concerned with the statistical or rule-based modeling of natural language from a computational perspective
+    fi: tietokonelingvistiikka
+    wikipedia: https://en.wikipedia.org/wiki/Computational_linguistics
+
+  - term: knowledge
+    fi: tietämys
+    pl: wiedza
+    wiktionary: https://en.wiktionary.org/wiki/knowledge
+
+  - term: recognition
+    fi: tunnistaminen
+    wiktionary: https://en.wiktionary.org/wiki/recognition
+
+  - term: context
+    fi: ympäristö
+    wiktionary: https://en.wiktionary.org/wiki/context
+
+  - term: indexing
+    fi: indeksointi
+    wiktionary: https://en.wiktionary.org/wiki/indexing
+
+  - term: frame stacking
+
+  - term: multi-condition training
+
+  - term: classification of events, activities and relationships
+    abbreviation: CLEAR
+    definition: evaluation campaign organized on 2006 and 2007
+
+  - term: word error rate
+    abbreviation: WER
+
+  - term: diarization error rate
+    abbreviation: DER
+
+  - term: everyday listening
+    definition: the interpretation of the sound in terms of its source
+
+  - term: polyphonic annotation
+
+  - term: strong label
+    intra_link: strong annotation, weak label, weak annotation
+
+  - term: weak label
+    intra_link: weak annotation, strong label, strong annotation
+
+  - term: sound event instance
+
+  - term: Amazon mechanical turk
+    abbreviation: AMT
+    definition: crowdsourcing marketplace enabling the use of human intelligence to perform tasks
+    wikipedia: https://en.wikipedia.org/wiki/Amazon_Mechanical_Turk
+
+  - term: room simulation
+
+  - term: room response
+
+  - term: time stretching
+    definition: changing the duration of an audio singal without affecting its pitch
+    wikipedia: https://en.wikipedia.org/wiki/Audio_time_stretching_and_pitch_scaling
+    intra_link: pitch shifting
+
+  - term: intermediate statistics
+
+  - term: equal error rate
+    abbreviation: EER
+
+  - term: balanced accuracy
+    abbreviation: BACC
+    wikipedia: https://en.wikipedia.org/wiki/Evaluation_of_binary_classifiers
+
+  - term: closed set classification
+    intra_link: open set classification
+
+  - term: open set classification
+    intra_link: closed set classification
+
+  - term: connectionist temporal classification
+    abbreviation: CTC
+    wikipedia: https://en.wikipedia.org/wiki/Connectionist_temporal_classification
+
+  - term: non-negative matrix factorization
+    abbreviation: NMF
+    es: factorización no negativa de matrices
+    pl: nieujemna faktoryzacja macierzy
+    wikipedia: https://en.wikipedia.org/wiki/Non-negative_matrix_factorization
+
+  - term: feature learning
+    definition: automatically discover needed representations
+    es: aprendizaje de características
+    wikipedia: https://en.wikipedia.org/wiki/Feature_learning
+    intra_link: feature engineering
+
+  - term: feature engineering
+    definition: using domain knowledge of the data to manually create suitable features for machine learning
+    wikipedia: https://en.wikipedia.org/wiki/Feature_engineering
+    intra_link: feature learning
+
+  - term: time-frequency representation
+    fi: aika-taajuusesitys
+    pl: reprezentacja czasowo-częstotliwościowa
+    wikipedia: https://en.wikipedia.org/wiki/Time%E2%80%93frequency_representation
+
+  - term: gammatone filter
+    wikipedia: https://en.wikipedia.org/wiki/Gammatone_filter
+
+  #- term: pyramids
+
+  - term: zero crossing rate
+    abbreviation: ZCR
+    fi: nollanylitystaajuus, nollanylitystiheys
+    wikipedia: https://en.wikipedia.org/wiki/Zero-crossing_rate
+
+  - term: time domain envelope
+    pl: obwiednia w dziedzinie czasu
+
+  - term: spectral envelope
+    pl: obwiednia widmowa
+    wikipedia: https://en.wikipedia.org/wiki/Spectral_envelope
+
+  - term: spectral moments
+
+  - term: spectral flatness
+    wikipedia: https://en.wikipedia.org/wiki/Spectral_flatness
+
+  - term: spectral slope
+    fi: spektrin kaltevuus, spektrin kulmakerroin
+    wikipedia: https://en.wikipedia.org/wiki/Spectral_slope
+
+  - term: spectral roll-off
+    fi: spektrin rajataajuus, spektrin vinous
+
+  - term: spectral flux
+    fi: spektrin vuo
+    wikipedia: https://en.wikipedia.org/wiki/Spectral_flux
+
+  - term: spectral centroid
+    fi: spektrin keskipiste
+    wikipedia: https://en.wikipedia.org/wiki/Spectral_centroid
+
+  - term: linear prediction cepstral coefficients
+    abbreviation: LPCC
+
+  - term: gammatone feature cepstral coefficients
+    abbreviation: GFCC
+
+  - term: constant-Q cepstral coefficients
+    abbreviation: CQCC
+
+  - term: sharpness
+    wiktionary: https://en.wiktionary.org/wiki/sharpness
+
+  - term: perceptual spread
+
+  - term: histogram of oriented gradients
+    abbreviation: HOG
+    fr: histogramme de gradient orienté
+    wikipedia: https://en.wikipedia.org/wiki/Histogram_of_oriented_gradients
+
+  - term: subband power distribution
+    abbreviation: SPD
+
+  - term: local binary patterns
+    abbreviation: LBP
+    fr: motif binaire local
+    wikipedia: https://en.wikipedia.org/wiki/Local_binary_patterns
+
+  - term: multiple kernel learning
+    abbreviation: MKL
+    definition: machine learning method to use a predefined set of kernels and learn optimal combination of these kernels
+    wikipedia: https://en.wikipedia.org/wiki/Multiple_kernel_learning
+
+  - term: kernel
+    fi: ydin
+    pl: jądro
+    wiktionary: https://en.wiktionary.org/wiki/kernel
+
+  - term: temporal integration
+    fi: ajallinen integraatio
+
+  - term: recursive quantitative analysis
+
+  - term: mixture signal
+
+  - term: head-related transfer function
+    abbreviation: HRTF
+    fi: pään siirtofunktio
+    wikipedia: https://en.wikipedia.org/wiki/Head-related_transfer_function
+
+  - term: direction of arrival
+    abbreviation: DOA
+    fi: äänen tulosuunta
+    wikipedia: https://en.wikipedia.org/wiki/Direction_of_arrival
+
+  - term: binary mask
+    fi: binäärinen maski
+
+  - term: expectation maximization
+    abbreviation: EM
+    definition: an iterative method to find maximum likelihood or maximum a posteriori estimates of parameters in statistical models
+    fi: odotusarvon maksimointi
+    de: EM-Algorithmus
+    es: algoritmo esperanza-maximización
+    fr: algorithme espérance-maximisation
+    wikipedia: https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm
+
+  - term: sinusoidal modeling
+
+  - term: music information retrieval
+    abbreviation: MIR
+    definition: interdisciplinary science of retrieving information from music
+    fi: musiikkitiedonhaku
+    es: recuperación de información musical
+    wikipedia: https://en.wikipedia.org/wiki/Music_information_retrieval
+
+  - term: signal-to-interference ratio
+    abbreviation: SIR
+    fi: signaali-häiriösuhde
+    fr: rapport signal sur interférence
+    wikipedia: https://en.wikipedia.org/wiki/Signal-to-interference_ratio
+
+  - term: discrete cosine transform
+    abbreviation: DCT
+    fi: diskreetti kosinimuunnos
+    de: Diskrete Kosinustransformation
+    es: transformada de coseno discreta
+    fr: transformée en cosinus discrète
+    wikipedia: https://en.wikipedia.org/wiki/Discrete_cosine_transform
+
+  - term: detection error tradeoff
+    abbreviation: DET
+    wikipedia: https://en.wikipedia.org/wiki/Detection_error_tradeoff
+
+  - term: domain adaptation
+    wikipedia: https://en.wikipedia.org/wiki/Domain_adaptation
+
+  - term: textual label
+
+  - term: speaker diarisation
+    wikipedia: https://en.wikipedia.org/wiki/Speaker_diarisation

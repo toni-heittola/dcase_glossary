@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+output/
+cache/
+.idea/
+*.pyc
+pelican.pid
+srv.pid
+.DS_Store
