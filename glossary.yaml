@@ -597,6 +597,11 @@ glossary:
     de: Mel-Frequenz-Cepstrum-Koeffizienten
     wikipedia: https://en.wikipedia.org/wiki/Mel-frequency_cepstrum
 
+  - term: cepstrum
+    description: Inverse FFT of estimated spectrum
+    fr: cepstre
+    wikipedia: https://en.wikipedia.org/wiki/Cepstrum
+
   - term: support vector machine
     abbreviation: SVM
     fi: tukivektorikone
@@ -815,16 +820,6 @@ glossary:
     pl: segmentacja mowy
     wikipedia: https://en.wikipedia.org/wiki/Speech_segmentation
 
-  - term: clustering
-    definition: grouping related examples together
-    fi: ryhmittely, ryhmittelyanalyysi, klusterointi, ryvästäminen
-    de: Verklumpung, verklumpend, in Klumpen auftretend
-    es: clasificación
-    fr: classification, classement
-    pl: analiza skupień
-    wikipedia: https://en.wikipedia.org/wiki/Cluster_analysis
-    wiktionary: https://en.wiktionary.org/wiki/clustering
-
   - term: feature extraction
     fi: piirreirroitus, piirteistys
     fr: extraction de caractéristique
@@ -1021,6 +1016,22 @@ glossary:
     fr: grappe, conglomérat
     wiktionary: https://en.wiktionary.org/wiki/cluster
     intra_link: cluster analysis
+
+  - term: clustering
+    definition: grouping related examples together
+    fi: ryhmittely, ryhmittelyanalyysi, klusterointi, ryvästäminen
+    de: Verklumpung, verklumpend, in Klumpen auftretend
+    es: clasificación
+    fr: classification, classement
+    pl: analiza skupień
+    wikipedia: https://en.wikipedia.org/wiki/Cluster_analysis
+    wiktionary: https://en.wiktionary.org/wiki/clustering
+
+  - term: spectral clustering
+    definition: grouping related examples together using the eigenvalues of similarity matrix
+    es: Agrupamiento espectral
+    fr: Partitionnement spectral
+    wikipedia: https://en.wikipedia.org/wiki/Spectral_clustering
 
   - term: confidence interval
     abbreviation: CI
@@ -1463,6 +1474,14 @@ glossary:
 
   - term: embeddings
     definition: a low-dimensional space into which high-dimensional vectors can be translated
+    fi: upotus
+    intra_link: word embedding
+
+  - term: word embedding
+    definition: mapping word or phrase from the vocabulary into vector of real numbers
+    wikipedia: https://en.wikipedia.org/wiki/Word_embedding
+    fi: sanojen upotus
+    intra_link: embeddings
 
   - term: ensemble
     definition: predictions of multiple models merged together
@@ -1908,6 +1927,10 @@ glossary:
     wikipedia: https://en.wikipedia.org/wiki/Feature_engineering
     intra_link: feature learning
 
+  - term: hand-crafted feature
+    definition: using domain knowledge of the data to manually create suitable features for machine learning
+    intra_link: feature engineering
+
   - term: time-frequency representation
     fi: aika-taajuusesitys
     pl: reprezentacja czasowo-częstotliwościowa
@@ -1915,8 +1938,6 @@ glossary:
 
   - term: gammatone filter
     wikipedia: https://en.wikipedia.org/wiki/Gammatone_filter
-
-  #- term: pyramids
 
   - term: zero crossing rate
     abbreviation: ZCR
@@ -2050,3 +2071,7 @@ glossary:
 
   - term: speaker diarisation
     wikipedia: https://en.wikipedia.org/wiki/Speaker_diarisation
+
+  - term: multi-task learning
+    definition: approach where multiple learning tasks are solved at the same time
+    wikipedia: https://en.wikipedia.org/wiki/Multi-task_learning
