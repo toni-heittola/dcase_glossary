@@ -435,6 +435,7 @@ glossary:
 
   - term: audio dataset
     definition: a collection of audio examples used for system development
+    fi: audiotietokanta
 
   - term: semi-supervised learning
     definition: machine learning technique to use small amount of labeled data and large amount of unlabeled data in the learning stage
@@ -2054,6 +2055,7 @@ glossary:
 
   - term: discrete cosine transform
     abbreviation: DCT
+    definition: Transform to represent data points with a sum of cosine functions
     fi: diskreetti kosinimuunnos
     de: Diskrete Kosinustransformation
     es: transformada de coseno discreta
@@ -2062,16 +2064,57 @@ glossary:
 
   - term: detection error tradeoff
     abbreviation: DET
+    definition: Plot of the false rejection rate versus false acceptance rate for classification systems
     wikipedia: https://en.wikipedia.org/wiki/Detection_error_tradeoff
+    fi: virheiden kompromissi
 
   - term: domain adaptation
+    definition: Machine learning field to deal with cases in which a model trained on source distribution is used on different target distribution
     wikipedia: https://en.wikipedia.org/wiki/Domain_adaptation
+    fr: Adaptation de domaine
 
   - term: textual label
 
   - term: speaker diarisation
+    definition: Process of spliting audio signal in to segments accroding to the speakers
     wikipedia: https://en.wikipedia.org/wiki/Speaker_diarisation
+    fi: puheen diarisointi
+
+  - term: early fusion
+    definition: Features from multiple sources are combined into a single feature set before feeding to a classifier.
+    intra_link: feature level fusion
 
   - term: multi-task learning
     definition: approach where multiple learning tasks are solved at the same time
     wikipedia: https://en.wikipedia.org/wiki/Multi-task_learning
+
+
+  - term: feature level fusion
+    definition: Features from multiple sources are combined into a single feature set before feeding to a classifier.
+    intra_link: early fusion
+
+  - term: late fusion
+    definition: Combaning outputs from multiple classifiers.
+
+  - term: brute-force search
+    definition: Systematically going through all possible candidate solutions for the problem
+    wikipedia: https://en.wikipedia.org/wiki/Brute-force_search
+    intra_link: exhaustive search
+    fi: raakavoimahaku
+    fr: Recherche exhaustive
+    es: Búsqueda de fuerza bruta
+    de: Brute-Force-Methode
+
+  - term: exhaustive search
+    fi: tyhjentävä haku
+    intra_link: brute-force search
+
+  - term: federated learning
+    intra_link: collaborative learning
+    definition: Machine learning technique to train a model across multiple devices
+    wikipedia: https://en.wikipedia.org/wiki/Federated_learning
+    fi: hajautettu oppiminen
+    de: Föderales Lernen
+
+  - term: collaborative learning
+    intra_link: federated learning
