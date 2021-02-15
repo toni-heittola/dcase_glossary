@@ -116,6 +116,8 @@ glossary:
 
   - term: impulse response
     fi: impulssivaste
+    de: Impulsantwort
+    es: Respuesta a impulso
     pl: odpowiedź impulsowa
     wikipedia: https://en.wikipedia.org/wiki/Impulse_response
 
@@ -135,6 +137,9 @@ glossary:
 
   - term: loudness
     fi: äänekkyys
+    de: Lautheit
+    es: Sonoridad
+    fr: Sonie
     pl: głośność
     wikipedia: https://en.wikipedia.org/wiki/Loudness
     wiktionary: https://en.wiktionary.org/wiki/loudness
@@ -182,6 +187,8 @@ glossary:
 
   - term: noise
     fi: kohina, melu, häly, häiriö
+    de: Geräusch
+    es: Ruido
     pl: szum, hałas
     wikipedia: https://en.wikipedia.org/wiki/Noise
     wiktionary: https://en.wiktionary.org/wiki/noise
@@ -594,7 +601,7 @@ glossary:
 
   - term: mel-frequency cepstral coefficients
     abbreviation: MFCCs
-    fi: Mel-kepstrikertoimet
+    fi: Mel-kepstrikertoimet, mel-taajuus kepstrikertoimet
     de: Mel-Frequenz-Cepstrum-Koeffizienten
     wikipedia: https://en.wikipedia.org/wiki/Mel-frequency_cepstrum
 
@@ -1700,6 +1707,11 @@ glossary:
   - term: mel-scaled spectrogram
 
   - term: mel scale
+    definition: non-linear perceptual frequency scale where listners judge frequencies to be equal in distance from one another.
+    wikipedia: https://en.wikipedia.org/wiki/Mel_scale
+    fi: mel-asteikko
+    es: Escala Mel
+    fr: Échelle des mels
 
   - term: event onset
 
@@ -1713,8 +1725,12 @@ glossary:
     fi: äänilähde
 
   - term: auditory event
-    fi: kuulotapahtuma
+    definition: Subjective perception of sound
     intra_link: auditory scene
+    wikipedia: https://en.wikipedia.org/wiki/Auditory_event
+    fi: kuulotapahtuma
+    de: Hörereignis
+    fr: Audition humaine
 
   - term: auditory scene
     fi: kuulomaisema
@@ -2118,3 +2134,4 @@ glossary:
 
   - term: collaborative learning
     intra_link: federated learning
+
