@@ -2303,6 +2303,18 @@ glossary:
     es: inteligencia artificial fuerte
     fr: intelligence artificielle forte
     wikipedia: https://en.wikipedia.org/wiki/Artificial_general_intelligence
+    intra_link: strong artificial intelligence, full artificial intelligence
+
+  - term: strong artificial intelligence
+    abbreviation: Strong AI
+    intra_link: artifical general intelligence, full artificial intelligence
+
+  - term: full artificial intelligence
+    abbreviation: Full AI
+    intra_link: artifical general intelligence, strong artificial intelligence
+
+  - term: strong artificial intelligence
+    intra_link: artifical general intelligence
 
   - term: weak artificial intelligence
     abbreviation: Weak AI
