@@ -79,7 +79,7 @@ glossary:
   - term: filter bank
     definition: an array of band-pass filters
     fi: suodinpankki
-    es: banco de filtros híbrido
+    es: banco de filtros, banco de filtros híbrido
     pl: bank filtrów
     wikipedia: https://en.wikipedia.org/wiki/Filter_bank
 
@@ -279,6 +279,8 @@ glossary:
     fi: signaalinkäsittely
     de: Signalverarbeitung
     pl: przetwarzanie sygnałów
+    es: procesamiento de señales
+    fr: traitement du signal
     wikipedia: https://en.wikipedia.org/wiki/Signal_processing
 
   - term: signal-to-noise ratio
@@ -1798,13 +1800,6 @@ glossary:
     pl: cecha akustyczna
     intra_link: feature
 
-  - term: signal processing
-    fi: signaalinkäsittely
-    de: Signalverarbeitung
-    es: procesamiento de señales
-    fr: traitement du signal
-    wikipedia: https://en.wikipedia.org/wiki/Signal_processing
-
   - term: audio signal processing
     fi: audiosignaalin käsittely
     pl: przetwarzanie sygnałów akustycznych
@@ -2312,9 +2307,6 @@ glossary:
   - term: full artificial intelligence
     abbreviation: Full AI
     intra_link: artifical general intelligence, strong artificial intelligence
-
-  - term: strong artificial intelligence
-    intra_link: artifical general intelligence
 
   - term: weak artificial intelligence
     abbreviation: Weak AI
