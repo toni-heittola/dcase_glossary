@@ -461,6 +461,14 @@ glossary:
     wikipedia: https://en.wikipedia.org/wiki/Recurrent_neural_network
     intra_link: neural network, deep neural network
 
+  - term: receptive field
+
+  - term: subsampling layer
+    fi: alinäytteistyskerros
+
+  - term: convolution kernel
+    fi: konvoluutiokerneli
+
   - term: system development
     fi: järjestelmäkehitys, järjestelmän kehitys
 
@@ -644,6 +652,14 @@ glossary:
     es: análisis de la regresión
     pl: analiza regresji
     wikipedia: https://en.wikipedia.org/wiki/Regression_analysis
+
+  - term: logistic regression
+    definition: statistical model to use logistic function to model a binary dependent variable
+    fi: logistinen regressio
+    de: Logistische Regression
+    es: Regresión logística
+    fr: Régression logistique
+    wikipedia: https://en.wikipedia.org/wiki/Logistic_regression
 
   - term: feature selection
     fi: piirrevalinta
@@ -1111,6 +1127,12 @@ glossary:
     fr: estimateur du maximum de vraisemblance
     es: estimador máxima verosímilitud
 
+  - term: likelihood
+    fi: uskottavuus
+
+  - term: log-likelihood
+    fi: logiritminen uskottavuus, log-uskottavuus
+
   - term: mean square error
     abbreviation: MSE
     fi: keskineliövirhe, keskimääräinen neliövirhe, keskineliöpoikkeama
@@ -1303,6 +1325,16 @@ glossary:
     abbreviation: TP
     fi: oikea positiivinen
     definition: an example correctly predicted as positive class
+
+  - term: true positive rate
+    abbreviation: TPR
+    fi: oikeiden positiivisten osuus
+    wikipedia: https://en.wikipedia.org/wiki/Sensitivity_and_specificity
+
+  - term: true negative rate
+    abbreviation: TNR
+    fi: oikeiden negatiivisten osuus
+    wikipedia: https://en.wikipedia.org/wiki/Sensitivity_and_specificity
 
   - term: fast Fourier transform
     abbreviation: FFT
@@ -1519,13 +1551,13 @@ glossary:
 
   - term: input layer
     defnition: in neural network, the first layer of the network which receives the input data
-    fi: syötekerros
+    fi: syötekerros, sisääntulokerros
     pl: warstwa wejściowa
     intra_link: deep neural network, neural network
 
   - term: output layer
     definition: last layer of a neural network outputting predictions
-    fi: vastekerros
+    fi: vastekerros, ulostulokerros
     pl: warstwa wyjściowa
     intra_link: deep neural network, neural network
 
@@ -1797,6 +1829,11 @@ glossary:
 
   - term: frame blocking
     intra_link: frame
+
+  - term: weak supervision
+    intra_link: supervised learning, unsupervised learning
+    definition: learning approach where noisy, limited or imprecise data is used to supervise the labelling process of larger training data to be used in supervised learning setting
+    wikipedia: https://en.wikipedia.org/wiki/Weak_supervision
 
   - term: windowing
     fi: ikkunointi
