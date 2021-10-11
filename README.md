@@ -9,7 +9,7 @@ The glossary does not try to be complete, as it is **work in progress**. If you 
 
 The primary aim of this glossary is to provide Finnish translations for key terms in this field to stabilize the terminology. In order to make it usable also for others than finnish researchers, brief English definition is added for each term with links to Wikipedia and Wiktionary. Furthermore, some of the terms have been translated to German, Spanish and French through Wikipedia.
 
-Special thanks for [Tomasz Mąka](http://quefrency.org/tmaka/index.html) for the Polish translations.
+Special thanks for [Tomasz Mąka](http://quefrency.org/tmaka/index.html) for the Polish translations, and [Irene Martin Morato](https://www.tuni.fi/en/irene-martinmorato) for the Spanish translations.
 
 Dictionaries and glossaries from related fields:
 
