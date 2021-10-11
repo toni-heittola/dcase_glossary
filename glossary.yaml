@@ -1228,9 +1228,6 @@ glossary:
     fr: estimateur du maximum de vraisemblance
     es: estimador máxima verosímilitud
 
-  - term: likelihood
-    fi: uskottavuus
-
   - term: log-likelihood
     fi: logiritminen uskottavuus, log-uskottavuus
 
