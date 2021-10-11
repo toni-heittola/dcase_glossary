@@ -2,7 +2,7 @@ glossary:
   - term: auditory
     definition: relating to hearing
     fi: kuulonmukainen, kuuloon liittyvä, kuulo-
-	es: auditivo
+    es: auditivo
     pl: audytywny, słuchowy
     wiktionary: https://en.wiktionary.org/wiki/auditory
 
@@ -10,7 +10,7 @@ glossary:
     abbreviation: ASA
     definition: a model proposed by Albert Bregman for the basis of auditory perception
     fi: kuulomaisema-analyysi, kuulema-analyysi
-	es: análisis de escenas auditivas
+    es: análisis de escenas auditivas
     wikipedia: https://en.wikipedia.org/wiki/Auditory_scene_analysis
 
   - term: beamforming
@@ -59,7 +59,7 @@ glossary:
   - term: duration
     definition: a length of audio signal
     fi: kesto
-	es: duración
+    es: duración
     wiktionary: https://en.wiktionary.org/wiki/duration
 
   - term: dynamic range
@@ -105,18 +105,18 @@ glossary:
 
   - term: frequency resolution
     fi: taajuusresoluutio, taajuuserottelutarkkuus
-	es: resolución frecuencial
+    es: resolución frecuencial
     pl: rozdzielczość częstotliwościowa
 
   - term: harmonic
     fi: harmoninen
-	es: armónico
+    es: armónico
     pl: harmoniczny
     wiktionary: https://en.wiktionary.org/wiki/harmonic
 
   - term: implementation
     fi: toteutus
-	es: implementación
+    es: implementación
     pl: implementacja
     wiktionary: https://en.wiktionary.org/wiki/implementation
 
@@ -129,18 +129,18 @@ glossary:
 
   - term: input
     fi: sisäänmeno, syöte, tulo, otto
-	es: entrada
+    es: entrada
     wiktionary: https://en.wiktionary.org/wiki/input
 
   - term: jitter
     fi: värinä
-	es: fluctuación del retardo
+    es: fluctuación del retardo
     pl: drżenie, rozsynchronizowanie
     wiktionary: https://en.wiktionary.org/wiki/jitter
 
   - term: localization
     fi: paikannus, paikantaminen, lokalisaatio
-	es: localización
+    es: localización
     pl: lokalizacja
     wiktionary: https://en.wiktionary.org/wiki/localization
 
@@ -155,12 +155,12 @@ glossary:
 
   - term: loudness level
     fi: äänekkyystaso
-	es: nivel de sonoridad
+    es: nivel de sonoridad
     wikipedia: https://fi.wikipedia.org/wiki/%C3%84%C3%A4nekkyystaso
 
   - term: magnitude response
     fi: magnitudivaste
-	es: respuesta de magnitud
+    es: respuesta de magnitud
 
   - term: modal
     fi: modaalinen, modaali-, moodi-
@@ -174,7 +174,7 @@ glossary:
 
   - term: multichannel, multiple channel
     fi: monikanavainen, monikanava-
-	es: multicanal, multiples canales
+    es: multicanal, multiples canales
     intra_link: single-channel
 
   - term: single-channel
@@ -183,7 +183,7 @@ glossary:
   - term: narrowband
     fi: kapeakaistainen, kapeakaista-
     pl: wąskopasmowy
-	es: banda estrecha
+    es: banda estrecha
     wiktionary: https://en.wiktionary.org/wiki/narrowband
 
   - term: neural network
@@ -199,7 +199,7 @@ glossary:
   - term: neuron
     definition: a node in a neural network taking in multiple values and generating single value as an output
     fi: neuroni
-	es: neurona
+    es: neurona
     pl: neuron
     wiktionary: https://en.wiktionary.org/wiki/neuron
 
@@ -221,13 +221,13 @@ glossary:
 
   - term: output
     fi: ulostulo, lähtö, anto, tuloste
-	es: salida
+    es: salida
     wiktionary: https://en.wiktionary.org/wiki/output
     intra_link: input
 
   - term: parallel
     fi: rinnakkainen, rinnakkais-
-	es: paralelo
+    es: paralelo
     pl: równoległy
     wiktionary: https://en.wiktionary.org/wiki/parallel
 
@@ -241,7 +241,7 @@ glossary:
 
   - term: perceptual
     fi: havainnonmukainen
-	es: perceptual
+    es: perceptual
     wiktionary: https://en.wiktionary.org/wiki/perceptual
     intra_link: perception
 
@@ -269,7 +269,7 @@ glossary:
 
   - term: random noise
     fi: satunnaiskohina
-	es: ruido aleatorio
+    es: ruido aleatorio
     pl: szum losowy
 
   - term: reverberation
@@ -311,13 +311,13 @@ glossary:
 
   - term: sound event
     fi: äänitapahtuma
-	es: evento sonoro
+    es: evento sonoro
     pl: zdarzenie akustyczne
 
   - term: sound event detection
     abbreviation: SED
     fi: äänitapahtuman havaitseminen, äänitapahtuman tunnistus
-	es: detección de eventos sonoros
+    es: detección de eventos sonoros
     intra_link: sound event
 
   - term: sound pressure
@@ -331,22 +331,22 @@ glossary:
   - term: sound pressure level
     abbreviation: SPL
     fi: äänenpainetaso, äänipainetaso
-	es: nivel de presión sonora
+    es: nivel de presión sonora
     wikipedia: https://en.wikipedia.org/wiki/Sound_pressure#Sound_pressure_level
     intra_link: sound pressure
 
   - term: sound quality
     fi: äänenlaatu
-	es: calidad de sonido
+    es: calidad de sonido
     pl: jakość dźwięku
 
   - term: source proximity
     fi: äänilähteen läheisyys
-	es: proximidad de fuentes
+    es: proximidad de fuentes
 
   - term: system
     fi: järjestelmä
-	es: sistema
+    es: sistema
     wiktionary: https://en.wiktionary.org/wiki/system
 
   - term: texture
@@ -381,7 +381,7 @@ glossary:
 
   - term: wideband
     fi: laajakaistainen, laajakaista-
-	es: banda ancha
+    es: banda ancha
     wiktionary: https://en.wiktionary.org/wiki/wideband
 
   #- term: ambisonics
@@ -438,7 +438,7 @@ glossary:
 
   - term: detection
     fi: havaitseminen, ilmaiseminen, ilmaisu, löytäminen
-	es: detección
+    es: detección
     pl: detekcja, wykrywanie, odkrywanie
     wiktionary: https://en.wiktionary.org/wiki/detection
 
@@ -455,7 +455,7 @@ glossary:
     fi: ontologia
     de: Ontologie
     fr: ontologie
-	es: ontología
+    es: ontología
     pl: ontologia
     wikipedia: https://en.wikipedia.org/wiki/Ontology
     wiktionary: https://en.wiktionary.org/wiki/ontology
@@ -465,7 +465,7 @@ glossary:
     fi: taksonomia, luokittelu
     de: Taxonomie
     fr: taxonomie
-	es: taxonomía
+    es: taxonomía
     wiktionary: https://en.wiktionary.org/wiki/taxonomy
 
   - term: folksonomy
@@ -478,7 +478,7 @@ glossary:
 
   - term: monitoring
     fi: monitorointi, valvonta, tarkkailu, seuranta
-	es: monitorizar
+    es: monitorizar
     wiktionary: https://en.wiktionary.org/wiki/monitoring
 
   - term: wildlife monitoring
@@ -487,7 +487,7 @@ glossary:
   - term: generalisation, generalization
     definition: model's ability to predict correctly on data not used for training the model
     fi: yleistäminen, yleistys
-	es: generalización
+    es: generalización
 
   - term: audio dataset
     definition: a collection of audio examples used for system development
@@ -515,7 +515,7 @@ glossary:
     fi: uusiutuva neuroverkko, toistuva neuroverkko
     de: Rekurrentes Neuronales Netz
     fr: réseau de neurones récurrents
-	es: redes neuronales recurrentes
+    es: redes neuronales recurrentes
     wikipedia: https://en.wikipedia.org/wiki/Recurrent_neural_network
     intra_link: neural network, deep neural network
 
@@ -534,7 +534,7 @@ glossary:
     definition: a research problem focusing on storing knowledge gained while solving one problem and applying it to a different problem
     fi: siirto-oppiminen, siirretty oppiminen
     fr: apprentissage par transfert
-	es: aprendizaje por transferencia
+    es: aprendizaje por transferencia
     wikipedia: https://en.wikipedia.org/wiki/Transfer_learning
 
   - term: leaderboard
@@ -562,7 +562,7 @@ glossary:
 
   - term: sensor
     fi: anturi, ilmaisin, sensori
-	es: sensor
+    es: sensor
     wiktionary: https://en.wiktionary.org/wiki/sensor
 
   - term: sensor node
@@ -576,13 +576,13 @@ glossary:
 
   - term: repository
     fi: säilö, tietolähde
-	es: repositorio
+    es: repositorio
     wiktionary: https://en.wiktionary.org/wiki/repository
 
   - term: annotation
     definition: adding metadata to audio
     fi: annotointi
-	es: anotación
+    es: anotación
     pl: adnotacja, przypis
     wiktionary: https://en.wiktionary.org/wiki/annotation
 
@@ -591,19 +591,19 @@ glossary:
 
   - term: labeling
     fi: nimikointi
-	es: etiquetado
+    es: etiquetado
 
   - term: model
     definition: in machine learning system, a parameter set learned from the training data
     fi: malli
-	es: modelo
+    es: modelo
     pl: model
     wiktionary: https://en.wiktionary.org/wiki/model
 
   - term: acoustic model
     definition: in speech recognition system, model learned from acoustic data
     fi: akustinen malli
-	es: modelo acústico
+    es: modelo acústico
     pl: model akustyczny
     wikipedia: https://en.wikipedia.org/wiki/Acoustic_model
 
@@ -653,7 +653,7 @@ glossary:
   - term: multi-class classification
     definition: classification type where prediction is done between three or more classes
     fi: moniluokkainen luokittelu
-	es: classificación multiclase
+    es: classificación multiclase
     wikipedia: https://en.wikipedia.org/wiki/Multiclass_classification
 
   - term: error rate
@@ -671,7 +671,7 @@ glossary:
   - term: Gaussian mixture model
     abbreviation: GMM
     fi: Gaussin sekoitemalli, Gaussinen sekoitemalli
-	es: modelo de mezcla gaussiana
+    es: modelo de mezcla gaussiana
     wikipedia: https://en.wikipedia.org/wiki/Mixture_model#Gaussian_mixture_model
     intra_link: mixture model
 
@@ -679,7 +679,7 @@ glossary:
     abbreviation: MFCCs
     fi: Mel-kepstrikertoimet, mel-taajuus kepstrikertoimet
     de: Mel-Frequenz-Cepstrum-Koeffizienten
-	es: coeficientes cepstrales en las frecuencias de mel
+    es: coeficientes cepstrales en las frecuencias de mel
     wikipedia: https://en.wikipedia.org/wiki/Mel-frequency_cepstrum
 
   - term: cepstrum
@@ -699,7 +699,7 @@ glossary:
     definition: an ensemble learning method which constructs a multiple decision trees at training stage
     fi: satunnaismetsä
     fr: forêt d'arbres décisionnels
-	es: bosques aleatorios
+    es: bosques aleatorios
     wikipedia: https://en.wikipedia.org/wiki/Random_forest
 
   - term: supervised learning
@@ -715,14 +715,14 @@ glossary:
   - term: nearest neighbor
     fi: lähin naapuri
     fr: Recherche des plus proches voisins
-	es: vecino más próximo
+    es: vecino más próximo
     wikipedia: https://en.wikipedia.org/wiki/Nearest_neighbor_search
     intra_link: k-nearest-neighbor
 
   - term: decision tree
     definition: a learning method using tree-like decision graph
     fi: päätöspuu
-	es: árbol de decisión
+    es: árbol de decisión
     pl: drzewo decyzyjne
     wikipedia: https://en.wikipedia.org/wiki/Decision_tree_learning
 
@@ -777,7 +777,7 @@ glossary:
 
   - term: classifier
     fi: luokittelija, luokitin
-	es: clasificador
+    es: clasificador
     pl: klasyfikator
     wiktionary: https://en.wiktionary.org/wiki/classifier
     intra_link: classification
@@ -785,7 +785,7 @@ glossary:
   - term: feature
     definition: a measurable property of the acoustic signal
     fi: piirre
-	es: característica
+    es: característica
     pl: cecha, atrybut
     wiktionary: https://en.wiktionary.org/wiki/feature
     intra_link: acoustic feature
@@ -834,7 +834,7 @@ glossary:
 
   - term: speech processing
     fi: puheteknologia
-	es: procesamiento del lenguaje
+    es: procesamiento del lenguaje
     wikipedia: https://en.wikipedia.org/wiki/Speech_processing
 
   - term: speech analysis
@@ -882,7 +882,7 @@ glossary:
   - term: model selection
     definition: a task of selecting a model from a set of candidate models based on data
     fi: mallin valinta
-	es: selección del modelo
+    es: selección del modelo
     pl: wybór modelu
     wikipedia: https://en.wikipedia.org/wiki/Model_selection
 
@@ -897,7 +897,7 @@ glossary:
     definition: a mathematical operation to estimate future values as a linear function of previous values
     fi: lineaariprediktio, lineaarinen ennustus, lineaarinen ennustaminen
     de: Lineare vorhersage
-	es: predicción lineal
+    es: predicción lineal
     pl: predykcja liniowa
     wikipedia: https://en.wikipedia.org/wiki/Linear_prediction
 
@@ -913,13 +913,13 @@ glossary:
 
   - term: cognitive modeling
     fi: kognitiivinen mallinnus
-	es: modelo cognitivo
+    es: modelo cognitivo
     pl: modelowanie kognitywne
     wikipedia: https://en.wikipedia.org/wiki/Cognitive_model
 
   - term: speech segmentation
     fi: puheen segmentointi
-	es: segmentación del habla
+    es: segmentación del habla
     pl: segmentacja mowy
     wikipedia: https://en.wikipedia.org/wiki/Speech_segmentation
 
@@ -929,19 +929,19 @@ glossary:
   - term: feature extraction
     fi: piirreirroitus, piirteistys
     fr: extraction de caractéristique
-	es: extracción de características
+    es: extracción de características
     pl: ekstrakcja cech
     wikipedia: https://en.wikipedia.org/wiki/Feature_extraction
 
   - term: audio classification
     fi: äänimateriaalien luokittelu
-	es: clasificación acústica, clasificación del audio
+    es: clasificación acústica, clasificación del audio
     pl: klasyfikacja akustyczna
     intra_link: classification
 
   - term: retrieval
     fi: haku
-	es: recuperación
+    es: recuperación
     wiktionary: https://en.wiktionary.org/wiki/retrieval
 
   - term: computational audio content analysis
@@ -958,7 +958,7 @@ glossary:
 
   - term: segmentation
     fi: segmentointi
-	es: segmentación
+    es: segmentación
     pl: segmentacja
     wiktionary: https://en.wiktionary.org/wiki/segmentation
 
@@ -982,7 +982,7 @@ glossary:
   - term: category
     definition: a group to which items are assigned based on similarity or defined criteria
     fi: luokka, kategoria
-	es: categoría
+    es: categoría
     pl: kategoria
     wiktionary: https://en.wiktionary.org/wiki/category
 
@@ -1018,7 +1018,7 @@ glossary:
   - term: recall
     definition: a measure how many positive classes were correctly predicted
     fi: saanti
-	es: exhaustividad
+    es: exhaustividad
     wiktionary: https://en.wiktionary.org/wiki/recall
     intra_link: precision, F-score, evaluation metric
 
@@ -1077,7 +1077,7 @@ glossary:
 
   - term: pattern
     fi: hahmo
-	es: patrón
+    es: patrón
     wiktionary: https://en.wiktionary.org/wiki/pattern
 
   - term: hyponym
@@ -1173,14 +1173,14 @@ glossary:
 
   - term: deterministic
     fi: deterministinen
-	es: determinístico
+    es: determinístico
     pl: deterministyczny
     wiktionary: https://en.wiktionary.org/wiki/deterministic
     wikipedia: https://en.wikipedia.org/wiki/Deterministic_algorithm
 
   - term: dimensionality
     fi: ulotteisuus
-	es: dimensionalidad
+    es: dimensionalidad
     wiktionary: https://en.wiktionary.org/wiki/dimensionality
     wikipedia: https://en.wikipedia.org/wiki/Dimension
 
@@ -1195,7 +1195,7 @@ glossary:
   - term: empirical
     fi: kokemusperäinen, empiirinen
     fr: empirical
-	es: empírico
+    es: empírico
     wiktionary: https://en.wiktionary.org/wiki/empirical
 
   - term: latent variable
@@ -1321,7 +1321,7 @@ glossary:
 
   - term: random effect
     fi: satunnaisvaikutus
-	es: efecto aleatorio
+    es: efecto aleatorio
     pl: efekt losowy
 
   - term: randomization
@@ -1341,13 +1341,13 @@ glossary:
     abbreviation: AUC
     definition: in binary classification, an evaluation metric to considers all classification thresholds
     fi: luokittelijan havintojen erottelukyky
-	es: área bajo la curva
+    es: área bajo la curva
     pl: pole pod krzywą
     intra_link: reciever operating characteristic curve
 
   - term: sensitivity
     fi: herkkyys, sensitiivisyys
-	es: sensibilidad
+    es: sensibilidad
     wiktionary: https://en.wiktionary.org/wiki/sensitivity
     wikipedia: https://en.wikipedia.org/wiki/Sensitivity_and_specificity
     intra_link: evaluation metric
@@ -1360,7 +1360,7 @@ glossary:
 
   - term: significance level
     fi: merkitsevyystaso
-	es: valor significativo
+    es: valor significativo
     pl: poziom istotności
 
   - term: smoothing
@@ -1397,7 +1397,7 @@ glossary:
 
   - term: validation
     fi: validointi
-	es: validación
+    es: validación
     wiktionary: https://en.wiktionary.org/wiki/validation
 
   - term: dissimilarity
@@ -1427,13 +1427,13 @@ glossary:
   - term: true negative
     abbreviation: TN
     fi: oikea negatiivinen
-	es: verdadero negativo
+    es: verdadero negativo
     definition: an example correctly predicted as negative class
 
   - term: true positive
     abbreviation: TP
     fi: oikea positiivinen
-	es: verdadero positivo
+    es: verdadero positivo
     definition: an example correctly predicted as positive class
 
   - term: true positive rate
@@ -1458,12 +1458,12 @@ glossary:
   - term: inverse fast Fourier transform
     abbreviation: IFFT
     pl: odwrotna transformata Fouriera
-	es: transformada inversa de Fourier
+    es: transformada inversa de Fourier
 
   - term: discrete-time Fourier transform
     abbreviation: DFT
     de: Fouriertransformation für zeitdiskrete Signale
-	es: transformada discreta de Fourier
+    es: transformada discreta de Fourier
     wikipedia: https://en.wikipedia.org/wiki/Discrete-time_Fourier_transform
 
   - term: feedforward neural network
@@ -1527,7 +1527,7 @@ glossary:
   - term: similarity measure
     definition: a measure to determine how similar two examples are
     fi: samankaltaisuusmitta
-	es: medida de similitud
+    es: medida de similitud
     pl: miara podobieństwa
     intra_link: similarity
     wikipedia: https://en.wikipedia.org/wiki/Similarity_measure
@@ -1545,7 +1545,7 @@ glossary:
     abbreviation: GAN
     definition: technique where a generator generates data candidates and a discriminator evaluates them.
     fi: generatiivinen kilpaileva verkko
-	es: redes neuronales generativas adversarias
+    es: redes neuronales generativas adversarias
     wikipedia: https://en.wikipedia.org/wiki/Generative_adversarial_network
     intra_link: deep neural network, neural network
 
@@ -1562,7 +1562,7 @@ glossary:
   - term: active learning
     definition: a learning technique where algorithm selects the data it learns from
     fi: aktiivinen oppiminen
-	es: aprendizaje activo
+    es: aprendizaje activo
     pl: aktywne uczenie
     wikipedia: https://en.wikipedia.org/wiki/Active_learning_(machine_learning)
 
@@ -1612,7 +1612,7 @@ glossary:
   - term: binary classification
     definition: a type of classification which outputs one of two mutually exclusive classes
     fi: binäärinen luokittelu
-	es: clasificación binaria
+    es: clasificación binaria
     pl: klasyfikacja binarna
     wikipedia: https://en.wikipedia.org/wiki/Binary_classification
 
@@ -1620,7 +1620,7 @@ glossary:
     definition: an NxN table to summarize classification performance (predicted class versus actual class)
     fi: sekaannusmatriisi
     fr: matrice de confusion
-	es: matriz de confusión
+    es: matriz de confusión
 
   - term: embeddings
     definition: a low-dimensional space into which high-dimensional vectors can be translated
@@ -1668,7 +1668,7 @@ glossary:
   - term: hidden layer
     definition: in neural network, layer between the input layer and the output layer
     fi: piilokerros
-	es: capa oculta
+    es: capa oculta
     pl: warstwa ukryta
     intra_link: deep neural network, neural network
 
@@ -1703,7 +1703,7 @@ glossary:
 
   - term: annotator
     fi: annotaattori
-	es: anotador
+    es: anotador
 
   - term: multi-annotator
 
@@ -1721,7 +1721,7 @@ glossary:
   - term: layer
     definition: in neural network, a set of neurons
     fi: kerros
-	es: capa
+    es: capa
     pl: warstwa
     intra_link: deep neural network, neural network
     wiktionary: https://en.wiktionary.org/wiki/layer
@@ -1729,19 +1729,19 @@ glossary:
   - term: learning rate
     definition: a hyperparameter to control the size of the learning step, gradient step
     fi: oppimisnopeus
-	es: ration de aprendizaje
+    es: ration de aprendizaje
     intra_link: deep neural network, neural network
 
   - term: objective
     definition: a metric the algorithm tries to optimize
     fi: tavoite, päämäärä
-	es: objetivo
+    es: objetivo
     wiktionary: https://en.wiktionary.org/wiki/objective
 
   - term: prediction
     definition: system's output for the input example
     fi: ennustaminen, ennuste
-	es: predicción
+    es: predicción
     wiktionary: https://en.wiktionary.org/wiki/prediction
 
   - term: normalization
@@ -1762,7 +1762,7 @@ glossary:
   - term: optimizer
     definition: in neural network, an implementation of gradient descent algorithm
     fi: optimoija
-	es: optimizador
+    es: optimizador
     wiktionary: https://en.wiktionary.org/wiki/optimizer
 
   - term: perceptron
@@ -1773,7 +1773,7 @@ glossary:
   - term: performance
     definition: in machine learning, refers to the goodness of the model's predictions
     fi: suorituskyky
-	es: rendimiento
+    es: rendimiento
     wiktionary: https://en.wiktionary.org/wiki/performance
 
   - term: pooling
@@ -1785,7 +1785,7 @@ glossary:
   - term: pre-trained model
     definition: a model which has been already trained
     fi: esiopetettu malli
-	es: modelo pre-entrenado
+    es: modelo pre-entrenado
 
   - term: regularization
     definition: in machine learning, penalizes a model's compelixity in order to prevent overfitting
@@ -1816,7 +1816,7 @@ glossary:
   - term: training
     definition: a process of determining the optimal parameters of the model
     fi: opetus
-	es: entrenamiento
+    es: entrenamiento
     wiktionary: https://en.wiktionary.org/wiki/training
 
   - term: classification threshold
@@ -1839,7 +1839,7 @@ glossary:
 
   - term: pruning
     fi: karsiminen, karsinta
-	es: poda
+    es: poda
     wiktionary: https://en.wiktionary.org/wiki/pruning
 
   - term: transformation
@@ -1894,43 +1894,43 @@ glossary:
     fi: kuulotapahtuma
     de: Hörereignis
     fr: Audition humaine
-	es: evento auditivo
+    es: evento auditivo
 
   - term: auditory scene
     fi: kuulomaisema
 
   - term: background noise
     fi: taustamelu, taustakohina
-	es: ruido de fondo
+    es: ruido de fondo
     pl: szum tła
 
   - term: sampling frequency
     fi: näytetaajuus, näytteenottotaajuus
-	es: frecuencia de muestreo
+    es: frecuencia de muestreo
     pl: częstotliwość próbkowania
     intra_link: sampling rate
     wikipedia: https://en.wikipedia.org/wiki/Sampling_(signal_processing)
 
   - term: sampling rate
     fi: näytenopeus, näytetaajuus
-	es: tasa de muestreo
+    es: tasa de muestreo
     intra_link: sampling frequency
     wikipedia: https://en.wikipedia.org/wiki/Sampling_(signal_processing)#Sampling_rate
 
   - term: acoustic feature
     fi: akustinen piirre
-	es: característica acústica
+    es: característica acústica
     pl: cecha akustyczna
     intra_link: feature
 
   - term: audio signal processing
     fi: audiosignaalin käsittely
-	es: procesado de señal acústico
+    es: procesado de señal acústico
     pl: przetwarzanie sygnałów akustycznych
 
   - term: audio source separation
     fi: äänilähteiden separointi
-	es: separación de fuentes sonoras
+    es: separación de fuentes sonoras
 
   - term: speech enhancement
     definition: improvement of speech quality by using various algorithms
@@ -1939,17 +1939,17 @@ glossary:
 
   - term: signal modeling
     fi: signaalin mallinnus
-	es: modelado de señal
+    es: modelado de señal
 
   - term: audio tagging
 
   - term: acoustic scene
     pl: scena akustyczna
-	es: escena acústica
+    es: escena acústica
 
   - term: training data
     fi: opetusdata
-	es: datos de entrenamiento
+    es: datos de entrenamiento
 
   - term: testing data
     intra_link: test set
@@ -1992,7 +1992,7 @@ glossary:
 
   - term: noise suppression
     fi: kohinanvaimennus
-	es: supresión del ruido
+    es: supresión del ruido
 
   - term: frame blocking
     intra_link: frame
@@ -2004,7 +2004,7 @@ glossary:
 
   - term: windowing
     fi: ikkunointi
-	es: enventanado
+    es: enventanado
     wiktionary: https://en.wiktionary.org/wiki/windowing
     intra_link: windowing function
 
@@ -2026,7 +2026,7 @@ glossary:
 
   - term: tag
     fi: tagi, tarra
-	en: etiqueta
+    es: etiqueta
     wiktionary: https://en.wiktionary.org/wiki/tag
 
   - term: information retrieval
@@ -2041,23 +2041,23 @@ glossary:
 
   - term: knowledge
     fi: tietämys
-	es: conocimiento
+    es: conocimiento
     pl: wiedza
     wiktionary: https://en.wiktionary.org/wiki/knowledge
 
   - term: recognition
     fi: tunnistaminen
-	es: reconocimiento
+    es: reconocimiento
     wiktionary: https://en.wiktionary.org/wiki/recognition
 
   - term: context
     fi: ympäristö
-	es: contexto
+    es: contexto
     wiktionary: https://en.wiktionary.org/wiki/context
 
   - term: indexing
     fi: indeksointi
-	es: indexar
+    es: indexar
     wiktionary: https://en.wiktionary.org/wiki/indexing
 
   - term: frame stacking
@@ -2167,11 +2167,11 @@ glossary:
 
   - term: time domain envelope
     pl: obwiednia w dziedzinie czasu
-	es: envolvente en el dominio temporal
+    es: envolvente en el dominio temporal
 
   - term: spectral envelope
     pl: obwiednia widmowa
-	es: envolvente espectral
+    es: envolvente espectral
     wikipedia: https://en.wikipedia.org/wiki/Spectral_envelope
 
   - term: spectral moments
@@ -2188,12 +2188,12 @@ glossary:
 
   - term: spectral flux
     fi: spektrin vuo
-	es: flujo espectral
+    es: flujo espectral
     wikipedia: https://en.wikipedia.org/wiki/Spectral_flux
 
   - term: spectral centroid
     fi: spektrin keskipiste
-	es: centroide espectral
+    es: centroide espectral
     wikipedia: https://en.wikipedia.org/wiki/Spectral_centroid
 
   - term: linear prediction cepstral coefficients
@@ -2231,7 +2231,7 @@ glossary:
   - term: kernel
     fi: ydin
     pl: jądro
-	es: núcleo
+    es: núcleo
     wiktionary: https://en.wiktionary.org/wiki/kernel
 
   - term: temporal integration
@@ -2244,13 +2244,13 @@ glossary:
   - term: head-related transfer function
     abbreviation: HRTF
     fi: pään siirtofunktio
-	es: función de transferencia relacionada con la cabeza
+    es: función de transferencia relacionada con la cabeza
     wikipedia: https://en.wikipedia.org/wiki/Head-related_transfer_function
 
   - term: direction of arrival
     abbreviation: DOA
     fi: äänen tulosuunta
-	es: dirección de llegada
+    es: dirección de llegada
     wikipedia: https://en.wikipedia.org/wiki/Direction_of_arrival
 
   - term: binary mask
@@ -2299,7 +2299,7 @@ glossary:
     definition: Machine learning field to deal with cases in which a model trained on source distribution is used on different target distribution
     wikipedia: https://en.wikipedia.org/wiki/Domain_adaptation
     fr: Adaptation de domaine
-	es: adaptación de dominio
+    es: adaptación de dominio
 
   - term: textual label
 
@@ -2314,7 +2314,7 @@ glossary:
 
   - term: multi-task learning
     fi: monitehtävä oppiminen, monen tehtävän oppiminen
-	es: aprendizaje multi-tarea
+    es: aprendizaje multi-tarea
     definition: approach where multiple learning tasks are solved at the same time
     wikipedia: https://en.wikipedia.org/wiki/Multi-task_learning
 
@@ -2380,19 +2380,19 @@ glossary:
   - term: soundscape
     wikipedia: https://en.wikipedia.org/wiki/Soundscape
     fi: äänimaisema
-	es: paisaje sonoro
+    es: paisaje sonoro
 
   - term: robust classification
     fi: robusti luokittelu
-	es: clasificación robusta
+    es: clasificación robusta
 
   - term: audio analysis
     fi: äänen analyysi
-	es: análisis auditivo
+    es: análisis auditivo
 
   - term: additive noise
     fi: lisätty kohina
-	es: ruido aditivo
+    es: ruido aditivo
 
   - term: acoustic scene analysis
 
@@ -2430,7 +2430,7 @@ glossary:
 
   - term: near field
     fi: lähikenttä
-	es: campo cercano
+    es: campo cercano
 
   - term: free field
     fi: vapaa kenttä
@@ -2471,7 +2471,7 @@ glossary:
 
   - term: augmented intelligence
     fi: apuäly
-	es: inteligencia aumentada
+    es: inteligencia aumentada
 
   - term: edge AI
 
@@ -2492,4 +2492,4 @@ glossary:
 
   - term: fundamental frequency
     fi: perustaajuus
-	es: frecuencia fundamental
+    es: frecuencia fundamental
