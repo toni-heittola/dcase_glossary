@@ -79,7 +79,7 @@ glossary:
   - term: filter bank
     definition: an array of band-pass filters
     fi: suodinpankki
-    es: banco de filtros híbrido
+    es: banco de filtros, banco de filtros híbrido
     pl: bank filtrów
     wikipedia: https://en.wikipedia.org/wiki/Filter_bank
 
@@ -116,6 +116,8 @@ glossary:
 
   - term: impulse response
     fi: impulssivaste
+    de: Impulsantwort
+    es: Respuesta a impulso
     pl: odpowiedź impulsowa
     wikipedia: https://en.wikipedia.org/wiki/Impulse_response
 
@@ -129,15 +131,22 @@ glossary:
     wiktionary: https://en.wiktionary.org/wiki/jitter
 
   - term: localization
-    fi: paikannus, lokalisaatio
+    fi: paikannus, paikantaminen, lokalisaatio
     pl: lokalizacja
     wiktionary: https://en.wiktionary.org/wiki/localization
 
   - term: loudness
     fi: äänekkyys
+    de: Lautheit
+    es: Sonoridad
+    fr: Sonie
     pl: głośność
     wikipedia: https://en.wikipedia.org/wiki/Loudness
     wiktionary: https://en.wiktionary.org/wiki/loudness
+
+  - term: loudness level
+    fi: äänekkyystaso
+    wikipedia: https://fi.wikipedia.org/wiki/%C3%84%C3%A4nekkyystaso
 
   - term: magnitude response
     fi: magnitudivaste
@@ -145,6 +154,8 @@ glossary:
   - term: modal
     fi: modaalinen, modaali-, moodi-
     wiktionary: https://en.wiktionary.org/wiki/modal
+
+  - term: modality
 
   - term: modeling
     fi: mallintaminen, mallinnus
@@ -163,8 +174,9 @@ glossary:
     wiktionary: https://en.wiktionary.org/wiki/narrowband
 
   - term: neural network
+    abbreviation: NN
     definition: network of (artificial) neurons
-    fi: neuroverkko, hermoverkko
+    fi: neuroverkosto, neuroverkko, hermoverkko
     de: neuronales Netzwerk
     fr: réseau de neurones
     es: red de los nervios
@@ -182,6 +194,8 @@ glossary:
 
   - term: noise
     fi: kohina, melu, häly, häiriö
+    de: Geräusch
+    es: Ruido
     pl: szum, hałas
     wikipedia: https://en.wikipedia.org/wiki/Noise
     wiktionary: https://en.wiktionary.org/wiki/noise
@@ -248,6 +262,11 @@ glossary:
     wikipedia: https://en.wikipedia.org/wiki/Reverberation
     wiktionary: https://en.wiktionary.org/wiki/reverberation
 
+  - term: reverberation time
+    abbreviation: RT
+    fi: jälkikauinta-aika
+    wikipedia: https://en.wikipedia.org/wiki/Reverberation
+
   - term: short-time Fourier transform
     abbreviation: STFT
     fr: transformée de Fourier à court terme
@@ -260,6 +279,8 @@ glossary:
     fi: signaalinkäsittely
     de: Signalverarbeitung
     pl: przetwarzanie sygnałów
+    es: procesamiento de señales
+    fr: traitement du signal
     wikipedia: https://en.wikipedia.org/wiki/Signal_processing
 
   - term: signal-to-noise ratio
@@ -347,15 +368,20 @@ glossary:
     abbreviation: DCASE
 
   - term: deep learning
+    abbreviation: DL
     definition: a multi-level algorithm that gradually identifies things at higher levels of abstraction
     fi: syväoppiminen
     es: aprendizaje profundo
     wikipedia: https://en.wikipedia.org/wiki/Deep_learning
 
+  - term: deep machine learning
+    abbreviation: DML
+    intra_link: deep learning
+
   - term: deep neural network
     abbreviation: DNN
     definition: neural network containing multiple hidden layers
-    fi: syvä neuroverkko
+    fi: syvä neuroverkosto, syvä neuroverkko
     wikipedia: https://en.wikipedia.org/wiki/Deep_learning#Deep_neural_networks
 
   - term: machine listening
@@ -435,6 +461,7 @@ glossary:
 
   - term: audio dataset
     definition: a collection of audio examples used for system development
+    fi: audiotietokanta
 
   - term: semi-supervised learning
     definition: machine learning technique to use small amount of labeled data and large amount of unlabeled data in the learning stage
@@ -446,7 +473,7 @@ glossary:
   - term: convolutional neural network
     abbreviation: CNN
     definition: a neural network with convolutional layers along with pooling and fully connected layers
-    fi: konvoluutioverkko
+    fi: konvoluutioverkko, konvoluutioneuroverkko
     es: redes neuronales convolucionales
     fr: réseau neuronal convolutif
     wikipedia: https://en.wikipedia.org/wiki/Convolutional_neural_network
@@ -507,6 +534,9 @@ glossary:
 
   - term: sensor node
     intra_link: sensor
+    fi: anturisolmu
+    es: Nodo sensor
+    wikipedia: https://en.wikipedia.org/wiki/Sensor_node
 
   - term: baseline system
     definition: system used as reference point for comparing how well currently developed system is performing
@@ -520,6 +550,12 @@ glossary:
     fi: annotointi
     pl: adnotacja, przypis
     wiktionary: https://en.wiktionary.org/wiki/annotation
+
+  - term: metadata
+    fi: taustatieto, metatieto, metadata
+
+  - term: labeling
+    fi: nimikointi
 
   - term: model
     definition: in machine learning system, a parameter set learned from the training data
@@ -601,7 +637,7 @@ glossary:
 
   - term: mel-frequency cepstral coefficients
     abbreviation: MFCCs
-    fi: Mel-kepstrikertoimet
+    fi: Mel-kepstrikertoimet, mel-taajuus kepstrikertoimet
     de: Mel-Frequenz-Cepstrum-Koeffizienten
     wikipedia: https://en.wikipedia.org/wiki/Mel-frequency_cepstrum
 
@@ -836,6 +872,9 @@ glossary:
     pl: segmentacja mowy
     wikipedia: https://en.wikipedia.org/wiki/Speech_segmentation
 
+  - term: speech separation
+
+
   - term: feature extraction
     fi: piirreirroitus, piirteistys
     fr: extraction de caractéristique
@@ -892,7 +931,7 @@ glossary:
     wiktionary: https://en.wiktionary.org/wiki/category
 
   - term: corpus
-    fi: kokoelma, aineisto
+    fi: kokoelma, aineisto, korpus
     pl: korpus, zbiór
     wiktionary: https://en.wiktionary.org/wiki/corpus
 
@@ -1095,6 +1134,7 @@ glossary:
 
   - term: empirical
     fi: kokemusperäinen, empiirinen
+    fr: empirical
     wiktionary: https://en.wiktionary.org/wiki/empirical
 
   - term: latent variable
@@ -1204,6 +1244,7 @@ glossary:
 
   - term: linear discriminant analysis
     abbreviation: LDA
+    fi: lineaarinen erottelukyky analyysi
 
   - term: prior distribution
     fi: priorijakauma
@@ -1237,6 +1278,7 @@ glossary:
   - term: area under the curve
     abbreviation: AUC
     definition: in binary classification, an evaluation metric to considers all classification thresholds
+    fi: luokittelijan havintojen erottelukyky
     pl: pole pod krzywą
     intra_link: reciever operating characteristic curve
 
@@ -1431,6 +1473,7 @@ glossary:
   - term: generative adversarial network
     abbreviation: GAN
     definition: technique where a generator generates data candidates and a discriminator evaluates them.
+    fi: generatiivinen kilpaileva verkko
     wikipedia: https://en.wikipedia.org/wiki/Generative_adversarial_network
     intra_link: deep neural network, neural network
 
@@ -1541,6 +1584,10 @@ glossary:
 
   - term: heuristic
     definition: a practical and suboptimial solution
+    fi: heuristinen
+    de: Heuristik
+    es: Heurística
+    wikipedia: https://en.wikipedia.org/wiki/Heuristic
     wiktionary: https://en.wiktionary.org/wiki/heuristic
 
   - term: hidden layer
@@ -1578,8 +1625,14 @@ glossary:
     intra_link: hyperparameter
     wiktionary: https://en.wiktionary.org/wiki/parameter
 
+  - term: annotator
+    fi: annotaattori
+
+  - term: multi-annotator
+
   - term: inter-annotator agreement
     definition: a measurement of how well human annotators agree while annotation task
+    fi: annotoijien yksimielisyys
     wikipedia: https://en.wikipedia.org/wiki/Inter-rater_reliability
 
   #- term: Keras
@@ -1731,6 +1784,11 @@ glossary:
   - term: mel-scaled spectrogram
 
   - term: mel scale
+    definition: non-linear perceptual frequency scale where listners judge frequencies to be equal in distance from one another.
+    wikipedia: https://en.wikipedia.org/wiki/Mel_scale
+    fi: mel-asteikko
+    es: Escala Mel
+    fr: Échelle des mels
 
   - term: event onset
 
@@ -1744,8 +1802,12 @@ glossary:
     fi: äänilähde
 
   - term: auditory event
-    fi: kuulotapahtuma
+    definition: Subjective perception of sound
     intra_link: auditory scene
+    wikipedia: https://en.wikipedia.org/wiki/Auditory_event
+    fi: kuulotapahtuma
+    de: Hörereignis
+    fr: Audition humaine
 
   - term: auditory scene
     fi: kuulomaisema
@@ -1757,10 +1819,12 @@ glossary:
   - term: sampling frequency
     fi: näytetaajuus, näytteenottotaajuus
     pl: częstotliwość próbkowania
+    intra_link: sampling rate
     wikipedia: https://en.wikipedia.org/wiki/Sampling_(signal_processing)
 
   - term: sampling rate
     fi: näytenopeus, näytetaajuus
+    intra_link: sampling frequency
     wikipedia: https://en.wikipedia.org/wiki/Sampling_(signal_processing)#Sampling_rate
 
   - term: acoustic feature
@@ -1796,6 +1860,7 @@ glossary:
 
   - term: assisted living
     definition: a housing facility for people with disabilities or for adults who cannot or choose not to live independently
+    fi: tuettu asuminen
     de: Betreutes Wohnen
     pl: mieszkalnictwo wspomagane
     wikipedia: https://en.wikipedia.org/wiki/Assisted_living
@@ -1824,8 +1889,13 @@ glossary:
     intra_link: annotation,  weak annotation
 
   - term: data acquisition
+    de: Datenerfassung
+    es: Adquisición de datos
+    fr: Chaîne d'acquisition
+    wikipedia: https://en.wikipedia.org/wiki/Data_acquisition
 
   - term: noise suppression
+    fi: kohinanvaimennus
 
   - term: frame blocking
     intra_link: frame
@@ -1857,7 +1927,7 @@ glossary:
     wikipedia: https://en.wikipedia.org/wiki/WordNet
 
   - term: tag
-    fi: tarra
+    fi: tagi, tarra
     wiktionary: https://en.wiktionary.org/wiki/tag
 
   - term: information retrieval
@@ -1919,9 +1989,20 @@ glossary:
     definition: crowdsourcing marketplace enabling the use of human intelligence to perform tasks
     wikipedia: https://en.wikipedia.org/wiki/Amazon_Mechanical_Turk
 
+  - term: acoustics
+    fi: akustiikka
+    de: Akustik
+    es: acústica
+    fr: acoustique
+    wikipedia: https://en.wikipedia.org/wiki/Acoustics
+
   - term: room simulation
 
   - term: room response
+    fi: huonevaste
+
+  - term: room acoustics
+    fi: huoneakustiikka
 
   - term: time stretching
     definition: changing the duration of an audio singal without affecting its pitch
@@ -2091,6 +2172,7 @@ glossary:
 
   - term: discrete cosine transform
     abbreviation: DCT
+    definition: Transform to represent data points with a sum of cosine functions
     fi: diskreetti kosinimuunnos
     de: Diskrete Kosinustransformation
     es: transformada de coseno discreta
@@ -2099,16 +2181,196 @@ glossary:
 
   - term: detection error tradeoff
     abbreviation: DET
+    definition: Plot of the false rejection rate versus false acceptance rate for classification systems
     wikipedia: https://en.wikipedia.org/wiki/Detection_error_tradeoff
+    fi: virheiden kompromissi
 
   - term: domain adaptation
+    definition: Machine learning field to deal with cases in which a model trained on source distribution is used on different target distribution
     wikipedia: https://en.wikipedia.org/wiki/Domain_adaptation
+    fr: Adaptation de domaine
 
   - term: textual label
 
   - term: speaker diarisation
+    definition: Process of spliting audio signal in to segments accroding to the speakers
     wikipedia: https://en.wikipedia.org/wiki/Speaker_diarisation
+    fi: puheen diarisointi
+
+  - term: early fusion
+    definition: Features from multiple sources are combined into a single feature set before feeding to a classifier.
+    intra_link: feature level fusion
 
   - term: multi-task learning
+    fi: monitehtävä oppiminen, monen tehtävän oppiminen
     definition: approach where multiple learning tasks are solved at the same time
     wikipedia: https://en.wikipedia.org/wiki/Multi-task_learning
+
+  - term: feature level fusion
+    definition: Features from multiple sources are combined into a single feature set before feeding to a classifier.
+    intra_link: early fusion
+
+  - term: late fusion
+    definition: Combaning outputs from multiple classifiers.
+
+  - term: brute-force search
+    definition: Systematically going through all possible candidate solutions for the problem
+    wikipedia: https://en.wikipedia.org/wiki/Brute-force_search
+    intra_link: exhaustive search
+    fi: raakavoimahaku
+    fr: Recherche exhaustive
+    es: Búsqueda de fuerza bruta
+    de: Brute-Force-Methode
+
+  - term: exhaustive search
+    fi: tyhjentävä haku
+    intra_link: brute-force search
+
+  - term: federated learning
+    intra_link: collaborative learning
+    definition: Machine learning technique to train a model across multiple devices
+    wikipedia: https://en.wikipedia.org/wiki/Federated_learning
+    fi: hajautettu oppiminen
+    de: Föderales Lernen
+
+  - term: collaborative learning
+    intra_link: federated learning
+
+  - term: sonification
+    fi: äännellistäminen
+
+  - term: auralization
+
+  - term: audification
+
+  - term: zero-shot learning
+    abbreviation: ZSL
+    wikipedia: https://en.wikipedia.org/wiki/Zero-shot_learning
+    fi: näytteetön oppiminen
+
+  - term: acoustic pattern recognition
+    fi: akustinen hahmontunnistus
+
+  - term: audio captioning
+
+  - term: sound event localization and detection
+    abbreviation: SELD
+
+  - term: noisy label
+
+  - term: semantic information
+
+  - term: paralinguistics
+
+  - term: audio-visual
+    fi: audiovisuaalinen
+
+  - term: soundscape
+    wikipedia: https://en.wikipedia.org/wiki/Soundscape
+    fi: äänimaisema
+
+  - term: robust classification
+    fi: robusti luokittelu
+
+  - term: audio analysis
+    fi: äänen analyysi
+
+  - term: additive noise
+    fi: lisätty kohina
+
+  - term: acoustic scene analysis
+
+  - term: multimodal
+    fi: multimodaalinen
+
+  - term: meta learning
+    fi: meta-oppiminen
+    wikipedia: https://en.wikipedia.org/wiki/Meta_learning_(computer_science)
+
+  - term: timbre
+    fi: äänenväri, sointiväri
+    de: Klangfarbe
+    es: timbre
+    fr: timbre
+    wikipedia: https://en.wikipedia.org/wiki/Timbre
+
+  - term: transient
+    fi: transientti
+
+  - term: monoaural
+    fi: monoääni, yksikanavainen
+    de: Monophonie
+    es: sonido monoaural
+    fr: monophonique
+    wikipedia: https://en.wikipedia.org/wiki/Monaural
+    intra_link: monophonic
+
+  - term: monophonic
+    intra_link: monoaural
+    fi: monofooninen, yksikanavainen
+
+  - term: naive listener
+    fi: kokematon koehenkilö
+
+  - term: near field
+    fi: lähikenttä
+
+  - term: free field
+    fi: vapaa kenttä
+
+  - term: roughness
+    fi: karheus
+
+  - term: robitics
+    fi: robotiikka
+    de: Robotik
+    es: robótica
+    fr: robotique
+    wikipedia: https://en.wikipedia.org/wiki/Robotics
+
+  - term: artifical general intelligence
+    abbreviation:  AGI
+    fi: yleinen tekoäly
+    de: Künstliche allgemeine Intelligenz
+    es: inteligencia artificial fuerte
+    fr: intelligence artificielle forte
+    wikipedia: https://en.wikipedia.org/wiki/Artificial_general_intelligence
+    intra_link: strong artificial intelligence, full artificial intelligence
+
+  - term: strong artificial intelligence
+    abbreviation: Strong AI
+    intra_link: artifical general intelligence, full artificial intelligence
+
+  - term: full artificial intelligence
+    abbreviation: Full AI
+    intra_link: artifical general intelligence, strong artificial intelligence
+
+  - term: weak artificial intelligence
+    abbreviation: Weak AI
+    fi: heikko AI, suppea tekoäly, kapea tekoäly, sovellettu tekoäly
+    es: inteligencia artificial débil
+    fr: intelligence artificielle faible
+    wikipedia: https://en.wikipedia.org/wiki/Weak_AI
+
+  - term: augmented intelligence
+    fi: apuäly
+
+  - term: edge AI
+
+  - term: edge computing
+    wikipedia: https://en.wikipedia.org/wiki/Edge_computing
+
+  - term: big data
+    fi: massadata
+    es: macrodatos
+    fr: mégadonnées
+    wikipedia: https://en.wikipedia.org/wiki/Big_data
+
+  - term: feedback
+    fi: takaisinsyöttö, takaisinkytkentä
+
+  - term: feedforward
+    fi: myötäkytkentä
+
+  - term: fundamental frequency
+    fi: perustaajuus
