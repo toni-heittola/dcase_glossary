@@ -2490,3 +2490,6 @@ glossary:
   - term: fundamental frequency
     fi: perustaajuus
     es: frecuencia fundamental
+
+  - term: self-supervised learning
+    abbreviation: SSL
