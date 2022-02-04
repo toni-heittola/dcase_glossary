@@ -2337,3 +2337,6 @@ glossary:
 
   - term: fundamental frequency
     fi: perustaajuus
+
+  - term: self-supervised learning
+    abbreviation: SSL
