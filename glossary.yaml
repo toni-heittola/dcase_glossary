@@ -2496,6 +2496,9 @@ glossary:
     fi: perustaajuus
     es: frecuencia fundamental
 
+  - term: self-supervised learning
+    abbreviation: SSL
+
   - term: spoken language understanding
     abbreviation: SLU
     definition: Extraction of the meaning out of the speech by usign automatic speech recognition and natural language understanding.
