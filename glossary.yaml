@@ -2136,6 +2136,7 @@ glossary:
 
   - term: feature learning
     definition: automatically discover needed representations
+    fi: ominaisuusoppiminen, ominaisuuksien oppiminen
     es: aprendizaje de características
     wikipedia: https://en.wikipedia.org/wiki/Feature_learning
     intra_link: feature engineering
@@ -2337,10 +2338,14 @@ glossary:
 
   - term: federated learning
     intra_link: collaborative learning
-    definition: Machine learning technique to train a model across multiple devices
+    definition: Machine learning technique to train a model across multiple devices without sharing local data examples
     wikipedia: https://en.wikipedia.org/wiki/Federated_learning
     fi: hajautettu oppiminen
     de: Föderales Lernen
+    es: Aprendizaje federado
+    it: Apprendimento federato
+    fr: Apprentissage fédéré
+
 
   - term: collaborative learning
     intra_link: federated learning
@@ -2490,3 +2495,23 @@ glossary:
   - term: fundamental frequency
     fi: perustaajuus
     es: frecuencia fundamental
+
+  - term: spoken language understanding
+    abbreviation: SLU
+    definition: Extraction of the meaning out of the speech by usign automatic speech recognition and natural language understanding.
+
+  - term: transformer
+    es: transformador
+    fr: transformeur
+    definition: Deep learning model that is utilizing self-attention mechanism to solve sequence-to-sequence task.
+    wikipedia: https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)
+
+  - term: attention
+    wikipedia: https://en.wikipedia.org/wiki/Attention_(machine_learning)
+
+  - term: self-attention
+    wikipedia: https://en.wikipedia.org/wiki/Attention_(machine_learning)
+
+  - term: cross-attention
+
+  - term: disentangled representation learning
