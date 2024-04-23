@@ -196,6 +196,10 @@ glossary:
     pl: sieć neuronowa
     wikipedia: https://en.wikipedia.org/wiki/Neural_network
 
+  - term: artificial neural network
+    fi: keinotekoinen neuroverkko
+    intra_link: neural network
+
   - term: neuron
     definition: a node in a neural network taking in multiple values and generating single value as an output
     fi: neuroni
@@ -481,6 +485,8 @@ glossary:
     es: monitorizar
     wiktionary: https://en.wiktionary.org/wiki/monitoring
 
+  - term: acoustic monitoring
+
   - term: wildlife monitoring
     fi: villieläinten seuranta, luonnon seuranta
 
@@ -488,6 +494,9 @@ glossary:
     definition: model's ability to predict correctly on data not used for training the model
     fi: yleistäminen, yleistys
     es: generalización
+
+  - term: dataset
+    fi: tietoaineisto
 
   - term: audio dataset
     definition: a collection of audio examples used for system development
@@ -503,7 +512,7 @@ glossary:
   - term: convolutional neural network
     abbreviation: CNN
     definition: a neural network with convolutional layers along with pooling and fully connected layers
-    fi: konvoluutioverkko, konvoluutioneuroverkko
+    fi: konvoluutioverkko, konvoluutio neuroverkko
     es: redes neuronales convolucionales
     fr: réseau neuronal convolutif
     wikipedia: https://en.wikipedia.org/wiki/Convolutional_neural_network
@@ -613,7 +622,7 @@ glossary:
 
   - term: decision boundary
     definition: learned separating boundary between classes
-    fi: päätösraja
+    fi: päätösraja, päätöspinta
     wikipedia: https://en.wikipedia.org/wiki/Decision_boundary
 
   - term: discriminative learning
@@ -1552,6 +1561,7 @@ glossary:
 
   - term: long short-term memory
     abbreviation: LSTM
+    fi: pitkän ja lyhyen aikavälin muistiverkot
     de: langes Kurzzeitgedächtnis
     wikipedia: https://en.wikipedia.org/wiki/Long_short-term_memory
     intra_link: deep neural network, neural network
@@ -1565,7 +1575,7 @@ glossary:
 
   - term: activation function
     definition: in neural network, a function to define the output of a neuron
-    fi: aktivaatiofunktio
+    fi: aktivaatiofunktio, aktivointifunktio
     es: Función de activación
     fr: Fonction d'activation
     pl: funkcja aktywacji
@@ -1608,7 +1618,7 @@ glossary:
 
   - term: binary classification
     definition: a type of classification which outputs one of two mutually exclusive classes
-    fi: binäärinen luokittelu
+    fi: binäärinen luokittelu, luokittelu kahteen luokkaan
     es: clasificación binaria
     pl: klasyfikacja binarna
     wikipedia: https://en.wikipedia.org/wiki/Binary_classification
@@ -1621,7 +1631,7 @@ glossary:
 
   - term: embeddings
     definition: a low-dimensional space into which high-dimensional vectors can be translated
-    fi: upotus
+    fi: upotus, embedointi
     intra_link: word embedding
 
   - term: word embedding
@@ -1756,6 +1766,9 @@ glossary:
     definition: machine learning approach where aim is to learn from a single training example
     wikipedia: https://en.wikipedia.org/wiki/One-shot_learning
 
+  - term: few-shot learning
+    intra_link: one-shot learning
+
   - term: optimizer
     definition: in neural network, an implementation of gradient descent algorithm
     fi: optimoija
@@ -1763,6 +1776,7 @@ glossary:
     wiktionary: https://en.wiktionary.org/wiki/optimizer
 
   - term: perceptron
+    fi: perseptroni
     definition: an algorithm which takes multiple input values, runs a function on the weighted sum of the inputs and computes a single output value
     wikipedia: https://en.wikipedia.org/wiki/Perceptron
     wiktionary: https://en.wiktionary.org/wiki/perceptron
@@ -1925,6 +1939,9 @@ glossary:
     es: procesado de señal acústico
     pl: przetwarzanie sygnałów akustycznych
 
+  - term: source separation
+    intra_link: audio source separation
+
   - term: audio source separation
     fi: äänilähteiden separointi
     es: separación de fuentes sonoras
@@ -1945,7 +1962,7 @@ glossary:
     es: escena acústica
 
   - term: training data
-    fi: opetusdata
+    fi: opetusdata, koulutusdata
     es: datos de entrenamiento
 
   - term: testing data
@@ -1965,6 +1982,9 @@ glossary:
     de: Situationsbewusstsein
     es: consciencia situacional
     wikipedia: https://en.wikipedia.org/wiki/Situation_awareness
+
+  - term: reference data
+    fi: viitetieto
 
   - term: reference label
     intra_link: ground truth, annotation
@@ -2015,6 +2035,7 @@ glossary:
     intra_link: windowing
 
   - term: training example
+    fi: opetusesimerkki
 
   - term: WordNet
     fi: sanaverkko, wordnet
@@ -2022,7 +2043,7 @@ glossary:
     wikipedia: https://en.wikipedia.org/wiki/WordNet
 
   - term: tag
-    fi: tagi, tarra
+    fi: tunniste, avainsana, tagi, tarra
     es: etiqueta
     wiktionary: https://en.wiktionary.org/wiki/tag
 
@@ -2117,6 +2138,9 @@ glossary:
   - term: balanced accuracy
     abbreviation: BACC
     wikipedia: https://en.wikipedia.org/wiki/Evaluation_of_binary_classifiers
+
+  - term: closed set
+    fi: suljettu joukko
 
   - term: closed set classification
     intra_link: open set classification
@@ -2251,6 +2275,10 @@ glossary:
     es: dirección de llegada
     wikipedia: https://en.wikipedia.org/wiki/Direction_of_arrival
 
+  - term: direction of arrival estimation
+    abbreviation: DOAE
+    intra_link: direction of arrival
+
   - term: binary mask
     fi: binäärinen maski
 
@@ -2365,16 +2393,27 @@ glossary:
   - term: acoustic pattern recognition
     fi: akustinen hahmontunnistus
 
+  - term: audio caption
+    intra_link: automated audio captioning, audio captioning
+
   - term: audio captioning
+    intra_link: automated audio captioning
+
+  - term: automated audio captioning
+    abbreviation: AAC
 
   - term: sound event localization and detection
     abbreviation: SELD
+    fi: äänitapahtuminen paikallistaminen ja tunnistaminen
 
   - term: noisy label
 
   - term: semantic information
+    fi: semanttinen tieto
 
   - term: paralinguistics
+    fi: paralingvistiikka
+    wikipedia: https://en.wikipedia.org/wiki/Paralanguage
 
   - term: audio-visual
     fi: audiovisuaalinen
@@ -2397,12 +2436,14 @@ glossary:
     es: ruido aditivo
 
   - term: acoustic scene analysis
+    fi: äänimaiseman analyysi
 
   - term: multimodal
     fi: multimodaalinen
 
   - term: meta learning
     fi: meta-oppiminen
+    es: Metaaprendizaje
     wikipedia: https://en.wikipedia.org/wiki/Meta_learning_(computer_science)
 
   - term: timbre
@@ -2448,7 +2489,7 @@ glossary:
     wikipedia: https://en.wikipedia.org/wiki/Robotics
 
   - term: artifical general intelligence
-    abbreviation:  AGI
+    abbreviation: AGI
     fi: yleinen tekoäly
     de: Künstliche allgemeine Intelligenz
     es: inteligencia artificial fuerte
@@ -2476,12 +2517,15 @@ glossary:
     es: inteligencia aumentada
 
   - term: edge AI
+    definition: Utilizing artificial intelligence in an edge-computing environment.
+    intra_link : edge computing
 
   - term: edge computing
+    fi: reunalaskenta
     wikipedia: https://en.wikipedia.org/wiki/Edge_computing
 
   - term: big data
-    fi: massadata
+    fi: massadata, iso data
     es: macrodatos
     fr: mégadonnées
     wikipedia: https://en.wikipedia.org/wiki/Big_data
@@ -2498,10 +2542,15 @@ glossary:
 
   - term: self-supervised learning
     abbreviation: SSL
+    fi: itseohjautuva oppiminen
+    es: Aprendizaje autosupervisado
+    fr: Apprentissage auto-supervisé
+    de: Selbstüberwachtes Lernen
+    wikipedia: https://en.wikipedia.org/wiki/Self-supervised_learning
 
   - term: spoken language understanding
     abbreviation: SLU
-    definition: Extraction of the meaning out of the speech by usign automatic speech recognition and natural language understanding.
+    definition: Extraction of the meaning out of the speech by using automatic speech recognition and natural language understanding.
 
   - term: transformer
     es: transformador
@@ -2518,3 +2567,107 @@ glossary:
   - term: cross-attention
 
   - term: disentangled representation learning
+
+  - term: disentangled representation
+
+  - term: anomalous sound detection
+
+
+  - term: sound source distance estimation
+
+  - term: source distance estimation
+    abbreviation: SDE
+
+  - term: heterogenous dataset
+
+  - term: sound scene synthesis
+
+  - term: audio retrieval
+
+  - term: low-complexity model
+
+  - term: domain generalization
+
+  - term: domain shift
+
+  - term: downstream task
+
+  - term: missing label
+
+  - term: annotation granularity
+
+  - term: vocalization, vocalisation
+
+  - term: prototypical network
+
+  - term: machine-to-machine interaction
+
+  - term: foley
+    definition: Reproduction of everyday sounds in filmmaking
+    wikipedia: https://en.wikipedia.org/wiki/Foley_(filmmaking)
+
+  - term: language-based audio retrieval
+    intra_link: audio retrieval
+
+  - term: language-queried audio source separation
+    intra_link: audio source separation
+
+  - term: bias
+    fi: vakiotermi, vinouma
+
+  - term: cost function
+    fi: virhefunktio
+
+  - term: cross-entropy
+    fi: ristientropia
+
+  - term: gradient descent
+    fi: gradienttimenetelmä
+
+  - term: data mining
+    fi: tiedonlouhinta, tiedonrikastus
+
+  - term: feed forward network
+    fi: eteenpäin kytketty verkko
+    intra_link: deep neural network, neural network
+
+  - term: mean squared error
+    fi: keskineliösumma
+
+  - term: multiclass classification
+    fi: luokittelu moneen luokkaan
+
+  - term: regression
+    fi: regressio
+
+  - term: test example
+    fi: testiesimerkki
+
+  - term: validation example
+    fi: vahvistusesimerkki
+
+  - term: open data
+    fi: avoin data, avodata
+
+  - term: timestamp
+    fi: aikaleima
+
+  - term: language model
+    fi: kielimalli
+
+  - term: algorithm
+    fi: algoritmi
+
+  - term: deep belief network
+    abbreviation: DBN
+    fi: syvän uskon verkko
+
+  - term: machine learning operations
+    abbreviation: MLOps
+    fi: koneoppimistoiminnot
+    wikipedia: https://en.wikipedia.org/wiki/MLOps
+
+  - term: natural language processing
+    abbreviation: NLP
+    fi: luonnollisen kielen käsittely
+    wikipedia: https://en.wikipedia.org/wiki/Natural_language_processing
