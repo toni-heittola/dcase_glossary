@@ -2565,24 +2565,28 @@ glossary:
     wikipedia: https://en.wikipedia.org/wiki/Attention_(machine_learning)
 
   - term: cross-attention
+    fi: ristihuomio
 
   - term: disentangled representation learning
 
   - term: disentangled representation
 
   - term: anomalous sound detection
-
+    fi: epätavallisten äänten tunnistus, poikkeavien äänten tunnistus
 
   - term: sound source distance estimation
+    inter_link: source distance estimation
 
   - term: source distance estimation
     abbreviation: SDE
 
-  - term: heterogenous dataset
+  - term: heterogeneous dataset
+    fi: epäyhtenäinen tietoaineisto, sekalainen tietoaineisto
 
   - term: sound scene synthesis
 
   - term: audio retrieval
+    fi: äänen haku
 
   - term: low-complexity model
 
