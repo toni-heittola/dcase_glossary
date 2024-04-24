@@ -486,6 +486,7 @@ glossary:
     wiktionary: https://en.wiktionary.org/wiki/monitoring
 
   - term: acoustic monitoring
+    fi: akustinen valvonta
 
   - term: wildlife monitoring
     fi: villieläinten seuranta, luonnon seuranta
@@ -1104,7 +1105,7 @@ glossary:
 
   - term: accuracy
     definition: The fraction of system output which was predicted correctly
-    fi: tarkkuus
+    fi: tarkkuus, harhattomuus
     de: genauigkeit, exaktheit
     es: exactitud, precisión, acierto
     fr: précision, justesse, exactitude
@@ -2144,6 +2145,7 @@ glossary:
 
   - term: balanced accuracy
     abbreviation: BACC
+    fi: tasapainoinen tarkkuus, tasapainoinen harhattomuus
     wikipedia: https://en.wikipedia.org/wiki/Evaluation_of_binary_classifiers
 
   - term: closed set
@@ -2740,3 +2742,9 @@ glossary:
     abbreviation: NLP
     fi: luonnollisen kielen käsittely
     wikipedia: https://en.wikipedia.org/wiki/Natural_language_processing
+
+  - term: additive model
+    fi: additiivinen malli, summautuva malli
+
+  - term: agglomerative hierarchical clustering
+    fi: kokoava hierarkkinen ryhmittely
