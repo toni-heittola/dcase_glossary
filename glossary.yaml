@@ -1230,6 +1230,8 @@ glossary:
     de: verlustfunktion
     es: función de pérdida
     fr: fonction de perte
+    wikipedia: https://en.wikipedia.org/wiki/Loss_function
+    intra_link: cost function
 
   - term: maximum likelihood estimator
     abbreviation: MLE
@@ -2301,6 +2303,7 @@ glossary:
     wikipedia: https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm
 
   - term: sinusoidal modeling
+    wikipedia: https://en.wikipedia.org/wiki/Sinusoidal_model
 
   - term: music information retrieval
     abbreviation: MIR
@@ -2327,30 +2330,30 @@ glossary:
   - term: detection error tradeoff
     abbreviation: DET
     definition: Plot of the false rejection rate versus false acceptance rate for classification systems
-    wikipedia: https://en.wikipedia.org/wiki/Detection_error_tradeoff
     fi: virheiden kompromissi
+    wikipedia: https://en.wikipedia.org/wiki/Detection_error_tradeoff
 
   - term: domain adaptation
     definition: Machine learning field to deal with cases in which a model trained on source distribution is used on different target distribution
-    wikipedia: https://en.wikipedia.org/wiki/Domain_adaptation
     fr: Adaptation de domaine
     es: adaptación de dominio
+    wikipedia: https://en.wikipedia.org/wiki/Domain_adaptation
 
   - term: textual label
 
   - term: speaker diarisation
     definition: Process of spliting audio signal in to segments accroding to the speakers
-    wikipedia: https://en.wikipedia.org/wiki/Speaker_diarisation
     fi: puheen diarisointi
+    wikipedia: https://en.wikipedia.org/wiki/Speaker_diarisation
 
   - term: early fusion
     definition: Features from multiple sources are combined into a single feature set before feeding to a classifier.
     intra_link: feature level fusion
 
   - term: multi-task learning
+    definition: approach where multiple learning tasks are solved at the same time
     fi: monitehtävä oppiminen, monen tehtävän oppiminen
     es: aprendizaje multi-tarea
-    definition: approach where multiple learning tasks are solved at the same time
     wikipedia: https://en.wikipedia.org/wiki/Multi-task_learning
 
   - term: feature level fusion
@@ -2362,12 +2365,12 @@ glossary:
 
   - term: brute-force search
     definition: Systematically going through all possible candidate solutions for the problem
-    wikipedia: https://en.wikipedia.org/wiki/Brute-force_search
-    intra_link: exhaustive search
     fi: raakavoimahaku
     fr: Recherche exhaustive
     es: Búsqueda por fuerza bruta
     de: brute-force-methode
+    wikipedia: https://en.wikipedia.org/wiki/Brute-force_search
+    intra_link: exhaustive search
 
   - term: exhaustive search
     fi: tyhjentävä haku
@@ -2513,6 +2516,7 @@ glossary:
     abbreviation: Strong AI
     fi: vahva tekoäly
     intra_link: artifical general intelligence, full artificial intelligence
+    wikipedia: https://en.wikipedia.org/wiki/Strong_AI
 
   - term: full artificial intelligence
     abbreviation: Full AI
@@ -2523,7 +2527,7 @@ glossary:
     fi: heikko AI, suppea tekoäly, kapea tekoäly, sovellettu tekoäly
     es: inteligencia artificial débil
     fr: intelligence artificielle faible
-    wikipedia: https://en.wikipedia.org/wiki/Weak_AI
+    wikipedia: https://en.wikipedia.org/wiki/Weak_artificial_intelligence
 
   - term: augmented intelligence
     fi: apuäly
@@ -2553,6 +2557,7 @@ glossary:
   - term: fundamental frequency
     fi: perustaajuus
     es: frecuencia fundamental
+    wikipedia: https://en.wikipedia.org/wiki/Fundamental_frequency
 
   - term: self-supervised learning
     abbreviation: SSL
@@ -2580,6 +2585,7 @@ glossary:
   - term: attention mechanism
     fi: tarkkaavaisuusmekanismi
     intra_link: attention
+    wikipedia: https://en.wikipedia.org/wiki/Attention_(machine_learning)
 
   - term: self-attention
     fi: itseistarkkaavaisuus
@@ -2587,6 +2593,7 @@ glossary:
 
   - term: multi-head attention
     fi: monipäinen tarkkaavaisuus
+    wikipedia: https://en.wikipedia.org/wiki/Attention_(machine_learning)
 
   - term: masked multi-head attention
     fi: verhottu monipäinen tarkkaavaisuus
@@ -2652,31 +2659,45 @@ glossary:
   - term: bias
     fi: vakiotermi, vinouma
 
+
   - term: cost function
     fi: virhefunktio
+    wikipedia: https://en.wikipedia.org/wiki/Loss_function
+    intra_link: lost function
 
   - term: cross-entropy
     fi: ristientropia
 
   - term: gradient descent
     fi: gradienttimenetelmä
+    wikipedia: https://en.wikipedia.org/wiki/Gradient_descent
 
   - term: stochastic gradient descent
     abbreviation: SGD
     fi: stokastinen gradienttimenetelmä
+    wikipedia: https://en.wikipedia.org/wiki/Stochastic_gradient_descent
 
   - term: data mining
     fi: tiedonlouhinta, tiedonrikastus
+    wikipedia: https://en.wikipedia.org/wiki/Data_mining
 
   - term: feed forward network
     fi: eteenpäin kytketty verkko
+    wikipedia: https://en.wikipedia.org/wiki/Feedforward_neural_network
     intra_link: deep neural network, neural network
 
   - term: mean squared error
+    abbreviation: MSE
     fi: keskineliösumma
+    de: mittlere quadratische abweichung
+    fr: erreur quadratique moyenne
+    es: error cuadrático medio
+    wikipedia: https://en.wikipedia.org/wiki/Mean_squared_error
 
   - term: multiclass classification
     fi: luokittelu moneen luokkaan
+    fr: classification en classes multiples
+    wikipedia: https://en.wikipedia.org/wiki/Multiclass_classification
 
   - term: linear regression
     fi: lineearinen regressio
