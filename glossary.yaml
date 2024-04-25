@@ -403,6 +403,10 @@ glossary:
     es: aprendizaje profundo
     wikipedia: https://en.wikipedia.org/wiki/Deep_learning
 
+  - term: machine learning
+    fi: koneoppiminen
+    intra_link: deep machine learning
+
   - term: deep machine learning
     abbreviation: DML
     intra_link: deep learning
@@ -453,6 +457,9 @@ glossary:
     fr: classement, classification
     es: clasificación
     wiktionary: https://en.wiktionary.org/wiki/classification
+
+  - term: classification error
+    fi: luokitteluvirhe
 
   - term: ontology
     definition: a structure of concepts or entities within a domain which are organized by relationships
@@ -582,6 +589,9 @@ glossary:
     es: Nodo sensor
     wikipedia: https://en.wikipedia.org/wiki/Sensor_node
 
+  - term: baseline
+    fi: lähtötaso, perustaso
+
   - term: baseline system
     definition: system used as reference point for comparing how well currently developed system is performing
 
@@ -639,7 +649,7 @@ glossary:
 
   - term: hidden Markov model
     abbreviation: HMM
-    fi: kätketty Markovin malli, Markovin piilomalli
+    fi: kätketty Markovin malli, Markovin piilomalli, piilo-Markov-malli
     de: verborgenes Markow-modell, verdecktes Markow-modell
     es: modelo oculto de Márkov, modelo de Markov ocultado
     fr: modèle de Markov caché, modèle caché de Markov
@@ -1115,6 +1125,7 @@ glossary:
 
   - term: F-score, f1-score
     definition: an evaluation metric to take into account both the precision and the recall
+    fi: F-mitta
     es: Valor-F
     wikipedia: https://en.wikipedia.org/wiki/F1_score
     intra_link: evaluation metric
@@ -1151,6 +1162,9 @@ glossary:
     wikipedia: https://en.wikipedia.org/wiki/Cluster_analysis
     wiktionary: https://en.wiktionary.org/wiki/clustering
 
+  - term: cluster analysis
+    fi: ryhmittelyanalyysi
+
   - term: spectral clustering
     definition: grouping related examples together using the eigenvalues of similarity matrix
     es: Agrupamiento espectral
@@ -1160,7 +1174,7 @@ glossary:
   - term: confidence interval
     abbreviation: CI
     definition: interval estimate computed from the statistics of the observed data, that might contain the true value of an unknown population parameter
-    fi: luottamusväli
+    fi: luottamusväli, yhteensopivuusväli
     de: konfidenzintervall, vertrauensintervall
     fr: intervalle de confiance
     es: intervalo de confianza
@@ -1172,7 +1186,7 @@ glossary:
 
   - term: data augmentation
     definition: artificially increasing the number of training examples
-    fi: aineiston täydennys, datan laajennus
+    fi: aineiston täydennys, datan laajennus, datalaajennus
 
   - term: data preprocessing
     fi: datan esikäsittely, aineiston esikäsittely
@@ -1224,6 +1238,9 @@ glossary:
     es: verosimilitud
     pl: prawdopodobieństwo
     wiktionary: https://en.wiktionary.org/wiki/likelihood
+
+  - term: likelihood ratio
+    fi: uskottavuusosamäärä
 
   - term: loss function
     definition: a function to measure how far prediction are from its label
@@ -1350,7 +1367,7 @@ glossary:
   - term: area under the curve
     abbreviation: AUC
     definition: in binary classification, an evaluation metric to considers all classification thresholds
-    fi: luokittelijan havintojen erottelukyky
+    fi: käyrän-alainen pinta-ala, luokittelijan havintojen erottelukyky
     es: área bajo la curva
     pl: pole pod krzywą
     intra_link: reciever operating characteristic curve
@@ -1421,7 +1438,7 @@ glossary:
   - term: false negative
     abbreviation: FN
     definition: an example wrongly predicted as negative class
-    fi: negatiivisten tapausten virhe
+    fi: väärä negatiivinen, negatiivisten tapausten virhe
     de: falsch negativ
     fr: faux négatif
     es: falso negativo
@@ -1429,7 +1446,7 @@ glossary:
   - term: false positive
     abbreviation: FP
     definition: an example wrongly predicted as positive class
-    fi: positiivisten tapausten virhe
+    fi: väärä positiivinen, positiivisten tapausten virhe
     de: falsch positiv
     es: falso positivo
     fr: faux positif
@@ -1485,7 +1502,7 @@ glossary:
     wikipedia: https://en.wikipedia.org/wiki/Feedforward_neural_network
 
   - term: hierarchical classification
-    fi: hierarkkinen luokittelu
+    fi: hierarkkinen luokittelu, sisäkkäinen luokittelu
     de: hierarchische klassifikation, geschachtelte klassifikation
     fr: classification hiérarchique
     es: clasificación jerárquica
@@ -1629,7 +1646,7 @@ glossary:
 
   - term: confusion matrix
     definition: an NxN table to summarize classification performance (predicted class versus actual class)
-    fi: sekaannusmatriisi
+    fi: sekaannusmatriisi, luokittelutaulukko
     fr: matrice de confusion
     es: matriz de confusión
 
@@ -2298,7 +2315,7 @@ glossary:
   - term: expectation maximization
     abbreviation: EM
     definition: an iterative method to find maximum likelihood or maximum a posteriori estimates of parameters in statistical models
-    fi: odotusarvon maksimointi
+    fi: odotusarvon maksimointi, EM-algoritmi
     de: EM-algorithmus
     es: algoritmo esperanza-maximización
     fr: algorithme espérance-maximisation
@@ -2335,8 +2352,12 @@ glossary:
     fi: virheiden kompromissi
     wikipedia: https://en.wikipedia.org/wiki/Detection_error_tradeoff
 
+  - term: domain
+    fi: osajoukko
+
   - term: domain adaptation
     definition: Machine learning field to deal with cases in which a model trained on source distribution is used on different target distribution
+    fi: kohdesopeutus
     fr: Adaptation de domaine
     es: adaptación de dominio
     wikipedia: https://en.wikipedia.org/wiki/Domain_adaptation
@@ -2545,7 +2566,7 @@ glossary:
     wikipedia: https://en.wikipedia.org/wiki/Edge_computing
 
   - term: big data
-    fi: massadata, iso data
+    fi: massadata, iso data, suuraineisto, suurdata
     es: macrodatos
     fr: mégadonnées
     wikipedia: https://en.wikipedia.org/wiki/Big_data
@@ -2620,8 +2641,14 @@ glossary:
     abbreviation: SDE
     fi: lähteen etäisyyden estimointi
 
+  - term: heterogeneous
+    fi: heterogeeninen, sekakoosteinen
+
+  - term: homogeneous
+    fi: homogeeninen, tasakoosteinen
+
   - term: heterogeneous dataset
-    fi: epäyhtenäinen tietoaineisto, sekalainen tietoaineisto
+    fi: epäyhtenäinen tietoaineisto, sekalainen tietoaineisto, sekakoosteinen tietoaineisto
 
   - term: sound scene synthesis
     fi: äänimaiseman synteesi
@@ -2659,7 +2686,7 @@ glossary:
     intra_link: audio source separation
 
   - term: bias
-    fi: vakiotermi, vinouma
+    fi: vakiotermi, vinouma, harha, systemaattinen virhe
 
 
   - term: cost function
@@ -2729,9 +2756,12 @@ glossary:
   - term: algorithm
     fi: algoritmi
 
+  - term: belief network
+    fi: uskomusverkko
+
   - term: deep belief network
     abbreviation: DBN
-    fi: syvän uskon verkko
+    fi: syvän uskon verkko, syvä uskomusverkko
 
   - term: machine learning operations
     abbreviation: MLOps
@@ -2748,3 +2778,70 @@ glossary:
 
   - term: agglomerative hierarchical clustering
     fi: kokoava hierarkkinen ryhmittely
+
+  - term: aliasing
+    fi: laskostuminen
+
+  - term: attribute
+    fi: ominaisuus, piirre
+
+  - term: decision function
+    fi: päätössääntö, päätösfunktio
+
+  - term: decorrelated
+    fi: korrelaatiopuhdistettu, korrelaatiosta puhdistettu
+
+  - term: denoising
+    fi: kohinanpoisto
+
+  - term: distance measure
+    fi: etäisyysmitta
+
+  - term: duration
+    fi: kesto
+
+  - term: envelope function
+    fi: verhofunktio
+
+  - term: Euclidean distance
+    fi: euklidinen etäisyys
+
+  - term: experiment
+    fi: koe
+
+  - term: experimental design
+    fi: koeasetelma
+
+  - term: independent component analysis
+    abbreviation: ICA
+    fi: riippumattomien komponenttien analyysi
+
+  - term: inference
+    fi: päättely
+
+  - term: jackknife estimator
+    fi: linkkuveitsiestimaattori, jackknife-estimaattori
+
+  - term: jackknife method
+    fi: linkkuveitsimenetelmä
+
+  - term: Kullback–Leibler divergence
+    fi: Kullbackin–Leiblerin poikkeama
+
+  - term: labeled data
+    fi: nimiöity data
+
+  - term: latent variable
+    fi: piilomuuttuja
+
+  - term: leave-one-out cross-validation
+    abbreviation: LOOCV
+    fi: yksi-pois-ristiinvalidointi, yksittäisristiinvalidointi
+
+  - term: maximum a posteriori estimator
+    abbreviation: MAP estimator
+    fi: suurimman posterioritiheyden estimaattori, MAP-estimaattori
+
+  - term: mean absolute error
+    abbreviation: MAE
+    fi: keski-itseisvirhe
