@@ -19,3 +19,4 @@ Dictionaries and glossaries from related fields:
 - [Bank of Finnish terminology in arts and sciences](http://tieteentermipankki.fi/wiki/Termipankki:Etusivu/en)
 - [Glossary of statistical terms](http://isi.cbs.nl/glossary/index.htm) by ISI
 - [Machine learning glossary](https://developers.google.com/machine-learning/glossary/) by Google
+- [Tilastotieteen sanasto](https://sanasto.tilastoseura.fi/Tilastotieteen_sanasto_2023.pdf) by Juha Alho, Elja Arjas, Esa Läärä ja Pekka Pere

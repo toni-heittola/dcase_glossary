@@ -658,7 +658,7 @@ glossary:
 
   - term: underfitting
     definition: a model with low predictive ability because it does not model the training data well nor it does generalize to new data
-    fi: alisovittaminen
+    fi: alisovittaminen, vajaasovitus
     intra_link: overfitting
     wiktionary: https://en.wiktionary.org/wiki/underfitting
 
@@ -786,6 +786,9 @@ glossary:
     fr: rétropropagation du gradient
     wikipedia: https://en.wikipedia.org/wiki/Backpropagation
 
+  - term: backpropagation algorithm
+    fi: vastavirta-algoritmi
+
   - term: self-organizing map
     abbreviation: SOM
     definition: artificial neural network that is trained using unsupervised learning to produce a low-dimensional discretized representation of the input space
@@ -884,7 +887,7 @@ glossary:
 
   - term: overfitting
     definition: a model that models the training data too closely and fails to predict correcly on new data
-    fi: ylisovittaminen, ylisovittuminen
+    fi: ylisovittaminen, ylisovittuminen, liikasovitus
     de: überanpassung
     fr: surapprentissage
     es: sobreajuste
@@ -1014,22 +1017,25 @@ glossary:
 
   - term: training set
     definition: subset of data used to train the system, disjunct from the test set
-    fi: opetusjoukko
+    fi: opetusjoukko, opetusaineisto
     intra_link: test set, validation set
 
   - term: test set
     definition: subset of data used to test the system, disjunct from the training set
-    fi: testausjoukko, testijoukko
+    fi: testiaineisto, testausjoukko, testijoukko
     intra_link: training set, validation set
+
+  - term: validation data
+    fi: validointiaineisto, vahvistusaineisto
 
   - term: validation set
     definition: subset of data used to adjust hyperparameters, disjunct from the training set and test set
-    fi: validointijoukko
+    fi: validointijoukko, validointiaineisto, vahvistusaineisto
     intra_link: training set, test set
 
   - term: precision
     definition: a measure how often prediction is correct when predicting the positive class
-    fi: tarkkuus, täsmällisyys
+    fi: tarkkuus, täsmällisyys, toistotarkkuus
     de: präzision
     fr: précision, reproducibilité
     es: precisión
@@ -1038,7 +1044,7 @@ glossary:
 
   - term: recall
     definition: a measure how many positive classes were correctly predicted
-    fi: saanti
+    fi: herkkyys, sensitiivisyys, saanti
     es: exhaustividad
     wiktionary: https://en.wiktionary.org/wiki/recall
     intra_link: precision, F-score, evaluation metric
@@ -1272,7 +1278,7 @@ glossary:
 
   - term: root mean square error
     abbreviation: RMSE
-    fi: keskineliövirheen neliöjuuri
+    fi: jäännösvirhehajonta, keskineliövirheen neliöjuuri
     de: wurzel der mittleren quadratischen abweichung, wurzel des mittleren quadratischen fehlers, wurzel des mittleren quadratischen gesamt-fehlers
     fr: écart quadratique moyen, écart type, déviation typique, écart-étalon, erreur quadratique moyenne, erreur en moyenne quadratique
     es: error cuadrático medio, desviación cuadrática media, desviación standard, desviación típica, desviación estándar,
@@ -1361,7 +1367,7 @@ glossary:
   - term: reciever operating characteristic curve
     abbreviation: ROC curve
     definition: a curve of true positive rate versus false positive rate at different classification thresholds
-    fi: toimintaominaiskäyrä, ROC-käyrä
+    fi: erottelukykykäyrä, toimintaominaiskäyrä, ROC-käyrä
     wikipedia: https://en.wikipedia.org/wiki/Receiver_operating_characteristic
 
   - term: area under the curve
@@ -1796,8 +1802,11 @@ glossary:
     es: optimizador
     wiktionary: https://en.wiktionary.org/wiki/optimizer
 
+  - term: optimization
+    fi: optimointi
+
   - term: perceptron
-    fi: perseptroni
+    fi: päättelin, perseptroni
     definition: an algorithm which takes multiple input values, runs a function on the weighted sum of the inputs and computes a single output value
     wikipedia: https://en.wikipedia.org/wiki/Perceptron
     wiktionary: https://en.wiktionary.org/wiki/perceptron
@@ -1888,6 +1897,9 @@ glossary:
     pl: prawdopodobieństwo a posteriori
     wikipedia: https://en.wikipedia.org/wiki/Posterior_probability
 
+  - term: probability
+    fi: todennäköisyys
+
   - term: evaluation metric
 
   - term: majority voting
@@ -1949,6 +1961,9 @@ glossary:
     intra_link: sampling frequency
     wikipedia: https://en.wikipedia.org/wiki/Sampling_(signal_processing)#Sampling_rate
 
+  - term: sample
+    fi: otos, näyte
+
   - term: acoustic feature
     fi: akustinen piirre
     es: característica acústica
@@ -1983,8 +1998,9 @@ glossary:
     es: escena acústica
 
   - term: training data
-    fi: opetusdata, koulutusdata
+    fi: opetusaineisto, opetusdata, koulutusdata
     es: datos de entrenamiento
+    intra_link: training set
 
   - term: testing data
     intra_link: test set
@@ -2204,6 +2220,9 @@ glossary:
     definition: using domain knowledge of the data to manually create suitable features for machine learning
     intra_link: feature engineering
 
+  - term: time-frequency distribution
+    fi: aika-taajuusjakauma
+
   - term: time-frequency representation
     fi: aika-taajuusesitys
     pl: reprezentacja czasowo-częstotliwościowa
@@ -2225,6 +2244,9 @@ glossary:
     pl: obwiednia widmowa
     es: envolvente espectral
     wikipedia: https://en.wikipedia.org/wiki/Spectral_envelope
+
+  - term: spectral analysis
+    fi: spektrianalyysi
 
   - term: spectral moments
 
@@ -2375,7 +2397,7 @@ glossary:
 
   - term: multi-task learning
     definition: approach where multiple learning tasks are solved at the same time
-    fi: monitehtävä oppiminen, monen tehtävän oppiminen
+    fi: monitehtäväoppiminen, monen tehtävän oppiminen
     es: aprendizaje multi-tarea
     wikipedia: https://en.wikipedia.org/wiki/Multi-task_learning
 
@@ -2462,8 +2484,14 @@ glossary:
     es: paisaje sonoro
 
   - term: robust classification
-    fi: robusti luokittelu
+    fi: vakaa luokittelu, robusti luokittelu
     es: clasificación robusta
+
+  - term: robust estimator
+    fi: vakaa estimaattori, robusti estimaattori
+
+  - term: robustness
+    fi: vakaus, robustisuus
 
   - term: audio analysis
     fi: äänen analyysi
@@ -2845,3 +2873,139 @@ glossary:
   - term: mean absolute error
     abbreviation: MAE
     fi: keski-itseisvirhe
+
+  - term: fuzzy logic
+    fi: sumea logiikka
+
+  - term: order of magnitude
+    fi: suuruusluokka
+
+  - term: parametrization
+    fi: parametrointi
+
+  - term: pilot study
+    fi: esitutkimus, pilotti
+
+  - term: pruning
+    fi: karsinta
+
+  - term: randomization
+    fi: satunnaistus
+
+  - term: randomness
+    fi: satunnaisuus
+
+  - term: random selection
+    fi: satunnaisvalinta
+
+  - term: ranking
+    fi: sijavertailu, sijakisa
+
+  - term: record
+    fi: tietue, kirjaus, merkintä, tallenne
+
+  - term: repeatability
+    fi: toistettavuus
+
+  - term: replicability
+    fi: toistettavuus
+
+  - term: reproducibility
+    fi: uusittavuus
+
+  - term: sample space
+    fi: otosavaruus
+
+  - term: scalability
+    fi: skaalautuvuus
+
+  - term: sequential analysis
+    fi: peräkkäisanalyysi
+
+  - term: significance
+    fi: merkitsevyys
+
+  - term: significance level, level of significance
+    fi: merkitsevyystaso
+
+  - term: similarity matrix
+    fi: samanlaisuusmatriisi
+
+  - term: statistic
+    fi: tunnusluku, havaintosuure
+
+  - term: statistics
+    fi: tilasto, tilastotiede
+
+  - term: statistical
+    fi: tilastollinen, tilastotieteellinen
+
+  - term: statistical significance
+    fi: tilastollinen merkitsevyys
+
+  - term: stochastic
+    fi: stokastinen, satunnainen
+
+  - term: stochastic model
+    fi: todennäköisyysmalli, stokastinen malli
+
+  - term: stopping rule
+    fi: pysäytyssääntö
+
+  - term: stratification
+    fi: ositus
+
+  - term: stratified sampling
+    fi: ositettu otanta
+
+  - term: study
+    fi: tutkimus
+
+  - term: survey
+    fi: luotaus, kartoitus, kyselytutkimus
+
+  - term: t-distributed stochastic neighborhood embedding
+    abbreviation: t-SNE
+    fi: t-ympäristöupotus, t-jakaumaan perustuva stokastinen naapurustoupotus, t-naapurustoupotus
+
+  - term: tensor
+    fi: tensori
+
+  - term: threshold value
+    fi: kynnysarvo
+
+  - term: time-dependent
+    fi: aikariippuva
+
+  - term: tolerance
+    fi: toleranssi
+
+  - term: transfer function
+    fi: siirtofunktio
+
+  - term: unbalanced data
+    fi: epätasapainoinen aineisto
+
+  - term: unbiased
+    fi: harhaton
+
+  - term: uncertainty
+    fi: epävarmuus
+
+  - term: uncorrelated
+    fi: korreloimaton
+
+  - term: uniform distribution
+    fi: tasajakauma
+
+  - term: unlabeled data
+    fi: nimiöimätön data
+
+  - term: variability
+    fi: vaihtelu
+
+  - term: variable
+    fi: muuttuja
+
+  - term: visualisation, visualization
+    fi: visualisointi
