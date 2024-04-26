@@ -2431,15 +2431,24 @@ glossary:
     it: Apprendimento federato
     fr: Apprentissage fédéré
 
-
   - term: collaborative learning
+    fi: yhteisöllinen oppiminen
+    fr: apprentissage collaboratif
+    wikipedia: https://en.wikipedia.org/wiki/Collaborative_learning
     intra_link: federated learning
 
   - term: sonification
     fi: äännellistäminen
+    de: sonifikation
+    fr: sonification
+    pl: sonifikacja
+    wikipedia: https://en.wikipedia.org/wiki/Sonification
 
   - term: auralization
-    fi: auralisaatio
+    fi: auralisaatio, auralisointi
+    de: auralisation
+    fr: auralisation
+    wikipedia: https://en.wikipedia.org/wiki/Auralization
 
   - term: audification
     fi: auditointi
@@ -2475,8 +2484,12 @@ glossary:
     fi: paralingvistiikka
     wikipedia: https://en.wikipedia.org/wiki/Paralanguage
 
-  - term: audio-visual
+  - term: audio-visual, audiovisual
     fi: audiovisuaalinen
+    de: audiovision
+    es: audiovisual
+    fr: audiovisuel
+    wikipedia: https://en.wikipedia.org/wiki/Audiovisual
 
   - term: soundscape
     wikipedia: https://en.wikipedia.org/wiki/Soundscape
@@ -2641,13 +2654,17 @@ glossary:
   - term: self-attention
     fi: itseistarkkaavaisuus
     wikipedia: https://en.wikipedia.org/wiki/Attention_(machine_learning)
+    intra_link: attention mechanism
 
   - term: multi-head attention
     fi: monipäinen tarkkaavaisuus
     wikipedia: https://en.wikipedia.org/wiki/Attention_(machine_learning)
+    intra_link: attention mechanism
 
   - term: masked multi-head attention
     fi: verhottu monipäinen tarkkaavaisuus
+    wikipedia: https://en.wikipedia.org/wiki/Attention_(machine_learning)
+    intra_link: attention mechanism, multi-head attention
 
   - term: cross-attention
     fi: ristihuomio
@@ -2724,22 +2741,35 @@ glossary:
 
   - term: cross-entropy
     fi: ristientropia
+    de: kreuzentropie
+    es: entropía cruzada
+    fr: entropie croisée
+    wikipedia: https://en.wikipedia.org/wiki/Cross-entropy
 
   - term: gradient descent
     fi: gradienttimenetelmä
+    de: gradientenverfahren
+    es: descenso del gradiente
+    fr: algorithme du gradient
     wikipedia: https://en.wikipedia.org/wiki/Gradient_descent
 
   - term: stochastic gradient descent
     abbreviation: SGD
     fi: stokastinen gradienttimenetelmä
+    es: descenso de gradiente estocástico
+    fr: algorithme du gradient stochastique
     wikipedia: https://en.wikipedia.org/wiki/Stochastic_gradient_descent
 
   - term: data mining
     fi: tiedonlouhinta, tiedonrikastus
+    es: minería de datos
+    fr: exploration de données
     wikipedia: https://en.wikipedia.org/wiki/Data_mining
 
   - term: feed forward network
     fi: eteenpäin kytketty verkko
+    es: red neuronal prealimentada
+    fr: réseau de neurones à action directe
     wikipedia: https://en.wikipedia.org/wiki/Feedforward_neural_network
     intra_link: deep neural network, neural network
 
@@ -2774,15 +2804,30 @@ glossary:
 
   - term: open data
     fi: avoin data, avodata
+    es: datos abiertos
+    fr: données ouvertes
+    wikipedia: https://en.wikipedia.org/wiki/Open_data
 
   - term: timestamp
     fi: aikaleima
+    de: zeitstempel
+    es: marca temporal
+    fr: horodatage
+    wikipedia: https://en.wikipedia.org/wiki/Timestamp
 
   - term: language model
     fi: kielimalli
+    de: sprachmodell
+    es: modelación del lenguaje
+    fr: modèle de langage
+    wikipedia: https://en.wikipedia.org/wiki/Language_model
 
   - term: algorithm
     fi: algoritmi
+    de: algorithmus
+    es: algoritmo
+    fr: algorithme
+    wikipedia: https://en.wikipedia.org/wiki/Algorithm
 
   - term: belief network
     fi: uskomusverkko
@@ -2790,6 +2835,8 @@ glossary:
   - term: deep belief network
     abbreviation: DBN
     fi: syvän uskon verkko, syvä uskomusverkko
+    es: red de creencia profunda
+    wikipedia: https://en.wikipedia.org/wiki/Deep_belief_network
 
   - term: machine learning operations
     abbreviation: MLOps
@@ -2799,6 +2846,9 @@ glossary:
   - term: natural language processing
     abbreviation: NLP
     fi: luonnollisen kielen käsittely
+    de: computerlinguistik
+    es: procesamiento de lenguajes naturales
+    fr: traitement automatique des langues
     wikipedia: https://en.wikipedia.org/wiki/Natural_language_processing
 
   - term: additive model
@@ -2806,9 +2856,14 @@ glossary:
 
   - term: agglomerative hierarchical clustering
     fi: kokoava hierarkkinen ryhmittely
+    wikipedia: https://en.wikipedia.org/wiki/Hierarchical_clustering
 
   - term: aliasing
     fi: laskostuminen
+    de: alias-effekt
+    es: aliasing
+    fr: repliement de spectre
+    wikipedia: https://en.wikipedia.org/wiki/Aliasing
 
   - term: attribute
     fi: ominaisuus, piirre
@@ -2833,16 +2888,24 @@ glossary:
 
   - term: Euclidean distance
     fi: euklidinen etäisyys
+    de: euklidischer abstand
+    es: distancia euclidiana
+    wikipedia: https://en.wikipedia.org/wiki/Euclidean_distance
 
   - term: experiment
     fi: koe
 
   - term: experimental design
     fi: koeasetelma
+    wikipedia: https://en.wikipedia.org/wiki/Design_of_experiments
 
   - term: independent component analysis
     abbreviation: ICA
     fi: riippumattomien komponenttien analyysi
+    de: unabhängigkeitsanalyse
+    es: análisis de componentes independientes
+    fr: analyse en composantes indépendantes
+    wikipedia: https://en.wikipedia.org/wiki/Independent_component_analysis
 
   - term: inference
     fi: päättely
@@ -2855,27 +2918,41 @@ glossary:
 
   - term: Kullback–Leibler divergence
     fi: Kullbackin–Leiblerin poikkeama
+    de: Kullback-Leibler-divergenz
+    es: divergencia de Kullback-Leibler
+    fr: divergence de Kullback-Leibler
+    wikipedia: https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence
 
   - term: labeled data
     fi: nimiöity data
 
   - term: latent variable
     fi: piilomuuttuja
+    wikipedia: https://en.wikipedia.org/wiki/Latent_and_observable_variables
 
   - term: leave-one-out cross-validation
     abbreviation: LOOCV
     fi: yksi-pois-ristiinvalidointi, yksittäisristiinvalidointi
+    wikipedia: https://en.wikipedia.org/wiki/Cross-validation_(statistics)#Leave-one-out_cross-validation
 
   - term: maximum a posteriori estimator
     abbreviation: MAP estimator
     fi: suurimman posterioritiheyden estimaattori, MAP-estimaattori
+    wikipedia: https://en.wikipedia.org/wiki/Maximum_a_posteriori_estimation
 
   - term: mean absolute error
     abbreviation: MAE
     fi: keski-itseisvirhe
+    de: mittlerer absoluter fehler
+    es: error absoluto medio
+    wikipedia: https://en.wikipedia.org/wiki/Mean_absolute_error
 
   - term: fuzzy logic
     fi: sumea logiikka
+    de: fuzzylogik
+    fr: logique floue
+    es: lógica difusa
+    wikipedia: https://en.wikipedia.org/wiki/Fuzzy_logic
 
   - term: order of magnitude
     fi: suuruusluokka
@@ -2894,6 +2971,10 @@ glossary:
 
   - term: randomness
     fi: satunnaisuus
+    de: zufall
+    es: aleatoriedad
+    fr: hasard
+    wikipedia: https://en.wikipedia.org/wiki/Randomness
 
   - term: random selection
     fi: satunnaisvalinta
@@ -2906,21 +2987,32 @@ glossary:
 
   - term: repeatability
     fi: toistettavuus
+    de: wiederholpräzision
+    fr: répétabilité
+    wikipedia: https://en.wikipedia.org/wiki/Repeatability
 
   - term: replicability
     fi: toistettavuus
 
   - term: reproducibility
     fi: uusittavuus
+    de: reproduzierbarkeit
+    fr: reproductibilité
+    wikipedia: https://en.wikipedia.org/wiki/Reproducibility
 
   - term: sample space
     fi: otosavaruus
 
   - term: scalability
     fi: skaalautuvuus
+    de: skalierbarkeit
+    es: escalabilidad
+    fr: extensibilité
+    wikipedia: https://en.wikipedia.org/wiki/Scalability
 
   - term: sequential analysis
     fi: peräkkäisanalyysi
+    wikipedia: https://en.wikipedia.org/wiki/Sequential_analysis
 
   - term: significance
     fi: merkitsevyys
@@ -2930,6 +3022,7 @@ glossary:
 
   - term: similarity matrix
     fi: samanlaisuusmatriisi
+    wikipedia: https://en.wikipedia.org/wiki/Similarity_measure#similarity_matrix
 
   - term: statistic
     fi: tunnusluku, havaintosuure
@@ -2942,21 +3035,32 @@ glossary:
 
   - term: statistical significance
     fi: tilastollinen merkitsevyys
+    de: statistische signifikanz
+    es: significación estadística
+    fr: signification statistique
+    wikipedia: https://en.wikipedia.org/wiki/Statistical_significance
 
   - term: stochastic
     fi: stokastinen, satunnainen
 
   - term: stochastic model
     fi: todennäköisyysmalli, stokastinen malli
+    wikipedia: https://en.wikipedia.org/wiki/Stochastic_process
 
   - term: stopping rule
     fi: pysäytyssääntö
 
   - term: stratification
     fi: ositus
+    de: stratifikation
+    wikipedia: https://en.wikipedia.org/wiki/Stratification_(mathematics)
 
   - term: stratified sampling
     fi: ositettu otanta
+    de: geschichtete zufallsstichprobe
+    es: muestreo estratificado
+    fr: échantillonnage stratifié
+    wikipedia: https://en.wikipedia.org/wiki/Stratified_sampling
 
   - term: study
     fi: tutkimus
@@ -2967,9 +3071,14 @@ glossary:
   - term: t-distributed stochastic neighborhood embedding
     abbreviation: t-SNE
     fi: t-ympäristöupotus, t-jakaumaan perustuva stokastinen naapurustoupotus, t-naapurustoupotus
+    wikipedia: https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding
 
   - term: tensor
     fi: tensori
+    de: tensor
+    es: tensor
+    fr: tenseur
+    wikipedia: https://en.wikipedia.org/wiki/Tensor
 
   - term: threshold value
     fi: kynnysarvo
@@ -2982,6 +3091,10 @@ glossary:
 
   - term: transfer function
     fi: siirtofunktio
+    de: übertragungsfunktion
+    es: función de transferencia
+    fr: fonction de transfert
+    wikipedia: https://en.wikipedia.org/wiki/Transfer_function
 
   - term: unbalanced data
     fi: epätasapainoinen aineisto
@@ -2991,12 +3104,16 @@ glossary:
 
   - term: uncertainty
     fi: epävarmuus
+    de: unsicherheit
+    es: incertidumbre
+    wikipedia: https://en.wikipedia.org/wiki/Uncertainty
 
   - term: uncorrelated
     fi: korreloimaton
 
   - term: uniform distribution
     fi: tasajakauma
+    wikipedia: https://en.wikipedia.org/wiki/Continuous_uniform_distribution
 
   - term: unlabeled data
     fi: nimiöimätön data
