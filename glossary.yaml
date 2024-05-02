@@ -56,6 +56,9 @@ glossary:
     pl: pasmo krytyczne
     wikipedia: https://en.wikipedia.org/wiki/Critical_band
 
+  - term: bandwidth
+    fi: kaistanleveys
+
   - term: duration
     definition: a length of audio signal
     fi: kesto
@@ -128,7 +131,7 @@ glossary:
     wikipedia: https://en.wikipedia.org/wiki/Impulse_response
 
   - term: input
-    fi: sisäänmeno, syöte, tulo, otto
+    fi: sisääntulo, sisäänmeno, syöte, tulo, otto
     es: entrada
     wiktionary: https://en.wiktionary.org/wiki/input
 
@@ -503,6 +506,9 @@ glossary:
     fi: yleistäminen, yleistys
     es: generalización
 
+  - term: generalize
+    fi: yleistä
+
   - term: dataset
     fi: tietoaineisto
 
@@ -520,7 +526,7 @@ glossary:
   - term: convolutional neural network
     abbreviation: CNN
     definition: a neural network with convolutional layers along with pooling and fully connected layers
-    fi: konvoluutioverkko, konvoluutio neuroverkko
+    fi: konvoluutioverkko, konvoluutioneuroverkko
     es: redes neuronales convolucionales
     fr: réseau neuronal convolutif
     wikipedia: https://en.wikipedia.org/wiki/Convolutional_neural_network
@@ -590,10 +596,11 @@ glossary:
     wikipedia: https://en.wikipedia.org/wiki/Sensor_node
 
   - term: baseline
-    fi: lähtötaso, perustaso
+    fi: lähtötaso, perustaso, perusmenetelmä
 
   - term: baseline system
     definition: system used as reference point for comparing how well currently developed system is performing
+    fi: perusmenetelmä
 
   - term: repository
     fi: säilö, tietolähde
@@ -602,7 +609,7 @@ glossary:
 
   - term: annotation
     definition: adding metadata to audio
-    fi: annotointi
+    fi: annotointi, manuaalinen merkitseminen
     es: anotación
     pl: adnotacja, przypis
     wiktionary: https://en.wiktionary.org/wiki/annotation
@@ -611,7 +618,7 @@ glossary:
     fi: taustatieto, metatieto, metadata
 
   - term: labeling
-    fi: nimikointi
+    fi: nimikointi, merkitseminen
     es: etiquetado
 
   - term: model
@@ -658,7 +665,7 @@ glossary:
 
   - term: underfitting
     definition: a model with low predictive ability because it does not model the training data well nor it does generalize to new data
-    fi: alisovittaminen, vajaasovitus
+    fi: ylioppiminen, alisovittaminen, vajaasovitus
     intra_link: overfitting
     wiktionary: https://en.wiktionary.org/wiki/underfitting
 
@@ -740,6 +747,11 @@ glossary:
     wikipedia: https://en.wikipedia.org/wiki/Nearest_neighbor_search
     intra_link: k-nearest-neighbor
 
+  - term: nearest neighbor classifier
+    fi: lähimmän naapurin luokitin
+    intra_link: k-nearest-neighbor
+
+
   - term: decision tree
     definition: a learning method using tree-like decision graph
     fi: päätöspuu
@@ -771,7 +783,7 @@ glossary:
 
   - term: multilayer perceptron
     abbreviation: MLP
-    fi: monikerroksinen perseptroniverkko
+    fi: monikerrospäättelin, monikerroksinen perseptroniverkko
     de: mehrlagiges perzeptron
     es: perceptrón multicapa
     fr: perceptron multicouche
@@ -1257,12 +1269,21 @@ glossary:
     wikipedia: https://en.wikipedia.org/wiki/Loss_function
     intra_link: cost function
 
+  - term: loss
+    fi: virhe, tappio
+
   - term: maximum likelihood estimator
     abbreviation: MLE
     fi: suurimman uskottavuuden estimaattori, SU-estimaattori
     de: maximum-likelihood-schätzer, ML-schätzer
     fr: estimateur du maximum de vraisemblance
     es: estimador máxima verosímilitud
+    intra_link: maximum likelihood
+
+  - term: maximum likelihood
+    abbreviation: ML
+    fi: suurin uskottavuus
+    intra_link: maximum likelihood estimator
 
   - term: log-likelihood
     fi: logiritminen uskottavuus, log-uskottavuus
@@ -1335,6 +1356,7 @@ glossary:
 
   - term: independent component analysis
     abbreviation: ICA
+    fi: riippumattomien komponenttien analyysi
 
   - term: linear discriminant analysis
     abbreviation: LDA
@@ -1588,7 +1610,7 @@ glossary:
 
   - term: long short-term memory
     abbreviation: LSTM
-    fi: pitkän ja lyhyen aikavälin muistiverkko, pitkä lyhytkestomuisti
+    fi: pitkän ja lyhyen aikavälin muistiverkko, pitkä lyhytkestomuisti, pitkä lyhytkestoinen muisti
     de: langes kurzzeitgedächtnis
     wikipedia: https://en.wikipedia.org/wiki/Long_short-term_memory
     intra_link: deep neural network, neural network
@@ -1677,11 +1699,12 @@ glossary:
   - term: ensemble learning
     definition: use multiple learning algorithms to obtain better predictive performance than any of the constituent learning algorithms alone
     wikipedia: https://en.wikipedia.org/wiki/Ensemble_learning
+    fi: joukkio-oppiminen
     fr: apprentissage ensembliste
 
   - term: epoch
     definition: while traning neural networks, one pass of the full training set
-    fi: opetuskierros
+    fi: opetuskierros, epokki
     pl: epoka
     wiktionary: https://en.wiktionary.org/wiki/epoch
     intra_link: deep neural network, neural network
@@ -2002,6 +2025,9 @@ glossary:
     es: datos de entrenamiento
     intra_link: training set
 
+  - term: traininig sample
+    fi: opetusnäyte
+
   - term: testing data
     intra_link: test set
 
@@ -2294,6 +2320,7 @@ glossary:
 
   - term: local binary patterns
     abbreviation: LBP
+    fi: paikalliset binääripiirteet
     fr: motif binaire local
     wikipedia: https://en.wikipedia.org/wiki/Local_binary_patterns
 
@@ -2343,6 +2370,9 @@ glossary:
     fr: algorithme espérance-maximisation
     wikipedia: https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm
 
+  - term: expectation value
+    fi: odotusarvo
+
   - term: sinusoidal modeling
     wikipedia: https://en.wikipedia.org/wiki/Sinusoidal_model
 
@@ -2379,7 +2409,7 @@ glossary:
 
   - term: domain adaptation
     definition: Machine learning field to deal with cases in which a model trained on source distribution is used on different target distribution
-    fi: kohdesopeutus
+    fi: kohdesopeutus, uuteen ongelmaan adaptoituminen
     fr: Adaptation de domaine
     es: adaptación de dominio
     wikipedia: https://en.wikipedia.org/wiki/Domain_adaptation
@@ -2626,7 +2656,7 @@ glossary:
 
   - term: self-supervised learning
     abbreviation: SSL
-    fi: itseohjautuva oppiminen
+    fi: itseohjautuva oppiminen, itseohjattu oppiminen
     es: Aprendizaje autosupervisado
     fr: Apprentissage auto-supervisé
     de: selbstüberwachtes lernen
@@ -2638,6 +2668,7 @@ glossary:
     definition: Extraction of the meaning out of the speech by using automatic speech recognition and natural language understanding.
 
   - term: transformer
+    fi: muuntuja, muuntaja
     es: transformador
     fr: transformeur
     definition: Deep learning model that is utilizing self-attention mechanism to solve sequence-to-sequence task.
@@ -2747,6 +2778,13 @@ glossary:
     fr: entropie croisée
     wikipedia: https://en.wikipedia.org/wiki/Cross-entropy
 
+  - term: cross-entropy loss
+    fi: ristientropiavirhe
+    intra_link: cross-entropy, entropy
+
+  - term: entropy
+    fi: entropia
+
   - term: gradient descent
     fi: gradienttimenetelmä
     de: gradientenverfahren
@@ -2756,7 +2794,7 @@ glossary:
 
   - term: stochastic gradient descent
     abbreviation: SGD
-    fi: stokastinen gradienttimenetelmä
+    fi: laskevan gradientin menetelmä, stokastinen gradienttimenetelmä
     es: descenso de gradiente estocástico
     fr: algorithme du gradient stochastique
     wikipedia: https://en.wikipedia.org/wiki/Stochastic_gradient_descent
@@ -2856,8 +2894,14 @@ glossary:
     fi: additiivinen malli, summautuva malli
 
   - term: agglomerative hierarchical clustering
-    fi: kokoava hierarkkinen ryhmittely
+    fi: kasaantuva hierarkkinen ryvästys, kokoava hierarkkinen ryhmittely
     wikipedia: https://en.wikipedia.org/wiki/Hierarchical_clustering
+
+  - term: hierarchical clustering
+    fi: hierarkkinen ryvästys
+
+  - term: divisive hierarchical clustering
+    fi: jakava hierarkkinen ryvästys
 
   - term: aliasing
     fi: laskostuminen
@@ -2867,7 +2911,7 @@ glossary:
     wikipedia: https://en.wikipedia.org/wiki/Aliasing
 
   - term: attribute
-    fi: ominaisuus, piirre
+    fi: ominaisuus, piirre, attribuutti
 
   - term: decision function
     fi: päätössääntö, päätösfunktio
@@ -2880,6 +2924,12 @@ glossary:
 
   - term: distance measure
     fi: etäisyysmitta
+
+  - term: distance metric
+    fi: etäisyysmetriikka
+
+  - term: angular distance
+    fi: kulmaetäisyys
 
   - term: duration
     fi: kesto
@@ -2938,7 +2988,7 @@ glossary:
 
   - term: maximum a posteriori estimator
     abbreviation: MAP estimator
-    fi: suurimman posterioritiheyden estimaattori, MAP-estimaattori
+    fi: suurimman posterioritiheyden estimaattori, MAP-estimaattori, maksimaalinen a posteriori estimaattori
     wikipedia: https://en.wikipedia.org/wiki/Maximum_a_posteriori_estimation
 
   - term: mean absolute error
@@ -3127,3 +3177,108 @@ glossary:
 
   - term: visualisation, visualization
     fi: visualisointi
+
+  - term: data visualization
+    fi: tiedon visualisointi
+
+  - term: machine vision
+    fi: tietokonenäkö, konenäkö
+
+  - term: speech and audio analysis
+    fi: puheen- ja äänenkäsittely
+
+  - term: closed world problem
+    fi: suljetun maailman ongelma
+
+  - term: open world problem
+    fi: avoimen maailman ongelma
+
+  - term: lazy learner
+    fi: laiska oppija
+
+  - term: performance metric
+    fi: tulosmittari
+
+  - term: classification accuracy
+    fi: luokittelutarkkuus
+    intra_link: accuracy
+
+  - term: softmax
+    fi: pehmeä maksimi
+
+  - term: conditional probability
+    fi: ehdollinen todennäköisyys
+
+  - term: histogram
+    fi: histogrammi
+
+  - term: variance
+    fi: varianssi
+
+  - term: multi-modal
+    fi: monimoodinen
+
+  - term: unimodal
+    fi: yksimoodinen
+
+  - term: converged
+    fi: koncergoitunut
+
+  - term: intrinsic dimension
+    fi: sisäinen ulottuvuus
+
+  - term: hard-coded
+    fi: muuttumaton
+
+  - term: forward pass
+    fi: eteenpäin syöttö
+
+  - term: backward pass
+    fi: takaisinpäin syöttö
+
+  - term: ground-truth
+    fi: todellinen
+
+  - term: shallow network
+
+  - term: graphical processing unit
+    abbreviation: GPU
+    fi: grafiikkakiihdytin
+
+  - term: application programming interface
+    abbreviation: API
+    fi: ohjelmointikäyttöliittymä
+
+  - term: computer science
+    fi: tietojenkäsittely
+
+  - term: data structure
+    fi: tietorakenne
+
+  - term: consistent
+    fi: yhtenäinen
+
+  - term: node
+    fi: solmu
+
+  - term: branch
+    fi: haara
+
+  - term: leaf node
+    fi: lehtisolmu
+
+  - term: travelling salesman problem
+    fi: kauppamatkustajaongelma
+
+  - term: information theory
+    fi: informaatioteoria
+
+  - term: post-pruning
+    fi: jälkikäteiskoestaminen
+
+  - term: backbone network
+    fi: runkoverkko
+
+  - term: neural autoencoder
+    fi: neuraalinen autoenkooderi
+
