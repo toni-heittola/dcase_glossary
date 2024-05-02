@@ -3180,9 +3180,13 @@ glossary:
 
   - term: data visualization
     fi: tiedon visualisointi
+    wikipedia: https://en.wikipedia.org/wiki/Data_and_information_visualization
 
   - term: machine vision
     fi: tietokonenäkö, konenäkö
+    es: visión de máquina
+    fr: vision industrielle
+    wikipedia: https://en.wikipedia.org/wiki/Machine_vision
 
   - term: speech and audio analysis
     fi: puheen- ja äänenkäsittely
@@ -3205,12 +3209,21 @@ glossary:
 
   - term: softmax
     fi: pehmeä maksimi
+    wikipedia: https://en.wikipedia.org/wiki/Softmax_function
 
   - term: conditional probability
     fi: ehdollinen todennäköisyys
+    de: bedingte wahrscheinlichkeit
+    es: probabilidad condicionada
+    fr: probabilité conditionnelle
+    wikipedia: https://en.wikipedia.org/wiki/Conditional_probability
 
   - term: histogram
     fi: histogrammi
+    de: histogramm
+    es: histograma
+    fr: histogramme
+    wikipedia: https://en.wikipedia.org/wiki/Histogram
 
   - term: variance
     fi: varianssi
@@ -3226,6 +3239,7 @@ glossary:
 
   - term: intrinsic dimension
     fi: sisäinen ulottuvuus
+    wikipedia: https://en.wikipedia.org/wiki/Intrinsic_dimension
 
   - term: hard-coded
     fi: muuttumaton
@@ -3244,16 +3258,31 @@ glossary:
   - term: graphical processing unit
     abbreviation: GPU
     fi: grafiikkakiihdytin
+    de: grafikprozessor
+    es: unidad de procesamiento gráfico
+    fr: processeur graphique
+    wikipedia: https://en.wikipedia.org/wiki/Graphics_processing_unit
 
   - term: application programming interface
     abbreviation: API
     fi: ohjelmointikäyttöliittymä
+    de: programmierschnittstelle
+
+    wikipedia: https://en.wikipedia.org/wiki/API
 
   - term: computer science
     fi: tietojenkäsittely
+    de: informatik
+    es: ciencias de la computación
+    fr: informatique
+    wikipedia: https://en.wikipedia.org/wiki/Computer_science
 
   - term: data structure
     fi: tietorakenne
+    de: datenstruktur
+    es: estructura de datos
+    fr: structure de données
+    wikipedia: https://en.wikipedia.org/wiki/Data_structure
 
   - term: consistent
     fi: yhtenäinen
@@ -3269,9 +3298,17 @@ glossary:
 
   - term: travelling salesman problem
     fi: kauppamatkustajaongelma
+    de: problem des handlungsreisenden
+    es: problema del viajante
+    fr: problème du voyageur de commerce
+    wikipedia: https://en.wikipedia.org/wiki/Travelling_salesman_problem
 
   - term: information theory
     fi: informaatioteoria
+    de: informationstheorie
+    es: teoría de la información
+    fr: théorie de l'information
+    wikipedia: https://en.wikipedia.org/wiki/Information_theory
 
   - term: post-pruning
     fi: jälkikäteiskoestaminen
