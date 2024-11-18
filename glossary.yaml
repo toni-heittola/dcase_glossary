@@ -3318,4 +3318,23 @@ glossary:
 
   - term: neural autoencoder
     fi: neuraalinen autoenkooderi
+    wikipedia: https://en.wikipedia.org/wiki/Autoencoder
+    intra_link: autoencoder
 
+  - term: autoencoder
+    fi: autoenkooderi
+    es: autocodificador
+    fr: auto-encodeur
+    wikipedia: https://en.wikipedia.org/wiki/Autoencoder
+    intra_link: neural autoencoder
+
+  - term: foundation model
+    fi: perustamalli, kehittynyt tekoälymalli
+    es: modelos fundacionales
+    fr: modèle de fondation
+    wikipedia: https://en.wikipedia.org/wiki/Foundation_model
+
+  - term: graph neural network
+    abbreviation: GNN
+    fi: graafineuroverkko, graaffinen neuroverkko, kuvaaja neuroverkko
+    wikipedia: https://en.wikipedia.org/wiki/Graph_neural_network
