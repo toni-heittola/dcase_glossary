@@ -3353,3 +3353,7 @@ glossary:
 
   - term: contrastive learning
     fi: kontrastiivinen oppiminen
+
+  - term: embedding model
+    fi: upotusmalli
+
