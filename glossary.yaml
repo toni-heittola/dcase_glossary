@@ -2860,6 +2860,18 @@ glossary:
     es: modelación del lenguaje
     fr: modèle de langage
     wikipedia: https://en.wikipedia.org/wiki/Language_model
+    intra_link: large language model, small language model
+
+  - term: large language model
+    abbreviation: LLM
+    fi: suuri kielimalli
+    wikipedia: https://en.wikipedia.org/wiki/Large_language_model
+    intra_link: language model, small language model
+
+  - term: small language model
+    abbreviation: SLM
+    fi: pieni kielimalli
+    intra_link: language model, large language model
 
   - term: algorithm
     fi: algoritmi
@@ -3338,3 +3350,6 @@ glossary:
     abbreviation: GNN
     fi: graafineuroverkko, graaffinen neuroverkko, kuvaaja neuroverkko
     wikipedia: https://en.wikipedia.org/wiki/Graph_neural_network
+
+  - term: contrastive learning
+    fi: kontrastiivinen oppiminen
