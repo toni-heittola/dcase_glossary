@@ -406,10 +406,6 @@ glossary:
     es: aprendizaje profundo
     wikipedia: https://en.wikipedia.org/wiki/Deep_learning
 
-  - term: machine learning
-    fi: koneoppiminen
-    intra_link: deep machine learning
-
   - term: deep machine learning
     abbreviation: DML
     intra_link: deep learning
@@ -440,6 +436,7 @@ glossary:
     es: aprendizaje automático
     fr: apprentissage automatique
     pl: uczenie maszynowe
+    intra_link: deep machine learning
     wikipedia: https://en.wikipedia.org/wiki/Machine_learning
 
   - term: crowdsourcing
@@ -1180,9 +1177,6 @@ glossary:
     wikipedia: https://en.wikipedia.org/wiki/Cluster_analysis
     wiktionary: https://en.wiktionary.org/wiki/clustering
 
-  - term: cluster analysis
-    fi: ryhmittelyanalyysi
-
   - term: spectral clustering
     definition: grouping related examples together using the eigenvalues of similarity matrix
     es: Agrupamiento espectral
@@ -1354,10 +1348,6 @@ glossary:
     es: análisis de componentes principales
     wikipedia: https://en.wikipedia.org/wiki/Principal_component_analysis
 
-  - term: independent component analysis
-    abbreviation: ICA
-    fi: riippumattomien komponenttien analyysi
-
   - term: linear discriminant analysis
     abbreviation: LDA
     fi: lineaarinen erottelukyky analyysi
@@ -1380,7 +1370,7 @@ glossary:
     pl: efekt losowy
 
   - term: randomization
-    fi: satunnaistaminen
+    fi: satunnaistaminen, satunnaistus
     de: zufallszuteilung, randomisierung
     fr: randomisation, arrangement au hasard, caractère aléatoire
     es: aleatorización
@@ -1563,13 +1553,6 @@ glossary:
     fr: classification fausse
     es: clasificación errónea
     wiktionary: https://en.wiktionary.org/wiki/misclassification
-
-  - term: reproducibility
-    fi: toistettavuus
-    de: reproduzierbarkeit, vergleichbarkeit
-    fr: reproductibilité
-    es: reproducibilidad
-    wiktionary: https://en.wiktionary.org/wiki/reproducibility
 
   - term: similarity
     fi: samanlaisuus, samankaltaisuus, yhtäläisyys
@@ -1920,9 +1903,6 @@ glossary:
     pl: prawdopodobieństwo a posteriori
     wikipedia: https://en.wikipedia.org/wiki/Posterior_probability
 
-  - term: probability
-    fi: todennäköisyys
-
   - term: evaluation metric
 
   - term: majority voting
@@ -2053,6 +2033,7 @@ glossary:
     intra_link: ground truth, annotation
 
   - term: ground truth
+    fi: todellinen
     intra_link: reference label, annotation
 
   - term: weak annotation
@@ -2534,9 +2515,6 @@ glossary:
   - term: robust estimator
     fi: vakaa estimaattori, robusti estimaattori
 
-  - term: robustness
-    fi: vakaus, robustisuus
-
   - term: audio analysis
     fi: äänen analyysi
     es: análisis auditivo
@@ -2943,9 +2921,6 @@ glossary:
   - term: angular distance
     fi: kulmaetäisyys
 
-  - term: duration
-    fi: kesto
-
   - term: envelope function
     fi: verhofunktio
 
@@ -2989,10 +2964,6 @@ glossary:
   - term: labeled data
     fi: nimiöity data
 
-  - term: latent variable
-    fi: piilomuuttuja
-    wikipedia: https://en.wikipedia.org/wiki/Latent_and_observable_variables
-
   - term: leave-one-out cross-validation
     abbreviation: LOOCV
     fi: yksi-pois-ristiinvalidointi, yksittäisristiinvalidointi
@@ -3026,12 +2997,6 @@ glossary:
   - term: pilot study
     fi: esitutkimus, pilotti
 
-  - term: pruning
-    fi: karsinta
-
-  - term: randomization
-    fi: satunnaistus
-
   - term: randomness
     fi: satunnaisuus
     de: zufall
@@ -3058,9 +3023,11 @@ glossary:
     fi: toistettavuus
 
   - term: reproducibility
-    fi: uusittavuus
-    de: reproduzierbarkeit
+    fi: uusittavuus, toistettavuus
+    de: reproduzierbarkeit, vergleichbarkeit
     fr: reproductibilité
+    es: reproducibilidad
+    wiktionary: https://en.wiktionary.org/wiki/reproducibility
     wikipedia: https://en.wikipedia.org/wiki/Reproducibility
 
   - term: sample space
@@ -3095,13 +3062,6 @@ glossary:
 
   - term: statistical
     fi: tilastollinen, tilastotieteellinen
-
-  - term: statistical significance
-    fi: tilastollinen merkitsevyys
-    de: statistische signifikanz
-    es: significación estadística
-    fr: signification statistique
-    wikipedia: https://en.wikipedia.org/wiki/Statistical_significance
 
   - term: stochastic
     fi: stokastinen, satunnainen
@@ -3151,13 +3111,6 @@ glossary:
 
   - term: tolerance
     fi: toleranssi
-
-  - term: transfer function
-    fi: siirtofunktio
-    de: übertragungsfunktion
-    es: función de transferencia
-    fr: fonction de transfert
-    wikipedia: https://en.wikipedia.org/wiki/Transfer_function
 
   - term: unbalanced data
     fi: epätasapainoinen aineisto
@@ -3261,9 +3214,6 @@ glossary:
 
   - term: backward pass
     fi: takaisinpäin syöttö
-
-  - term: ground-truth
-    fi: todellinen
 
   - term: shallow network
 
